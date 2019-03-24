@@ -1,0 +1,1337 @@
+<!-- Copyright 2001-2016 Opta Sportsdata Ltd. All rights reserved. --><!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a02.nexus.opta.net
+     production time:    20161202T090651,965Z
+     production module:  Opta::Feed::XML::Soccer::F24
+--><Games timestamp="">
+  <Game id="" away_team_id="" away_team_name="" competition_id="" competition_name="" game_date="" home_team_id="" home_team_name="" matchday="" period_1_start="" period_2_start="" season_id="" season_name="">
+    <Event id="1273539596" event_id="149" type_id="1" period_id="1" min="16" sec="46" player_id="9980" team_id="148" outcome="0" x="63.9" y="41.5" timestamp="" last_modified="" version="1471180635123">
+      <Q id="1072503433" qualifier_id="5"/>
+      <Q id="413957330" qualifier_id="155"/>
+      <Q id="1753987908" qualifier_id="212" value="26.5"/>
+      <Q id="736792328" qualifier_id="141" value="58.8"/>
+      <Q id="247565947" qualifier_id="140" value="86.5"/>
+      <Q id="1916282819" qualifier_id="213" value="0.5"/>
+      <Q id="1364259608" qualifier_id="152"/>
+      <Q id="267456351" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="1123235964" event_id="279" type_id="44" period_id="1" min="16" sec="48" player_id="168568" team_id="143" outcome="1" x="12.6" y="38.4" timestamp="" last_modified="" version="1471182567542">
+      <Q id="1831462194" qualifier_id="285"/>
+      <Q id="1205705974" qualifier_id="233" value="301"/>
+      <Q id="1323670578" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1289446" event_id="301" type_id="44" period_id="1" min="16" sec="48" player_id="170034" team_id="148" outcome="0" x="87.4" y="61.6" timestamp="" last_modified="" version="1471182566166">
+      <Q id="247457625" qualifier_id="286"/>
+      <Q id="1588156035" qualifier_id="56" value="Center"/>
+      <Q id="618345020" qualifier_id="233" value="279"/>
+    </Event>
+    <Event id="1243377840" event_id="177" type_id="12" period_id="1" min="16" sec="49" player_id="168568" team_id="143" outcome="1" x="10.4" y="38.2" timestamp="" last_modified="" version="1471181396307">
+      <Q id="773789077" qualifier_id="56" value="Back"/>
+      <Q id="1577857858" qualifier_id="213" value="5.1"/>
+      <Q id="759777798" qualifier_id="140" value="20.4"/>
+      <Q id="1786261241" qualifier_id="141" value="2.7"/>
+      <Q id="1211769768" qualifier_id="212" value="26.3"/>
+      <Q id="293681174" qualifier_id="15"/>
+    </Event>
+    <Event id="819945595" event_id="178" type_id="49" period_id="1" min="16" sec="52" player_id="166552" team_id="143" outcome="1" x="19.7" y="2.1" timestamp="" last_modified="" version="1471181398373"/>
+    <Event id="1092943814" event_id="179" type_id="3" period_id="1" min="16" sec="53" player_id="166552" team_id="143" outcome="0" x="20.9" y="1.6" timestamp="" last_modified="" version="1471180639673">
+      <Q id="857222008" qualifier_id="285"/>
+      <Q id="1989006144" qualifier_id="211"/>
+      <Q id="1792624125" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1091336007" event_id="150" type_id="5" period_id="1" min="16" sec="54" player_id="171101" team_id="148" outcome="1" x="72.2" y="101.7" timestamp="" last_modified="" version="1471181585895">
+      <Q id="1604307744" qualifier_id="56" value="Left"/>
+      <Q id="1716470665" qualifier_id="233" value="180"/>
+    </Event>
+    <Event id="311025042" event_id="180" type_id="5" period_id="1" min="16" sec="54" player_id="166552" team_id="143" outcome="0" x="27.8" y="-1.7" timestamp="" last_modified="" version="1471180656562">
+      <Q id="1952333858" qualifier_id="56" value="Back"/>
+      <Q id="551584842" qualifier_id="233" value="150"/>
+    </Event>
+    <Event id="641730282" event_id="151" type_id="1" period_id="1" min="17" sec="10" player_id="43024" team_id="148" outcome="0" x="68.0" y="100.0" timestamp="" last_modified="" version="1471180657844">
+      <Q id="119653266" qualifier_id="213" value="5.8"/>
+      <Q id="1792403572" qualifier_id="212" value="8.8"/>
+      <Q id="1346419793" qualifier_id="56" value="Left"/>
+      <Q id="1341470419" qualifier_id="140" value="75.3"/>
+      <Q id="2056701904" qualifier_id="107"/>
+      <Q id="1380746698" qualifier_id="141" value="95.6"/>
+    </Event>
+    <Event id="1029813864" event_id="181" type_id="8" period_id="1" min="17" sec="11" player_id="54772" team_id="143" outcome="1" x="17.9" y="4.3" timestamp="" last_modified="" version="1471180657480">
+      <Q id="2040804823" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1307922462" event_id="182" type_id="49" period_id="1" min="17" sec="12" player_id="54772" team_id="143" outcome="1" x="22.2" y="8.5" timestamp="" last_modified="" version="1471180658079"/>
+    <Event id="1411077785" event_id="183" type_id="1" period_id="1" min="17" sec="12" player_id="54772" team_id="143" outcome="1" x="22.8" y="8.8" timestamp="" last_modified="" version="1471180662272">
+      <Q id="766396802" qualifier_id="213" value="6.3"/>
+      <Q id="472328299" qualifier_id="140" value="35.2"/>
+      <Q id="184472398" qualifier_id="141" value="8.2"/>
+      <Q id="1795405872" qualifier_id="212" value="13.0"/>
+      <Q id="1804264834" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="554182152" event_id="184" type_id="1" period_id="1" min="17" sec="16" player_id="59966" team_id="143" outcome="1" x="33.0" y="9.8" timestamp="" last_modified="" version="1471180663432">
+      <Q id="1426912029" qualifier_id="56" value="Back"/>
+      <Q id="154918445" qualifier_id="212" value="6.5"/>
+      <Q id="1669805721" qualifier_id="140" value="26.8"/>
+      <Q id="1254080291" qualifier_id="141" value="9.2"/>
+      <Q id="1193439361" qualifier_id="213" value="3.2"/>
+    </Event>
+    <Event id="750806790" event_id="185" type_id="1" period_id="1" min="17" sec="17" player_id="54772" team_id="143" outcome="1" x="26.8" y="9.2" timestamp="" last_modified="" version="1471180667768">
+      <Q id="470666714" qualifier_id="1"/>
+      <Q id="365344339" qualifier_id="213" value="6.2"/>
+      <Q id="544451437" qualifier_id="140" value="67.7"/>
+      <Q id="1757558403" qualifier_id="212" value="43.0"/>
+      <Q id="834009742" qualifier_id="56" value="Right"/>
+      <Q id="1019727151" qualifier_id="155"/>
+      <Q id="97389545" qualifier_id="141" value="7.0"/>
+    </Event>
+    <Event id="753678969" event_id="186" type_id="1" period_id="1" min="17" sec="22" player_id="169007" team_id="143" outcome="0" x="67.7" y="7.0" timestamp="" last_modified="" version="1471180668313">
+      <Q id="1647716093" qualifier_id="141" value="8.2"/>
+      <Q id="1674162772" qualifier_id="212" value="2.6"/>
+      <Q id="279303960" qualifier_id="236"/>
+      <Q id="1723850750" qualifier_id="140" value="70.1"/>
+      <Q id="1136491942" qualifier_id="233" value="152"/>
+      <Q id="201068409" qualifier_id="213" value="0.3"/>
+      <Q id="1653387442" qualifier_id="286"/>
+      <Q id="1170280905" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="1210486713" event_id="152" type_id="74" period_id="1" min="17" sec="22" player_id="170034" team_id="148" outcome="1" x="28.3" y="89.3" timestamp="" last_modified="" version="1471181069119">
+      <Q id="345507916" qualifier_id="233" value="186"/>
+      <Q id="504585221" qualifier_id="285"/>
+      <Q id="314224211" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1665063362" event_id="153" type_id="5" period_id="1" min="17" sec="23" player_id="170034" team_id="148" outcome="0" x="19.8" y="101.6" timestamp="" last_modified="" version="1471181585896">
+      <Q id="1393887340" qualifier_id="56" value="Back"/>
+      <Q id="1143127022" qualifier_id="233" value="187"/>
+    </Event>
+    <Event id="472781576" event_id="187" type_id="5" period_id="1" min="17" sec="23" player_id="169007" team_id="143" outcome="1" x="80.2" y="-1.6" timestamp="" last_modified="" version="1471180680939">
+      <Q id="335910722" qualifier_id="56" value="Right"/>
+      <Q id="2042643616" qualifier_id="233" value="153"/>
+    </Event>
+    <Event id="1071150001" event_id="188" type_id="1" period_id="1" min="17" sec="35" player_id="54772" team_id="143" outcome="1" x="79.8" y="0.0" timestamp="" last_modified="" version="1471180682816">
+      <Q id="184233045" qualifier_id="107"/>
+      <Q id="1344904605" qualifier_id="213" value="3.0"/>
+      <Q id="1177170376" qualifier_id="56" value="Right"/>
+      <Q id="235581571" qualifier_id="140" value="58.1"/>
+      <Q id="1729773047" qualifier_id="141" value="3.7"/>
+      <Q id="1013274112" qualifier_id="212" value="23.0"/>
+      <Q id="2069395213" qualifier_id="1"/>
+    </Event>
+    <Event id="264663833" event_id="189" type_id="1" period_id="1" min="17" sec="37" player_id="59963" team_id="143" outcome="1" x="56.8" y="9.4" timestamp="" last_modified="" version="1471180685473">
+      <Q id="2136725051" qualifier_id="140" value="58.7"/>
+      <Q id="882993089" qualifier_id="212" value="13.3"/>
+      <Q id="861327223" qualifier_id="56" value="Center"/>
+      <Q id="7555909" qualifier_id="213" value="1.4"/>
+      <Q id="1519680934" qualifier_id="141" value="28.8"/>
+    </Event>
+    <Event id="873403342" event_id="154" type_id="45" period_id="1" min="17" sec="39" player_id="51327" team_id="148" outcome="0" x="24.5" y="84.1" timestamp="" last_modified="" version="1471181070015">
+      <Q id="699720343" qualifier_id="233" value="190"/>
+      <Q id="32825941" qualifier_id="56" value="Back"/>
+      <Q id="2006573103" qualifier_id="285"/>
+    </Event>
+    <Event id="1896310455" event_id="190" type_id="3" period_id="1" min="17" sec="39" player_id="168568" team_id="143" outcome="1" x="70.2" y="17.2" timestamp="" last_modified="" version="1471180689613">
+      <Q id="1181028158" qualifier_id="233" value="154"/>
+      <Q id="1287514904" qualifier_id="286"/>
+      <Q id="716402857" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="2144562543" event_id="191" type_id="1" period_id="1" min="17" sec="42" player_id="168568" team_id="143" outcome="1" x="80.1" y="12.3" timestamp="" last_modified="" version="1471180689302">
+      <Q id="1774748885" qualifier_id="213" value="5.4"/>
+      <Q id="58956191" qualifier_id="212" value="8.2"/>
+      <Q id="138037105" qualifier_id="56" value="Right"/>
+      <Q id="1579430787" qualifier_id="140" value="84.8"/>
+      <Q id="609102978" qualifier_id="141" value="2.6"/>
+    </Event>
+    <Event id="2137746925" event_id="192" type_id="1" period_id="1" min="17" sec="43" player_id="54772" team_id="143" outcome="1" x="83.4" y="3.5" timestamp="" last_modified="" version="1471180690264">
+      <Q id="711899329" qualifier_id="56" value="Right"/>
+      <Q id="2035509659" qualifier_id="212" value="6.4"/>
+      <Q id="263728126" qualifier_id="141" value="12.3"/>
+      <Q id="1278351193" qualifier_id="213" value="1.9"/>
+      <Q id="1744048148" qualifier_id="140" value="81.2"/>
+    </Event>
+    <Event id="1259491900" event_id="193" type_id="1" period_id="1" min="17" sec="44" player_id="168568" team_id="143" outcome="0" x="81.2" y="13.4" timestamp="" last_modified="" version="1471180692157">
+      <Q id="1800960068" qualifier_id="212" value="28.8"/>
+      <Q id="636148996" qualifier_id="56" value="Center"/>
+      <Q id="429750030" qualifier_id="155"/>
+      <Q id="268216205" qualifier_id="2"/>
+      <Q id="1671704539" qualifier_id="213" value="1.4"/>
+      <Q id="1387056459" qualifier_id="141" value="54.8"/>
+      <Q id="1518277" qualifier_id="140" value="86.8"/>
+    </Event>
+    <Event id="484855456" event_id="155" type_id="12" period_id="1" min="17" sec="48" player_id="80799" team_id="148" outcome="1" x="14.3" y="41.0" timestamp="" last_modified="" version="1471180694623">
+      <Q id="536824781" qualifier_id="141" value="73.6"/>
+      <Q id="1220712693" qualifier_id="140" value="29.8"/>
+      <Q id="382376378" qualifier_id="56" value="Back"/>
+      <Q id="2050197897" qualifier_id="15"/>
+      <Q id="1751978800" qualifier_id="212" value="27.5"/>
+      <Q id="470893415" qualifier_id="213" value="0.9"/>
+    </Event>
+    <Event id="406209848" event_id="194" type_id="1" period_id="1" min="17" sec="49" player_id="59963" team_id="143" outcome="1" x="65.5" y="24.6" timestamp="" last_modified="" version="1471181005846">
+      <Q id="1895972766" qualifier_id="213" value="5.0"/>
+      <Q id="1352565371" qualifier_id="141" value="2.5"/>
+      <Q id="168236940" qualifier_id="56" value="Right"/>
+      <Q id="1795604960" qualifier_id="3"/>
+      <Q id="354378285" qualifier_id="140" value="69.8"/>
+      <Q id="656447788" qualifier_id="212" value="15.7"/>
+    </Event>
+    <Event id="86881344" event_id="195" type_id="1" period_id="1" min="17" sec="51" player_id="54772" team_id="143" outcome="1" x="69.0" y="2.5" timestamp="" last_modified="" version="1471180699815">
+      <Q id="1313249922" qualifier_id="141" value="12.9"/>
+      <Q id="346397367" qualifier_id="213" value="1.8"/>
+      <Q id="1101640571" qualifier_id="140" value="67.6"/>
+      <Q id="3356601" qualifier_id="212" value="7.2"/>
+      <Q id="2088075252" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="1839878199" event_id="196" type_id="1" period_id="1" min="17" sec="54" player_id="168568" team_id="143" outcome="0" x="66.5" y="20.0" timestamp="" last_modified="" version="1471181008047">
+      <Q id="979118047" qualifier_id="212" value="7.1"/>
+      <Q id="867069232" qualifier_id="56" value="Center"/>
+      <Q id="1737992382" qualifier_id="213" value="0.2"/>
+      <Q id="632690012" qualifier_id="141" value="22.1"/>
+      <Q id="1915134648" qualifier_id="140" value="73.1"/>
+    </Event>
+    <Event id="904559099" event_id="156" type_id="49" period_id="1" min="17" sec="56" player_id="9980" team_id="148" outcome="1" x="29.9" y="68.2" timestamp="" last_modified="" version="1471180715276"/>
+    <Event id="1865350495" event_id="157" type_id="1" period_id="1" min="17" sec="56" player_id="9980" team_id="148" outcome="1" x="31.5" y="65.1" timestamp="" last_modified="" version="1471180712864">
+      <Q id="1504177145" qualifier_id="140" value="37.7"/>
+      <Q id="213664087" qualifier_id="56" value="Back"/>
+      <Q id="1911924109" qualifier_id="141" value="74.6"/>
+      <Q id="1460729598" qualifier_id="212" value="9.2"/>
+      <Q id="402145160" qualifier_id="213" value="0.8"/>
+    </Event>
+    <Event id="1152173212" event_id="158" type_id="50" period_id="1" min="17" sec="56" player_id="214472" team_id="148" outcome="1" x="34.9" y="76.8" timestamp="" last_modified="" version="1471180719254">
+      <Q id="1047359555" qualifier_id="56" value="Back"/>
+      <Q id="659561155" qualifier_id="233" value="197"/>
+      <Q id="1841125546" qualifier_id="286"/>
+    </Event>
+    <Event id="766935408" event_id="197" type_id="7" period_id="1" min="17" sec="56" player_id="59963" team_id="143" outcome="1" x="65.1" y="23.2" timestamp="" last_modified="" version="1471180705910">
+      <Q id="1051689800" qualifier_id="285"/>
+      <Q id="620759372" qualifier_id="233" value="158"/>
+      <Q id="588522215" qualifier_id="56" value="Right"/>
+      <Q id="291106971" qualifier_id="167"/>
+    </Event>
+    <Event id="1380942622" event_id="159" type_id="5" period_id="1" min="18" sec="0" player_id="214472" team_id="148" outcome="1" x="45.8" y="-1.5" timestamp="" last_modified="" version="1471181585896">
+      <Q id="785950754" qualifier_id="233" value="198"/>
+      <Q id="677977368" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1334315671" event_id="198" type_id="5" period_id="1" min="18" sec="0" player_id="59963" team_id="143" outcome="0" x="54.2" y="101.5" timestamp="" last_modified="" version="1471180713114">
+      <Q id="1600854248" qualifier_id="233" value="159"/>
+      <Q id="60970182" qualifier_id="56" value="Left"/>
+    </Event>
+    <Event id="62871125" event_id="160" type_id="1" period_id="1" min="18" sec="21" player_id="80799" team_id="148" outcome="0" x="47.8" y="0.0" timestamp="" last_modified="" version="1471180728467">
+      <Q id="1750811158" qualifier_id="213" value="0.2"/>
+      <Q id="1444783359" qualifier_id="56" value="Right"/>
+      <Q id="1559430519" qualifier_id="140" value="69.5"/>
+      <Q id="1060692442" qualifier_id="107"/>
+      <Q id="1317204490" qualifier_id="141" value="4.6"/>
+      <Q id="822287011" qualifier_id="1"/>
+      <Q id="1495067462" qualifier_id="212" value="23.2"/>
+    </Event>
+    <Event id="981508559" event_id="199" type_id="1" period_id="1" min="18" sec="23" player_id="149519" team_id="143" outcome="1" x="35.2" y="94.8" timestamp="" last_modified="" version="1471180879470">
+      <Q id="315582905" qualifier_id="141" value="87.2"/>
+      <Q id="385641840" qualifier_id="3"/>
+      <Q id="1110246586" qualifier_id="140" value="45.7"/>
+      <Q id="2031528670" qualifier_id="56" value="Back"/>
+      <Q id="1819081260" qualifier_id="213" value="5.8"/>
+      <Q id="269702771" qualifier_id="212" value="12.2"/>
+    </Event>
+    <Event id="1071769923" event_id="232" type_id="1" period_id="1" min="18" sec="24" player_id="168568" team_id="143" outcome="0" x="45.6" y="90.5" timestamp="" last_modified="" version="1471343514609">
+      <Q id="71762750" qualifier_id="213" value="3.0"/>
+      <Q id="613828561" qualifier_id="212" value="1.1"/>
+      <Q id="359116170" qualifier_id="140" value="44.6"/>
+      <Q id="1077338918" qualifier_id="141" value="90.7"/>
+      <Q id="312336534" qualifier_id="56" value="Back"/>
+      <Q id="1837083573" qualifier_id="3"/>
+    </Event>
+    <Event id="525355250" event_id="161" type_id="61" period_id="1" min="18" sec="25" player_id="210460" team_id="148" outcome="1" x="56.1" y="10.3" timestamp="" last_modified="" version="1471343512085">
+      <Q id="2057824504" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="468515550" event_id="162" type_id="5" period_id="1" min="18" sec="26" player_id="210460" team_id="148" outcome="0" x="47.4" y="-1.4" timestamp="" last_modified="" version="1471180878279">
+      <Q id="1645483197" qualifier_id="233" value="200"/>
+      <Q id="108833663" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1003353499" event_id="200" type_id="5" period_id="1" min="18" sec="26" player_id="54772" team_id="143" outcome="1" x="52.6" y="101.4" timestamp="" last_modified="" version="1471181585897">
+      <Q id="485242191" qualifier_id="56" value="Left"/>
+      <Q id="1618498279" qualifier_id="233" value="162"/>
+    </Event>
+    <Event id="1924157150" event_id="201" type_id="1" period_id="1" min="18" sec="39" player_id="37832" team_id="143" outcome="1" x="51.0" y="100.0" timestamp="" last_modified="" version="1471182570676">
+      <Q id="1332019101" qualifier_id="56" value="Back"/>
+      <Q id="2120066358" qualifier_id="1"/>
+      <Q id="1742702148" qualifier_id="141" value="95.9"/>
+      <Q id="1538478831" qualifier_id="140" value="28.1"/>
+      <Q id="1845973568" qualifier_id="213" value="3.3"/>
+      <Q id="1645933253" qualifier_id="212" value="24.3"/>
+      <Q id="881033881" qualifier_id="107"/>
+    </Event>
+    <Event id="689577363" event_id="202" type_id="1" period_id="1" min="18" sec="40" player_id="52775" team_id="143" outcome="0" x="28.1" y="95.9" timestamp="" last_modified="" version="1471182571900">
+      <Q id="290948584" qualifier_id="213" value="0.2"/>
+      <Q id="1284244045" qualifier_id="141" value="97.8"/>
+      <Q id="1235212823" qualifier_id="212" value="8.6"/>
+      <Q id="165239585" qualifier_id="56" value="Back"/>
+      <Q id="1904873882" qualifier_id="140" value="36.2"/>
+    </Event>
+    <Event id="896097297" event_id="163" type_id="8" period_id="1" min="18" sec="41" player_id="38008" team_id="148" outcome="1" x="60.6" y="3.8" timestamp="" last_modified="" version="1471182573640">
+      <Q id="441195772" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="1645283173" event_id="164" type_id="5" period_id="1" min="18" sec="42" player_id="38008" team_id="148" outcome="0" x="65.0" y="-1.2" timestamp="" last_modified="" version="1471181585899">
+      <Q id="853196137" qualifier_id="233" value="203"/>
+      <Q id="872278219" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="221791659" event_id="203" type_id="5" period_id="1" min="18" sec="42" player_id="52775" team_id="143" outcome="1" x="35.0" y="101.2" timestamp="" last_modified="" version="1471180753997">
+      <Q id="1022839287" qualifier_id="56" value="Back"/>
+      <Q id="1273974719" qualifier_id="233" value="164"/>
+    </Event>
+    <Event id="2132279771" event_id="204" type_id="1" period_id="1" min="18" sec="50" player_id="37832" team_id="143" outcome="1" x="31.4" y="100.0" timestamp="" last_modified="" version="1471180757852">
+      <Q id="786862805" qualifier_id="141" value="70.8"/>
+      <Q id="758456066" qualifier_id="1"/>
+      <Q id="1324274391" qualifier_id="56" value="Center"/>
+      <Q id="697302786" qualifier_id="212" value="29.8"/>
+      <Q id="1755920682" qualifier_id="213" value="5.5"/>
+      <Q id="431043635" qualifier_id="107"/>
+      <Q id="56600721" qualifier_id="140" value="51.6"/>
+    </Event>
+    <Event id="1392926963" event_id="205" type_id="1" period_id="1" min="18" sec="52" player_id="59966" team_id="143" outcome="1" x="48.2" y="67.0" timestamp="" last_modified="" version="1471180761546">
+      <Q id="1635825127" qualifier_id="140" value="47.8"/>
+      <Q id="1151716375" qualifier_id="56" value="Back"/>
+      <Q id="1654083278" qualifier_id="212" value="16.5"/>
+      <Q id="1168562576" qualifier_id="213" value="4.7"/>
+      <Q id="1705060123" qualifier_id="141" value="42.7"/>
+    </Event>
+    <Event id="824735366" event_id="206" type_id="1" period_id="1" min="18" sec="55" player_id="168568" team_id="143" outcome="1" x="46.7" y="34.5" timestamp="" last_modified="" version="1471180763772">
+      <Q id="1084023279" qualifier_id="141" value="10.1"/>
+      <Q id="49112464" qualifier_id="213" value="4.6"/>
+      <Q id="662426495" qualifier_id="140" value="45.5"/>
+      <Q id="1905164035" qualifier_id="56" value="Back"/>
+      <Q id="1565809803" qualifier_id="212" value="16.6"/>
+    </Event>
+    <Event id="1586665530" event_id="207" type_id="1" period_id="1" min="18" sec="58" player_id="54772" team_id="143" outcome="1" x="52.5" y="5.0" timestamp="" last_modified="" version="1471180765818">
+      <Q id="18006228" qualifier_id="56" value="Center"/>
+      <Q id="1632454032" qualifier_id="213" value="1.6"/>
+      <Q id="294946527" qualifier_id="140" value="51.9"/>
+      <Q id="894458349" qualifier_id="212" value="13.0"/>
+      <Q id="1767431567" qualifier_id="141" value="24.1"/>
+    </Event>
+    <Event id="2072857743" event_id="208" type_id="1" period_id="1" min="19" sec="0" player_id="168568" team_id="143" outcome="1" x="51.9" y="24.1" timestamp="" last_modified="" version="1471180767074">
+      <Q id="615362114" qualifier_id="212" value="11.1"/>
+      <Q id="2104429128" qualifier_id="56" value="Center"/>
+      <Q id="1644165323" qualifier_id="140" value="50.6"/>
+      <Q id="531204612" qualifier_id="213" value="1.7"/>
+      <Q id="554069696" qualifier_id="141" value="40.3"/>
+    </Event>
+    <Event id="1106224417" event_id="209" type_id="1" period_id="1" min="19" sec="1" player_id="59963" team_id="143" outcome="1" x="50.8" y="41.0" timestamp="" last_modified="" version="1471180772202">
+      <Q id="1717547419" qualifier_id="141" value="66.3"/>
+      <Q id="1297856673" qualifier_id="56" value="Back"/>
+      <Q id="1204411090" qualifier_id="213" value="2.1"/>
+      <Q id="1822956214" qualifier_id="212" value="19.6"/>
+      <Q id="517714866" qualifier_id="140" value="41.9"/>
+    </Event>
+    <Event id="332745116" event_id="210" type_id="1" period_id="1" min="19" sec="6" player_id="52775" team_id="143" outcome="1" x="46.0" y="65.5" timestamp="" last_modified="" version="1471180774986">
+      <Q id="866285137" qualifier_id="140" value="52.3"/>
+      <Q id="918813531" qualifier_id="141" value="62.1"/>
+      <Q id="1340708278" qualifier_id="213" value="5.9"/>
+      <Q id="2072710746" qualifier_id="212" value="7.0"/>
+      <Q id="2103292855" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="833578815" event_id="211" type_id="1" period_id="1" min="19" sec="9" player_id="59963" team_id="143" outcome="1" x="49.0" y="65.2" timestamp="" last_modified="" version="1471180777204">
+      <Q id="965851652" qualifier_id="140" value="54.1"/>
+      <Q id="763902319" qualifier_id="213" value="5.1"/>
+      <Q id="88937723" qualifier_id="212" value="15.3"/>
+      <Q id="563740384" qualifier_id="141" value="44.2"/>
+      <Q id="963045614" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="1709074857" event_id="212" type_id="1" period_id="1" min="19" sec="11" player_id="168568" team_id="143" outcome="1" x="53.3" y="45.1" timestamp="" last_modified="" version="1471180778763">
+      <Q id="1937045493" qualifier_id="213" value="2.2"/>
+      <Q id="1314366468" qualifier_id="140" value="44.3"/>
+      <Q id="495765271" qualifier_id="56" value="Back"/>
+      <Q id="1818174984" qualifier_id="141" value="64.2"/>
+      <Q id="1030391592" qualifier_id="212" value="16.1"/>
+    </Event>
+    <Event id="1056655031" event_id="213" type_id="1" period_id="1" min="19" sec="13" player_id="59963" team_id="143" outcome="1" x="44.3" y="64.5" timestamp="" last_modified="" version="1471180781473">
+      <Q id="1054377640" qualifier_id="212" value="13.3"/>
+      <Q id="968975232" qualifier_id="141" value="83.5"/>
+      <Q id="1681189534" qualifier_id="213" value="1.3"/>
+      <Q id="641952048" qualifier_id="140" value="47.5"/>
+      <Q id="281388993" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="187026321" event_id="214" type_id="1" period_id="1" min="19" sec="15" player_id="52775" team_id="143" outcome="1" x="47.5" y="83.6" timestamp="" last_modified="" version="1471180783258">
+      <Q id="1538308164" qualifier_id="213" value="5.9"/>
+      <Q id="996185731" qualifier_id="56" value="Center"/>
+      <Q id="1742181761" qualifier_id="141" value="78.2"/>
+      <Q id="2051300237" qualifier_id="140" value="55.6"/>
+      <Q id="233042481" qualifier_id="212" value="9.3"/>
+    </Event>
+    <Event id="2000636643" event_id="165" type_id="45" period_id="1" min="19" sec="17" player_id="9980" team_id="148" outcome="0" x="45.3" y="20.5" timestamp="" last_modified="" version="1471180784537">
+      <Q id="1565697336" qualifier_id="233" value="215"/>
+      <Q id="1150239489" qualifier_id="56" value="Back"/>
+      <Q id="1975251883" qualifier_id="285"/>
+    </Event>
+    <Event id="97185348" event_id="215" type_id="3" period_id="1" min="19" sec="17" player_id="169007" team_id="143" outcome="1" x="54.7" y="79.5" timestamp="" last_modified="" version="1471180784536">
+      <Q id="1385316025" qualifier_id="286"/>
+      <Q id="1265450130" qualifier_id="233" value="165"/>
+      <Q id="1939983127" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="1927117856" event_id="216" type_id="1" period_id="1" min="19" sec="18" player_id="169007" team_id="143" outcome="1" x="57.6" y="72.6" timestamp="" last_modified="" version="1471180790817">
+      <Q id="985743269" qualifier_id="212" value="37.7"/>
+      <Q id="1705206337" qualifier_id="56" value="Left"/>
+      <Q id="1102189700" qualifier_id="213" value="0.3"/>
+      <Q id="1608141806" qualifier_id="141" value="86.8"/>
+      <Q id="758714232" qualifier_id="140" value="92.3"/>
+      <Q id="1159871795" qualifier_id="1"/>
+    </Event>
+    <Event id="406631834" event_id="217" type_id="1" period_id="1" min="19" sec="25" player_id="149519" team_id="143" outcome="1" x="89.3" y="93.8" timestamp="" last_modified="" version="1471180794256">
+      <Q id="395209998" qualifier_id="56" value="Left"/>
+      <Q id="1850705955" qualifier_id="213" value="2.7"/>
+      <Q id="1042464635" qualifier_id="141" value="96.9"/>
+      <Q id="954937791" qualifier_id="140" value="84.6"/>
+      <Q id="456928887" qualifier_id="212" value="5.4"/>
+    </Event>
+    <Event id="1982344373" event_id="218" type_id="1" period_id="1" min="19" sec="28" player_id="37832" team_id="143" outcome="0" x="83.1" y="96.8" timestamp="" last_modified="" version="1471180795142">
+      <Q id="1473782765" qualifier_id="213" value="4.8"/>
+      <Q id="757331736" qualifier_id="212" value="22.3"/>
+      <Q id="150031446" qualifier_id="56" value="Center"/>
+      <Q id="461179321" qualifier_id="140" value="84.3"/>
+      <Q id="40698430" qualifier_id="141" value="64.0"/>
+    </Event>
+    <Event id="1346009597" event_id="166" type_id="49" period_id="1" min="19" sec="31" player_id="214472" team_id="148" outcome="1" x="11.7" y="36.6" timestamp="" last_modified="" version="1471180796667"/>
+    <Event id="966507031" event_id="167" type_id="3" period_id="1" min="19" sec="31" player_id="214472" team_id="148" outcome="1" x="15.7" y="37.9" timestamp="" last_modified="" version="1471180800667">
+      <Q id="1978830622" qualifier_id="233" value="219"/>
+      <Q id="38967866" qualifier_id="285"/>
+      <Q id="332240682" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="263325584" event_id="219" type_id="45" period_id="1" min="19" sec="31" player_id="59966" team_id="143" outcome="0" x="84.3" y="62.1" timestamp="" last_modified="" version="1471180800679">
+      <Q id="1147526109" qualifier_id="56" value="Center"/>
+      <Q id="1989794111" qualifier_id="233" value="167"/>
+      <Q id="567136708" qualifier_id="286"/>
+    </Event>
+    <Event id="1883175266" event_id="168" type_id="1" period_id="1" min="19" sec="34" player_id="214472" team_id="148" outcome="0" x="22.5" y="23.1" timestamp="" last_modified="" version="1471181069119">
+      <Q id="1506113584" qualifier_id="233" value="220"/>
+      <Q id="267772061" qualifier_id="212" value="3.5"/>
+      <Q id="37337322" qualifier_id="56" value="Back"/>
+      <Q id="2130682897" qualifier_id="140" value="25.6"/>
+      <Q id="41665585" qualifier_id="286"/>
+      <Q id="178109245" qualifier_id="236"/>
+      <Q id="1790723663" qualifier_id="141" value="21.3"/>
+      <Q id="1640638077" qualifier_id="213" value="5.9"/>
+    </Event>
+    <Event id="1442718691" event_id="220" type_id="74" period_id="1" min="19" sec="34" player_id="169007" team_id="143" outcome="1" x="71.0" y="76.3" timestamp="" last_modified="" version="1471180801341">
+      <Q id="1607195317" qualifier_id="285"/>
+      <Q id="1061448850" qualifier_id="56" value="Center"/>
+      <Q id="2075463793" qualifier_id="233" value="168"/>
+    </Event>
+    <Event id="1366155533" event_id="169" type_id="3" period_id="1" min="19" sec="38" player_id="38008" team_id="148" outcome="1" x="20.2" y="3.7" timestamp="" last_modified="" version="1471180806482">
+      <Q id="207538828" qualifier_id="233" value="221"/>
+      <Q id="818575426" qualifier_id="56" value="Back"/>
+      <Q id="1881592294" qualifier_id="285"/>
+    </Event>
+    <Event id="1746547393" event_id="221" type_id="45" period_id="1" min="19" sec="38" player_id="169007" team_id="143" outcome="0" x="79.8" y="96.3" timestamp="" last_modified="" version="1471180806483">
+      <Q id="1501656923" qualifier_id="286"/>
+      <Q id="83110977" qualifier_id="56" value="Left"/>
+      <Q id="2117448161" qualifier_id="233" value="169"/>
+    </Event>
+    <Event id="1479230453" event_id="170" type_id="1" period_id="1" min="19" sec="40" player_id="38008" team_id="148" outcome="1" x="23.3" y="7.3" timestamp="" last_modified="" version="1471180808743">
+      <Q id="1961214160" qualifier_id="140" value="36.4"/>
+      <Q id="2040079914" qualifier_id="56" value="Back"/>
+      <Q id="696928513" qualifier_id="213" value="6.0"/>
+      <Q id="1867438623" qualifier_id="141" value="2.2"/>
+      <Q id="872374329" qualifier_id="212" value="14.2"/>
+    </Event>
+    <Event id="752133307" event_id="171" type_id="1" period_id="1" min="19" sec="43" player_id="9980" team_id="148" outcome="1" x="37.3" y="2.0" timestamp="" last_modified="" version="1471180812984">
+      <Q id="1785485062" qualifier_id="56" value="Right"/>
+      <Q id="1604070370" qualifier_id="140" value="78.9"/>
+      <Q id="870462502" qualifier_id="212" value="43.7"/>
+      <Q id="484851318" qualifier_id="141" value="2.5"/>
+      <Q id="329053939" qualifier_id="213" value="0.0"/>
+      <Q id="527808444" qualifier_id="1"/>
+    </Event>
+    <Event id="1438444294" event_id="172" type_id="61" period_id="1" min="19" sec="47" player_id="51327" team_id="148" outcome="0" x="75.0" y="2.8" timestamp="" last_modified="" version="1471180812984">
+      <Q id="29041324" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="935532925" event_id="173" type_id="5" period_id="1" min="19" sec="47" player_id="51327" team_id="148" outcome="0" x="78.2" y="-1.4" timestamp="" last_modified="" version="1471180823419">
+      <Q id="1162362306" qualifier_id="56" value="Right"/>
+      <Q id="440710915" qualifier_id="233" value="222"/>
+    </Event>
+    <Event id="155779416" event_id="222" type_id="5" period_id="1" min="19" sec="47" player_id="44488" team_id="143" outcome="1" x="21.8" y="101.4" timestamp="" last_modified="" version="1471181585899">
+      <Q id="336367385" qualifier_id="56" value="Back"/>
+      <Q id="1675356291" qualifier_id="233" value="173"/>
+    </Event>
+    <Event id="902090707" event_id="223" type_id="1" period_id="1" min="19" sec="57" player_id="37832" team_id="143" outcome="1" x="16.8" y="100.0" timestamp="" last_modified="" version="1471180826639">
+      <Q id="2058349505" qualifier_id="1"/>
+      <Q id="61033521" qualifier_id="141" value="73.9"/>
+      <Q id="376679845" qualifier_id="140" value="0.6"/>
+      <Q id="268156919" qualifier_id="212" value="25.4"/>
+      <Q id="1056997001" qualifier_id="107"/>
+      <Q id="686461797" qualifier_id="56" value="Back"/>
+      <Q id="387717908" qualifier_id="213" value="4.0"/>
+    </Event>
+    <Event id="2070178358" event_id="224" type_id="1" period_id="1" min="20" sec="1" player_id="59957" team_id="143" outcome="1" x="2.9" y="79.9" timestamp="" last_modified="" version="1471180887445">
+      <Q id="1812522575" qualifier_id="157"/>
+      <Q id="1985632104" qualifier_id="1"/>
+      <Q id="1952655668" qualifier_id="141" value="63.7"/>
+      <Q id="1647367263" qualifier_id="213" value="6.1"/>
+      <Q id="218737225" qualifier_id="56" value="Center"/>
+      <Q id="1963545463" qualifier_id="212" value="52.1"/>
+      <Q id="315512604" qualifier_id="140" value="51.4"/>
+    </Event>
+    <Event id="976117347" event_id="174" type_id="44" period_id="1" min="20" sec="3" player_id="171101" team_id="148" outcome="0" x="46.1" y="33.3" timestamp="" last_modified="" version="1471181070519">
+      <Q id="1298573741" qualifier_id="56" value="Back"/>
+      <Q id="1888621441" qualifier_id="233" value="225"/>
+      <Q id="1619782748" qualifier_id="285"/>
+    </Event>
+    <Event id="2060498516" event_id="225" type_id="44" period_id="1" min="20" sec="3" player_id="59966" team_id="143" outcome="1" x="52.6" y="65.2" timestamp="" last_modified="" version="1471180830374">
+      <Q id="405687555" qualifier_id="286"/>
+      <Q id="1150357259" qualifier_id="56" value="Center"/>
+      <Q id="1376096238" qualifier_id="233" value="174"/>
+    </Event>
+    <Event id="439573982" event_id="226" type_id="1" period_id="1" min="20" sec="4" player_id="59966" team_id="143" outcome="1" x="51.4" y="63.7" timestamp="" last_modified="" version="1471180830989">
+      <Q id="205491977" qualifier_id="212" value="8.0"/>
+      <Q id="801653300" qualifier_id="140" value="44.5"/>
+      <Q id="1574604233" qualifier_id="141" value="58.8"/>
+      <Q id="1103347743" qualifier_id="56" value="Back"/>
+      <Q id="1952891460" qualifier_id="3"/>
+      <Q id="1476067142" qualifier_id="156"/>
+      <Q id="476395934" qualifier_id="213" value="3.6"/>
+    </Event>
+    <Event id="45463675" event_id="227" type_id="1" period_id="1" min="20" sec="6" player_id="168568" team_id="143" outcome="1" x="44.6" y="59.7" timestamp="" last_modified="" version="1471180835679">
+      <Q id="401304128" qualifier_id="140" value="44.9"/>
+      <Q id="202811509" qualifier_id="56" value="Back"/>
+      <Q id="1912259417" qualifier_id="212" value="4.6"/>
+      <Q id="1761309361" qualifier_id="213" value="1.5"/>
+      <Q id="1654405445" qualifier_id="141" value="66.4"/>
+    </Event>
+    <Event id="1930220381" event_id="228" type_id="1" period_id="1" min="20" sec="10" player_id="169007" team_id="143" outcome="1" x="46.8" y="59.9" timestamp="" last_modified="" version="1471180836438">
+      <Q id="497560424" qualifier_id="212" value="10.1"/>
+      <Q id="867529210" qualifier_id="140" value="54.3"/>
+      <Q id="1747123088" qualifier_id="56" value="Center"/>
+      <Q id="1115669507" qualifier_id="141" value="50.7"/>
+      <Q id="633795887" qualifier_id="213" value="5.6"/>
+    </Event>
+    <Event id="168054479" event_id="229" type_id="1" period_id="1" min="20" sec="10" player_id="59966" team_id="143" outcome="1" x="54.3" y="50.7" timestamp="" last_modified="" version="1471180837950">
+      <Q id="174224734" qualifier_id="213" value="1.4"/>
+      <Q id="1454254820" qualifier_id="141" value="59.6"/>
+      <Q id="1425652602" qualifier_id="212" value="6.1"/>
+      <Q id="1897621194" qualifier_id="56" value="Center"/>
+      <Q id="1421825114" qualifier_id="140" value="55.0"/>
+    </Event>
+    <Event id="2096384576" event_id="230" type_id="1" period_id="1" min="20" sec="12" player_id="169007" team_id="143" outcome="0" x="57.4" y="61.1" timestamp="" last_modified="" version="1471180839574">
+      <Q id="853687603" qualifier_id="56" value="Center"/>
+      <Q id="92892526" qualifier_id="233" value="176"/>
+      <Q id="2005286511" qualifier_id="141" value="61.4"/>
+      <Q id="634785623" qualifier_id="140" value="58.3"/>
+      <Q id="1693395198" qualifier_id="236"/>
+      <Q id="219612356" qualifier_id="213" value="0.2"/>
+      <Q id="121027134" qualifier_id="212" value="1.0"/>
+      <Q id="1478902800" qualifier_id="286"/>
+    </Event>
+    <Event id="2011841619" event_id="176" type_id="74" period_id="1" min="20" sec="12" player_id="170034" team_id="148" outcome="1" x="38.0" y="35.2" timestamp="" last_modified="" version="1471181069124">
+      <Q id="1745787847" qualifier_id="56" value="Back"/>
+      <Q id="1704062007" qualifier_id="285"/>
+      <Q id="2018237422" qualifier_id="233" value="230"/>
+    </Event>
+    <Event id="835811067" event_id="177" type_id="4" period_id="1" min="20" sec="17" player_id="38008" team_id="148" outcome="1" x="47.8" y="21.0" timestamp="" last_modified="" version="1471180846055">
+      <Q id="1029501061" qualifier_id="286"/>
+      <Q id="2063304436" qualifier_id="233" value="231"/>
+      <Q id="1722857482" qualifier_id="56" value="Back"/>
+      <Q id="371377425" qualifier_id="152"/>
+      <Q id="1485273511" qualifier_id="13"/>
+      <Q id="973406249" qualifier_id="294"/>
+    </Event>
+    <Event id="1433558004" event_id="231" type_id="4" period_id="1" min="20" sec="17" player_id="37832" team_id="143" outcome="0" x="52.2" y="79.0" timestamp="" last_modified="" version="1471180846057">
+      <Q id="443894014" qualifier_id="285"/>
+      <Q id="2027240426" qualifier_id="294"/>
+      <Q id="270984687" qualifier_id="56" value="Left"/>
+      <Q id="1875445689" qualifier_id="152"/>
+      <Q id="646253583" qualifier_id="233" value="177"/>
+      <Q id="815400691" qualifier_id="13"/>
+    </Event>
+    <Event id="729255216" event_id="178" type_id="1" period_id="1" min="21" sec="10" player_id="9980" team_id="148" outcome="1" x="53.2" y="21.8" timestamp="" last_modified="" version="1471180900201">
+      <Q id="868917247" qualifier_id="213" value="1.9"/>
+      <Q id="1251466554" qualifier_id="212" value="30.2"/>
+      <Q id="1366743349" qualifier_id="56" value="Back"/>
+      <Q id="1332688744" qualifier_id="5"/>
+      <Q id="1314271814" qualifier_id="141" value="64.0"/>
+      <Q id="1699105385" qualifier_id="140" value="44.1"/>
+      <Q id="1592752029" qualifier_id="152"/>
+    </Event>
+    <Event id="622781182" event_id="179" type_id="1" period_id="1" min="21" sec="14" player_id="171101" team_id="148" outcome="1" x="52.3" y="60.2" timestamp="" last_modified="" version="1471180904765">
+      <Q id="1791731994" qualifier_id="141" value="5.5"/>
+      <Q id="464409814" qualifier_id="1"/>
+      <Q id="230125714" qualifier_id="155"/>
+      <Q id="893579038" qualifier_id="212" value="55.8"/>
+      <Q id="663720710" qualifier_id="56" value="Right"/>
+      <Q id="1800101906" qualifier_id="140" value="91.9"/>
+      <Q id="696745588" qualifier_id="213" value="5.6"/>
+    </Event>
+    <Event id="2086120772" event_id="180" type_id="1" period_id="1" min="21" sec="19" player_id="38008" team_id="148" outcome="1" x="92.3" y="5.5" timestamp="" last_modified="" version="1471180912180">
+      <Q id="1478919080" qualifier_id="212" value="60.3"/>
+      <Q id="1162397415" qualifier_id="56" value="Left"/>
+      <Q id="850729122" qualifier_id="155"/>
+      <Q id="257846551" qualifier_id="2"/>
+      <Q id="1186760854" qualifier_id="213" value="1.6"/>
+      <Q id="768522874" qualifier_id="141" value="94.1"/>
+      <Q id="442042179" qualifier_id="140" value="90.7"/>
+      <Q id="2128981120" qualifier_id="1"/>
+    </Event>
+    <Event id="1508282627" event_id="181" type_id="1" period_id="1" min="21" sec="26" player_id="43024" team_id="148" outcome="1" x="92.1" y="95.1" timestamp="" last_modified="" version="1471180915793">
+      <Q id="331912317" qualifier_id="140" value="78.4"/>
+      <Q id="1552310273" qualifier_id="141" value="84.7"/>
+      <Q id="2123985272" qualifier_id="213" value="3.6"/>
+      <Q id="2096659748" qualifier_id="212" value="16.0"/>
+      <Q id="1866246955" qualifier_id="56" value="Left"/>
+    </Event>
+    <Event id="346110925" event_id="182" type_id="1" period_id="1" min="21" sec="30" player_id="214472" team_id="148" outcome="1" x="78.5" y="78.5" timestamp="" last_modified="" version="1471180917761">
+      <Q id="1871533370" qualifier_id="213" value="4.7"/>
+      <Q id="1649696664" qualifier_id="56" value="Center"/>
+      <Q id="37431001" qualifier_id="212" value="28.3"/>
+      <Q id="1321212778" qualifier_id="141" value="36.9"/>
+      <Q id="1310780723" qualifier_id="140" value="78.6"/>
+    </Event>
+    <Event id="681644508" event_id="183" type_id="1" period_id="1" min="21" sec="32" player_id="210460" team_id="148" outcome="1" x="78.5" y="36.7" timestamp="" last_modified="" version="1471180921508">
+      <Q id="145023594" qualifier_id="140" value="84.7"/>
+      <Q id="1551366349" qualifier_id="212" value="16.2"/>
+      <Q id="820595598" qualifier_id="56" value="Right"/>
+      <Q id="1689374855" qualifier_id="213" value="5.1"/>
+      <Q id="1988990751" qualifier_id="141" value="14.9"/>
+    </Event>
+    <Event id="415807247" event_id="184" type_id="3" period_id="1" min="21" sec="34" player_id="80799" team_id="148" outcome="0" x="92.4" y="12.2" timestamp="" last_modified="" version="1471180922292">
+      <Q id="1274246213" qualifier_id="233" value="233"/>
+      <Q id="471737509" qualifier_id="56" value="Right"/>
+      <Q id="1258687288" qualifier_id="286"/>
+    </Event>
+    <Event id="1282488531" event_id="233" type_id="7" period_id="1" min="21" sec="34" player_id="37832" team_id="143" outcome="1" x="7.6" y="87.8" timestamp="" last_modified="" version="1471180924794">
+      <Q id="1393401560" qualifier_id="285"/>
+      <Q id="982777953" qualifier_id="167"/>
+      <Q id="1705544476" qualifier_id="56" value="Back"/>
+      <Q id="172914442" qualifier_id="233" value="184"/>
+    </Event>
+    <Event id="118829461" event_id="186" type_id="5" period_id="1" min="21" sec="37" player_id="80799" team_id="148" outcome="1" x="94.1" y="-1.7" timestamp="" last_modified="" version="1471181585900">
+      <Q id="1315345158" qualifier_id="56" value="Right"/>
+      <Q id="361527150" qualifier_id="233" value="234"/>
+    </Event>
+    <Event id="2028424614" event_id="234" type_id="5" period_id="1" min="21" sec="37" player_id="37832" team_id="143" outcome="0" x="5.9" y="101.7" timestamp="" last_modified="" version="1471181105149">
+      <Q id="620433189" qualifier_id="56" value="Back"/>
+      <Q id="630209815" qualifier_id="233" value="186"/>
+    </Event>
+    <Event id="1026812995" event_id="185" type_id="43" period_id="1" min="21" sec="38" player_id="80799" team_id="148" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="">
+      <Q id="745240900" qualifier_id="213" value="3.3"/>
+      <Q id="928215454" qualifier_id="141" value="0.0"/>
+      <Q id="217981172" qualifier_id="56" value="Right"/>
+      <Q id="282971002" qualifier_id="144" value="1"/>
+      <Q id="591312933" qualifier_id="212" value="0.4"/>
+      <Q id="1396802572" qualifier_id="168" value="0"/>
+      <Q id="52910103" qualifier_id="140" value="94.4"/>
+      <Q id="2145196476" qualifier_id="3" value="0"/>
+    </Event>
+    <Event id="1603933813" event_id="187" type_id="1" period_id="1" min="21" sec="46" player_id="80799" team_id="148" outcome="1" x="91.4" y="0.0" timestamp="" last_modified="" version="1471180943165">
+      <Q id="2046901269" qualifier_id="141" value="6.5"/>
+      <Q id="946239376" qualifier_id="140" value="97.3"/>
+      <Q id="934348042" qualifier_id="213" value="0.7"/>
+      <Q id="1407745072" qualifier_id="56" value="Right"/>
+      <Q id="1505876880" qualifier_id="107"/>
+      <Q id="501456421" qualifier_id="212" value="8.2"/>
+    </Event>
+    <Event id="1512487081" event_id="188" type_id="50" period_id="1" min="21" sec="47" player_id="38008" team_id="148" outcome="1" x="97.5" y="6.4" timestamp="" last_modified="" version="1471343680586">
+      <Q id="189665992" qualifier_id="286"/>
+      <Q id="1622728477" qualifier_id="233" value="235"/>
+      <Q id="93365540" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="584086381" event_id="235" type_id="7" period_id="1" min="21" sec="47" player_id="37832" team_id="143" outcome="0" x="1.8" y="92.4" timestamp="" last_modified="" version="1471343682905">
+      <Q id="553367612" qualifier_id="56" value="Back"/>
+      <Q id="397353812" qualifier_id="233" value="188"/>
+      <Q id="823867631" qualifier_id="285"/>
+    </Event>
+    <Event id="281145348" event_id="189" type_id="61" period_id="1" min="21" sec="48" player_id="38008" team_id="148" outcome="1" x="97.7" y="6.4" timestamp="" last_modified="" version="1471343685369">
+      <Q id="446824624" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="571215471" event_id="190" type_id="5" period_id="1" min="21" sec="48" player_id="38008" team_id="148" outcome="0" x="101.4" y="8.3" timestamp="" last_modified="" version="1471181585900">
+      <Q id="2136384784" qualifier_id="56" value="Right"/>
+      <Q id="944342876" qualifier_id="233" value="236"/>
+    </Event>
+    <Event id="379627441" event_id="236" type_id="5" period_id="1" min="21" sec="48" player_id="37832" team_id="143" outcome="1" x="-1.3" y="90.2" timestamp="" last_modified="" version="1471180935748">
+      <Q id="183895819" qualifier_id="233" value="190"/>
+      <Q id="1832231996" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="2135311698" event_id="237" type_id="1" period_id="1" min="22" sec="10" player_id="59957" team_id="143" outcome="1" x="5.4" y="61.1" timestamp="" last_modified="" version="1471343694199">
+      <Q id="1293846551" qualifier_id="1"/>
+      <Q id="424441250" qualifier_id="237"/>
+      <Q id="580325027" qualifier_id="124"/>
+      <Q id="1793349853" qualifier_id="141" value="95.6"/>
+      <Q id="1605454806" qualifier_id="140" value="32.0"/>
+      <Q id="1494883542" qualifier_id="212" value="36.5"/>
+      <Q id="1796767777" qualifier_id="56" value="Back"/>
+      <Q id="1140203083" qualifier_id="155"/>
+      <Q id="1172424967" qualifier_id="213" value="0.7"/>
+    </Event>
+    <Event id="1155394132" event_id="238" type_id="1" period_id="1" min="22" sec="12" player_id="37832" team_id="143" outcome="1" x="32.0" y="95.6" timestamp="" last_modified="" version="1471181088404">
+      <Q id="1231316855" qualifier_id="3"/>
+      <Q id="715625296" qualifier_id="140" value="49.3"/>
+      <Q id="223302884" qualifier_id="56" value="Back"/>
+      <Q id="372893417" qualifier_id="212" value="19.8"/>
+      <Q id="399784718" qualifier_id="141" value="83.9"/>
+      <Q id="544050550" qualifier_id="213" value="5.9"/>
+    </Event>
+    <Event id="1962593506" event_id="239" type_id="61" period_id="1" min="22" sec="14" player_id="169007" team_id="143" outcome="0" x="50.5" y="82.4" timestamp="" last_modified="" version="1471181087099">
+      <Q id="387531689" qualifier_id="56" value="Left"/>
+    </Event>
+    <Event id="1780493684" event_id="191" type_id="1" period_id="1" min="22" sec="16" player_id="51327" team_id="148" outcome="1" x="55.8" y="22.8" timestamp="" last_modified="" version="1471180963730">
+      <Q id="492733529" qualifier_id="56" value="Back"/>
+      <Q id="763424157" qualifier_id="212" value="12.2"/>
+      <Q id="1020087953" qualifier_id="140" value="44.9"/>
+      <Q id="1059413377" qualifier_id="141" value="28.8"/>
+      <Q id="1007322226" qualifier_id="156"/>
+      <Q id="737336408" qualifier_id="213" value="2.8"/>
+    </Event>
+    <Event id="2022622684" event_id="192" type_id="49" period_id="1" min="22" sec="18" player_id="9980" team_id="148" outcome="1" x="44.9" y="28.8" timestamp="" last_modified="" version="1471180964091"/>
+    <Event id="496074725" event_id="193" type_id="1" period_id="1" min="22" sec="18" player_id="9980" team_id="148" outcome="1" x="44.9" y="28.8" timestamp="" last_modified="" version="1471183075406">
+      <Q id="1878871182" qualifier_id="141" value="43.0"/>
+      <Q id="2089456535" qualifier_id="213" value="1.5"/>
+      <Q id="2079654828" qualifier_id="212" value="9.7"/>
+      <Q id="1702584011" qualifier_id="140" value="45.4"/>
+      <Q id="1836592287" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1150701083" event_id="194" type_id="1" period_id="1" min="22" sec="20" player_id="214472" team_id="148" outcome="1" x="45.4" y="42.8" timestamp="" last_modified="" version="1471183074962">
+      <Q id="874199965" qualifier_id="141" value="57.6"/>
+      <Q id="588991713" qualifier_id="213" value="2.1"/>
+      <Q id="605992415" qualifier_id="56" value="Back"/>
+      <Q id="1814938456" qualifier_id="212" value="12.0"/>
+      <Q id="1189640679" qualifier_id="140" value="39.2"/>
+    </Event>
+    <Event id="681976862" event_id="195" type_id="1" period_id="1" min="22" sec="21" player_id="171101" team_id="148" outcome="1" x="39.2" y="57.6" timestamp="" last_modified="" version="1471180971340">
+      <Q id="994408050" qualifier_id="140" value="48.5"/>
+      <Q id="1402484600" qualifier_id="212" value="27.5"/>
+      <Q id="587934895" qualifier_id="56" value="Back"/>
+      <Q id="576486334" qualifier_id="141" value="95.4"/>
+      <Q id="545459881" qualifier_id="213" value="1.2"/>
+    </Event>
+    <Event id="1487345090" event_id="196" type_id="1" period_id="1" min="22" sec="25" player_id="43024" team_id="148" outcome="1" x="57.7" y="97.1" timestamp="" last_modified="" version="1471180973221">
+      <Q id="872745652" qualifier_id="212" value="13.5"/>
+      <Q id="1584843743" qualifier_id="140" value="51.8"/>
+      <Q id="27009816" qualifier_id="56" value="Left"/>
+      <Q id="1010090952" qualifier_id="141" value="79.4"/>
+      <Q id="962767340" qualifier_id="213" value="4.2"/>
+    </Event>
+    <Event id="72361421" event_id="197" type_id="1" period_id="1" min="22" sec="27" player_id="214472" team_id="148" outcome="1" x="52.7" y="76.4" timestamp="" last_modified="" version="1471183074290">
+      <Q id="1292177612" qualifier_id="56" value="Back"/>
+      <Q id="43552224" qualifier_id="212" value="10.2"/>
+      <Q id="789207667" qualifier_id="140" value="46.7"/>
+      <Q id="95618284" qualifier_id="141" value="64.6"/>
+      <Q id="724939386" qualifier_id="213" value="4.0"/>
+    </Event>
+    <Event id="1287996651" event_id="198" type_id="1" period_id="1" min="22" sec="30" player_id="9980" team_id="148" outcome="1" x="48.8" y="60.2" timestamp="" last_modified="" version="1471180980191">
+      <Q id="531937843" qualifier_id="56" value="Center"/>
+      <Q id="2097754557" qualifier_id="140" value="86.8"/>
+      <Q id="1298773767" qualifier_id="212" value="43.5"/>
+      <Q id="1140120361" qualifier_id="141" value="34.6"/>
+      <Q id="1854544085" qualifier_id="213" value="5.9"/>
+      <Q id="1160382651" qualifier_id="155"/>
+      <Q id="461415762" qualifier_id="1"/>
+    </Event>
+    <Event id="1248805164" event_id="200" type_id="1" period_id="1" min="22" sec="32" player_id="38008" team_id="148" outcome="0" x="85.4" y="35.1" timestamp="" last_modified="" version="1471343727090">
+      <Q id="314427948" qualifier_id="141" value="41.8"/>
+      <Q id="1631121935" qualifier_id="213" value="1.4"/>
+      <Q id="1673972346" qualifier_id="140" value="86.1"/>
+      <Q id="1032444262" qualifier_id="212" value="4.6"/>
+      <Q id="1592715344" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="185273039" event_id="199" type_id="43" period_id="1" min="22" sec="34" player_id="38008" team_id="148" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="">
+      <Q id="2012682156" qualifier_id="56" value="Center"/>
+      <Q id="2008320299" qualifier_id="144" value="61"/>
+    </Event>
+    <Event id="381205577" event_id="240" type_id="8" period_id="1" min="22" sec="35" player_id="59963" team_id="143" outcome="1" x="14.8" y="54.8" timestamp="" last_modified="" version="1471180980757">
+      <Q id="1168747136" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1900384867" event_id="241" type_id="12" period_id="1" min="22" sec="35" player_id="44488" team_id="143" outcome="1" x="10.9" y="52.2" timestamp="" last_modified="" version="1471180984759">
+      <Q id="877894763" qualifier_id="213" value="1.0"/>
+      <Q id="97048974" qualifier_id="212" value="23.6"/>
+      <Q id="721576080" qualifier_id="56" value="Back"/>
+      <Q id="1619992119" qualifier_id="140" value="23.5"/>
+      <Q id="1381862025" qualifier_id="141" value="80.9"/>
+    </Event>
+    <Event id="503326960" event_id="201" type_id="44" period_id="1" min="22" sec="39" player_id="80799" team_id="148" outcome="1" x="73.6" y="17.4" timestamp="" last_modified="" version="1471180986289">
+      <Q id="772258621" qualifier_id="56" value="Right"/>
+      <Q id="1018891301" qualifier_id="233" value="242"/>
+      <Q id="2105425930" qualifier_id="286"/>
+    </Event>
+    <Event id="616848546" event_id="242" type_id="44" period_id="1" min="22" sec="39" player_id="149519" team_id="143" outcome="0" x="26.4" y="82.6" timestamp="" last_modified="" version="1471181062671">
+      <Q id="1773778881" qualifier_id="233" value="201"/>
+      <Q id="1748450254" qualifier_id="56" value="Back"/>
+      <Q id="668088005" qualifier_id="285"/>
+    </Event>
+    <Event id="981305750" event_id="202" type_id="1" period_id="1" min="22" sec="40" player_id="80799" team_id="148" outcome="0" x="70.8" y="15.6" timestamp="" last_modified="" version="1471180987467">
+      <Q id="1668483739" qualifier_id="141" value="51.2"/>
+      <Q id="1658770371" qualifier_id="56" value="Center"/>
+      <Q id="565235263" qualifier_id="3"/>
+      <Q id="775201075" qualifier_id="212" value="24.2"/>
+      <Q id="233484573" qualifier_id="213" value="1.5"/>
+      <Q id="1984583695" qualifier_id="140" value="71.3"/>
+    </Event>
+    <Event id="1208340902" event_id="243" type_id="49" period_id="1" min="22" sec="42" player_id="168568" team_id="143" outcome="1" x="25.2" y="58.7" timestamp="" last_modified="" version="1471180987805"/>
+    <Event id="1631372570" event_id="244" type_id="1" period_id="1" min="22" sec="42" player_id="168568" team_id="143" outcome="0" x="25.1" y="58.7" timestamp="" last_modified="" version="1471181085052">
+      <Q id="1437253967" qualifier_id="140" value="32.1"/>
+      <Q id="1036060140" qualifier_id="56" value="Back"/>
+      <Q id="1383389552" qualifier_id="212" value="7.9"/>
+      <Q id="1645100328" qualifier_id="213" value="0.4"/>
+      <Q id="797969971" qualifier_id="155"/>
+      <Q id="624317794" qualifier_id="141" value="63.0"/>
+    </Event>
+    <Event id="2022810709" event_id="203" type_id="13" period_id="1" min="22" sec="44" player_id="9980" team_id="148" outcome="1" x="66.1" y="35.5" timestamp="" last_modified="" version="1471343771075">
+      <Q id="1691649221" qualifier_id="108"/>
+      <Q id="62858356" qualifier_id="102" value="0.2"/>
+      <Q id="1051004463" qualifier_id="19"/>
+      <Q id="778038881" qualifier_id="146" value="97.5"/>
+      <Q id="757819510" qualifier_id="75"/>
+      <Q id="1882210076" qualifier_id="103" value="1.4"/>
+      <Q id="1652076818" qualifier_id="147" value="0.2"/>
+      <Q id="1640200716" qualifier_id="56" value="Center"/>
+      <Q id="1302541911" qualifier_id="22"/>
+      <Q id="143187064" qualifier_id="215"/>
+      <Q id="1106695116" qualifier_id="20"/>
+      <Q id="629208253" qualifier_id="153"/>
+    </Event>
+    <Event id="2073636821" event_id="204" type_id="5" period_id="1" min="22" sec="46" player_id="9980" team_id="148" outcome="0" x="95.0" y="-1.6" timestamp="" last_modified="" version="1471181585900">
+      <Q id="1946474114" qualifier_id="189"/>
+      <Q id="1989414541" qualifier_id="56" value="Right"/>
+      <Q id="432726963" qualifier_id="233" value="245"/>
+    </Event>
+    <Event id="1661673030" event_id="245" type_id="5" period_id="1" min="22" sec="46" player_id="168568" team_id="143" outcome="1" x="5.0" y="101.6" timestamp="" last_modified="" version="1471181022457">
+      <Q id="1539765347" qualifier_id="233" value="204"/>
+      <Q id="773156140" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1851452757" event_id="246" type_id="1" period_id="1" min="23" sec="3" player_id="37832" team_id="143" outcome="1" x="5.0" y="100.0" timestamp="" last_modified="" version="1471181083871">
+      <Q id="1181507540" qualifier_id="141" value="97.7"/>
+      <Q id="947250332" qualifier_id="212" value="10.6"/>
+      <Q id="488494877" qualifier_id="213" value="6.1"/>
+      <Q id="1458447404" qualifier_id="140" value="14.8"/>
+      <Q id="1346539142" qualifier_id="189"/>
+      <Q id="683824579" qualifier_id="107"/>
+      <Q id="593984197" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1718875740" event_id="247" type_id="43" period_id="1" min="23" sec="5" player_id="59963" team_id="143" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="">
+      <Q id="1730862635" qualifier_id="212" value="0.7"/>
+      <Q id="1335582967" qualifier_id="140" value="9.6"/>
+      <Q id="1175319236" qualifier_id="1" value="0"/>
+      <Q id="1145259912" qualifier_id="213" value="4.7"/>
+      <Q id="838702221" qualifier_id="144" value="1"/>
+      <Q id="458345969" qualifier_id="141" value="92.4"/>
+      <Q id="785706639" qualifier_id="157" value="0"/>
+      <Q id="446980900" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1713385925" event_id="205" type_id="4" period_id="1" min="23" sec="8" player_id="51327" team_id="148" outcome="0" x="89.7" y="11.0" timestamp="" last_modified="" version="1471181110290">
+      <Q id="733814222" qualifier_id="265"/>
+      <Q id="481660420" qualifier_id="286"/>
+      <Q id="813378778" qualifier_id="152"/>
+      <Q id="570443899" qualifier_id="56" value="Right"/>
+      <Q id="420312891" qualifier_id="233" value="248"/>
+      <Q id="1186861264" qualifier_id="13"/>
+    </Event>
+    <Event id="1635888622" event_id="248" type_id="4" period_id="1" min="23" sec="8" player_id="169007" team_id="143" outcome="1" x="10.3" y="89.0" timestamp="" last_modified="" version="1471181110289">
+      <Q id="1871787686" qualifier_id="56" value="Back"/>
+      <Q id="176295814" qualifier_id="13"/>
+      <Q id="69346842" qualifier_id="233" value="205"/>
+      <Q id="1588029344" qualifier_id="265"/>
+      <Q id="559785299" qualifier_id="285"/>
+      <Q id="380723313" qualifier_id="152"/>
+    </Event>
+    <Event id="1156896516" event_id="206" type_id="43" period_id="1" min="23" sec="11" player_id="51327" team_id="148" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="">
+      <Q id="2114010613" qualifier_id="56" value="Right"/>
+      <Q id="1151798145" qualifier_id="144" value="5"/>
+    </Event>
+    <Event id="168357751" event_id="207" type_id="27" period_id="1" min="23" sec="44" team_id="148" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="" version="1471181058429">
+      <Q id="1268307029" qualifier_id="201"/>
+      <Q id="447284640" qualifier_id="246"/>
+      <Q id="527391741" qualifier_id="233" value="250"/>
+    </Event>
+    <Event id="517131676" event_id="250" type_id="27" period_id="1" min="23" sec="44" team_id="143" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="" version="1471181058433">
+      <Q id="657589150" qualifier_id="233" value="207"/>
+      <Q id="1855958738" qualifier_id="246"/>
+      <Q id="2138560256" qualifier_id="201"/>
+    </Event>
+    <Event id="538977036" event_id="208" type_id="28" period_id="1" min="24" sec="45" team_id="148" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="" version="1471181115645">
+      <Q id="1775348589" qualifier_id="55" value="207"/>
+      <Q id="229676425" qualifier_id="233" value="251"/>
+    </Event>
+    <Event id="461628405" event_id="251" type_id="28" period_id="1" min="24" sec="45" team_id="143" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="" version="1471181115647">
+      <Q id="459051526" qualifier_id="233" value="208"/>
+      <Q id="928072652" qualifier_id="55" value="250"/>
+    </Event>
+    <Event id="1833605369" event_id="252" type_id="1" period_id="1" min="25" sec="12" player_id="59957" team_id="143" outcome="0" x="14.8" y="88.6" timestamp="" last_modified="" version="1471181247977">
+      <Q id="2080711782" qualifier_id="152"/>
+      <Q id="1944542322" qualifier_id="140" value="65.0"/>
+      <Q id="42812943" qualifier_id="213" value="6.1"/>
+      <Q id="1503230291" qualifier_id="56" value="Center"/>
+      <Q id="102880548" qualifier_id="157"/>
+      <Q id="1733092727" qualifier_id="212" value="54.1"/>
+      <Q id="930004584" qualifier_id="5"/>
+      <Q id="1207639519" qualifier_id="141" value="70.5"/>
+      <Q id="1626233805" qualifier_id="1"/>
+    </Event>
+    <Event id="626534262" event_id="209" type_id="44" period_id="1" min="25" sec="15" player_id="9980" team_id="148" outcome="1" x="34.6" y="27.6" timestamp="" last_modified="" version="1471181142568">
+      <Q id="2116384157" qualifier_id="56" value="Back"/>
+      <Q id="2075718204" qualifier_id="285"/>
+      <Q id="337934226" qualifier_id="233" value="253"/>
+    </Event>
+    <Event id="1850672020" event_id="253" type_id="44" period_id="1" min="25" sec="15" player_id="168568" team_id="143" outcome="0" x="65.0" y="70.5" timestamp="" last_modified="" version="1471350360902">
+      <Q id="1842225531" qualifier_id="233" value="209"/>
+      <Q id="1505590943" qualifier_id="56" value="Center"/>
+      <Q id="973032210" qualifier_id="286"/>
+    </Event>
+    <Event id="2053219779" event_id="210" type_id="1" period_id="1" min="25" sec="16" player_id="9980" team_id="148" outcome="0" x="34.3" y="25.8" timestamp="" last_modified="" version="1471181142813">
+      <Q id="1341611151" qualifier_id="213" value="0.1"/>
+      <Q id="744108259" qualifier_id="141" value="26.8"/>
+      <Q id="723037509" qualifier_id="56" value="Back"/>
+      <Q id="609839438" qualifier_id="140" value="46.4"/>
+      <Q id="600613074" qualifier_id="212" value="12.7"/>
+      <Q id="720132845" qualifier_id="3"/>
+    </Event>
+    <Event id="1513930918" event_id="254" type_id="1" period_id="1" min="25" sec="16" player_id="59963" team_id="143" outcome="1" x="55.8" y="71.8" timestamp="" last_modified="" version="1471181143533">
+      <Q id="1647043116" qualifier_id="212" value="10.0"/>
+      <Q id="93831277" qualifier_id="3"/>
+      <Q id="63991953" qualifier_id="140" value="46.3"/>
+      <Q id="995207767" qualifier_id="56" value="Back"/>
+      <Q id="1582323675" qualifier_id="213" value="3.2"/>
+      <Q id="1586707427" qualifier_id="141" value="70.9"/>
+    </Event>
+    <Event id="1391856968" event_id="255" type_id="1" period_id="1" min="25" sec="17" player_id="52775" team_id="143" outcome="1" x="46.3" y="70.9" timestamp="" last_modified="" version="1471181146053">
+      <Q id="903233686" qualifier_id="212" value="8.7"/>
+      <Q id="1211542169" qualifier_id="140" value="41.5"/>
+      <Q id="1166633353" qualifier_id="213" value="4.1"/>
+      <Q id="311531529" qualifier_id="3"/>
+      <Q id="2088375969" qualifier_id="56" value="Back"/>
+      <Q id="696931629" qualifier_id="141" value="60.5"/>
+    </Event>
+    <Event id="254640895" event_id="256" type_id="1" period_id="1" min="25" sec="20" player_id="44488" team_id="143" outcome="0" x="41.5" y="60.5" timestamp="" last_modified="" version="1471181149779">
+      <Q id="2078170072" qualifier_id="155"/>
+      <Q id="718500473" qualifier_id="141" value="13.1"/>
+      <Q id="819373149" qualifier_id="213" value="5.4"/>
+      <Q id="1147609739" qualifier_id="1"/>
+      <Q id="1729919129" qualifier_id="212" value="40.8"/>
+      <Q id="1231735676" qualifier_id="56" value="Right"/>
+      <Q id="103606217" qualifier_id="140" value="65.4"/>
+    </Event>
+    <Event id="878877089" event_id="211" type_id="49" period_id="1" min="25" sec="25" player_id="43024" team_id="148" outcome="1" x="30.1" y="87.8" timestamp="" last_modified="" version="1471181151348"/>
+    <Event id="1532323721" event_id="212" type_id="1" period_id="1" min="25" sec="26" player_id="43024" team_id="148" outcome="1" x="30.1" y="87.8" timestamp="" last_modified="" version="1471181154463">
+      <Q id="1282923751" qualifier_id="213" value="3.9"/>
+      <Q id="730786156" qualifier_id="212" value="9.8"/>
+      <Q id="862722670" qualifier_id="141" value="77.9"/>
+      <Q id="1636513122" qualifier_id="140" value="23.3"/>
+      <Q id="510137247" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="718161965" event_id="213" type_id="1" period_id="1" min="25" sec="28" player_id="171101" team_id="148" outcome="1" x="24.5" y="87.5" timestamp="" last_modified="" version="1471181158644">
+      <Q id="2092898207" qualifier_id="213" value="0.3"/>
+      <Q id="1088300804" qualifier_id="56" value="Back"/>
+      <Q id="981122084" qualifier_id="140" value="43.6"/>
+      <Q id="471335006" qualifier_id="141" value="97.1"/>
+      <Q id="1179670286" qualifier_id="212" value="21.1"/>
+    </Event>
+    <Event id="572689382" event_id="214" type_id="1" period_id="1" min="25" sec="33" player_id="43024" team_id="148" outcome="1" x="50.1" y="97.8" timestamp="" last_modified="" version="1471181164135">
+      <Q id="374814929" qualifier_id="212" value="28.5"/>
+      <Q id="1065727021" qualifier_id="140" value="74.5"/>
+      <Q id="563792629" qualifier_id="141" value="79.6"/>
+      <Q id="1789858350" qualifier_id="213" value="5.8"/>
+      <Q id="1231958706" qualifier_id="56" value="Left"/>
+    </Event>
+    <Event id="877353349" event_id="215" type_id="50" period_id="1" min="25" sec="35" player_id="51327" team_id="148" outcome="1" x="82.3" y="97.2" timestamp="" last_modified="" version="1471343825931">
+      <Q id="1886431616" qualifier_id="286"/>
+      <Q id="229931249" qualifier_id="233" value="257"/>
+      <Q id="1254966956" qualifier_id="56" value="Left"/>
+    </Event>
+    <Event id="489171705" event_id="257" type_id="7" period_id="1" min="25" sec="35" player_id="52775" team_id="143" outcome="0" x="18.4" y="3.4" timestamp="" last_modified="" version="1471343828610">
+      <Q id="74733301" qualifier_id="56" value="Back"/>
+      <Q id="878081015" qualifier_id="233" value="215"/>
+      <Q id="769936941" qualifier_id="285"/>
+    </Event>
+    <Event id="861049098" event_id="216" type_id="61" period_id="1" min="25" sec="36" player_id="51327" team_id="148" outcome="1" x="82.3" y="97.2" timestamp="" last_modified="" version="1471343822994">
+      <Q id="1526588318" qualifier_id="56" value="Left"/>
+    </Event>
+    <Event id="1258999462" event_id="217" type_id="5" period_id="1" min="25" sec="37" player_id="51327" team_id="148" outcome="0" x="84.2" y="101.3" timestamp="" last_modified="" version="1471181585912">
+      <Q id="90188355" qualifier_id="233" value="258"/>
+      <Q id="1731985311" qualifier_id="56" value="Left"/>
+    </Event>
+    <Event id="1620642092" event_id="258" type_id="5" period_id="1" min="25" sec="37" player_id="52775" team_id="143" outcome="1" x="15.8" y="-1.3" timestamp="" last_modified="" version="1471181175474">
+      <Q id="1336485470" qualifier_id="56" value="Back"/>
+      <Q id="257439890" qualifier_id="233" value="217"/>
+    </Event>
+    <Event id="1075750028" event_id="260" type_id="1" period_id="1" min="25" sec="51" player_id="54772" team_id="143" outcome="1" x="17.5" y="0.0" timestamp="" last_modified="" version="1471181184767">
+      <Q id="9758025" qualifier_id="1"/>
+      <Q id="515219649" qualifier_id="56" value="Back"/>
+      <Q id="461473452" qualifier_id="107"/>
+      <Q id="557649955" qualifier_id="213" value="0.1"/>
+      <Q id="854092208" qualifier_id="141" value="3.8"/>
+      <Q id="1452333967" qualifier_id="140" value="41.1"/>
+      <Q id="797027668" qualifier_id="212" value="25.0"/>
+    </Event>
+    <Event id="898406124" event_id="261" type_id="1" period_id="1" min="25" sec="52" player_id="59966" team_id="143" outcome="0" x="41.1" y="3.8" timestamp="" last_modified="" version="1471181180329">
+      <Q id="1785176222" qualifier_id="213" value="0.4"/>
+      <Q id="1265579633" qualifier_id="3"/>
+      <Q id="692050850" qualifier_id="141" value="13.2"/>
+      <Q id="185527760" qualifier_id="212" value="16.9"/>
+      <Q id="2010063671" qualifier_id="56" value="Right"/>
+      <Q id="318209464" qualifier_id="168"/>
+      <Q id="1124526870" qualifier_id="140" value="56.0"/>
+    </Event>
+    <Event id="329706137" event_id="218" type_id="49" period_id="1" min="25" sec="55" player_id="170034" team_id="148" outcome="1" x="40.0" y="83.2" timestamp="" last_modified="" version="1471183068909"/>
+    <Event id="242007776" event_id="219" type_id="1" period_id="1" min="25" sec="55" player_id="170034" team_id="148" outcome="1" x="39.6" y="81.8" timestamp="" last_modified="" version="1471181189423">
+      <Q id="558976001" qualifier_id="1"/>
+      <Q id="337852881" qualifier_id="212" value="33.8"/>
+      <Q id="509050751" qualifier_id="56" value="Back"/>
+      <Q id="606849283" qualifier_id="213" value="4.0"/>
+      <Q id="83487147" qualifier_id="141" value="43.6"/>
+      <Q id="1734075985" qualifier_id="140" value="19.0"/>
+    </Event>
+    <Event id="2111242691" event_id="220" type_id="1" period_id="1" min="26" sec="3" player_id="38816" team_id="148" outcome="0" x="19.4" y="43.3" timestamp="" last_modified="" version="1471343842082">
+      <Q id="2047674491" qualifier_id="1"/>
+      <Q id="218714806" qualifier_id="141" value="76.4"/>
+      <Q id="641579848" qualifier_id="212" value="59.6"/>
+      <Q id="1401511938" qualifier_id="56" value="Center"/>
+      <Q id="1516620189" qualifier_id="213" value="0.4"/>
+      <Q id="1421342806" qualifier_id="140" value="72.0"/>
+      <Q id="1182285123" qualifier_id="157"/>
+    </Event>
+    <Event id="1623499127" event_id="221" type_id="44" period_id="1" min="26" sec="7" player_id="51327" team_id="148" outcome="0" x="73.3" y="74.6" timestamp="" last_modified="" version="1471181196005">
+      <Q id="1927350680" qualifier_id="286"/>
+      <Q id="532375292" qualifier_id="56" value="Center"/>
+      <Q id="1672398993" qualifier_id="233" value="262"/>
+    </Event>
+    <Event id="1740721386" event_id="262" type_id="44" period_id="1" min="26" sec="7" player_id="52775" team_id="143" outcome="1" x="26.7" y="25.4" timestamp="" last_modified="" version="1471181196003">
+      <Q id="684523686" qualifier_id="285"/>
+      <Q id="713928800" qualifier_id="233" value="221"/>
+      <Q id="1802972374" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="578082697" event_id="264" type_id="1" period_id="1" min="26" sec="10" player_id="52775" team_id="143" outcome="1" x="26.7" y="17.6" timestamp="" last_modified="" version="1471343856916">
+      <Q id="848013276" qualifier_id="140" value="42.5"/>
+      <Q id="1849475379" qualifier_id="213" value="0.7"/>
+      <Q id="1515449277" qualifier_id="212" value="21.6"/>
+      <Q id="432075860" qualifier_id="56" value="Back"/>
+      <Q id="1843261859" qualifier_id="155"/>
+      <Q id="405901850" qualifier_id="141" value="37.9"/>
+    </Event>
+    <Event id="1865564606" event_id="263" type_id="49" period_id="1" min="26" sec="13" player_id="168568" team_id="143" outcome="1" x="37.9" y="24.8" timestamp="" last_modified="" version="1471343879361"/>
+    <Event id="1661358833" event_id="265" type_id="1" period_id="1" min="26" sec="15" player_id="168568" team_id="143" outcome="1" x="36.3" y="25.0" timestamp="" last_modified="" version="1471181204106">
+      <Q id="125197605" qualifier_id="140" value="32.3"/>
+      <Q id="1628795963" qualifier_id="212" value="15.2"/>
+      <Q id="1087197942" qualifier_id="56" value="Back"/>
+      <Q id="520607972" qualifier_id="213" value="4.4"/>
+      <Q id="1848065782" qualifier_id="141" value="3.5"/>
+    </Event>
+    <Event id="372846559" event_id="266" type_id="1" period_id="1" min="26" sec="18" player_id="54772" team_id="143" outcome="1" x="33.5" y="2.3" timestamp="" last_modified="" version="1471181206531">
+      <Q id="1077631165" qualifier_id="212" value="18.0"/>
+      <Q id="1182227520" qualifier_id="140" value="24.0"/>
+      <Q id="1808374478" qualifier_id="56" value="Back"/>
+      <Q id="973126177" qualifier_id="213" value="2.2"/>
+      <Q id="543415056" qualifier_id="141" value="24.4"/>
+    </Event>
+    <Event id="1421221785" event_id="267" type_id="1" period_id="1" min="26" sec="20" player_id="52775" team_id="143" outcome="1" x="23.9" y="26.2" timestamp="" last_modified="" version="1471181209514">
+      <Q id="1019205036" qualifier_id="140" value="22.7"/>
+      <Q id="1845437430" qualifier_id="141" value="62.4"/>
+      <Q id="1577408651" qualifier_id="212" value="24.6"/>
+      <Q id="632452245" qualifier_id="213" value="1.6"/>
+      <Q id="268962634" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="833084301" event_id="268" type_id="1" period_id="1" min="26" sec="23" player_id="44488" team_id="143" outcome="1" x="23.8" y="63.1" timestamp="" last_modified="" version="1471181212771">
+      <Q id="721155406" qualifier_id="56" value="Back"/>
+      <Q id="2081910107" qualifier_id="213" value="5.7"/>
+      <Q id="368634057" qualifier_id="140" value="31.6"/>
+      <Q id="234971000" qualifier_id="212" value="9.9"/>
+      <Q id="147229046" qualifier_id="141" value="54.9"/>
+    </Event>
+    <Event id="86535956" event_id="269" type_id="1" period_id="1" min="26" sec="27" player_id="59963" team_id="143" outcome="1" x="33.9" y="55.5" timestamp="" last_modified="" version="1471181215618">
+      <Q id="339320149" qualifier_id="56" value="Center"/>
+      <Q id="1089802380" qualifier_id="140" value="56.2"/>
+      <Q id="1951409417" qualifier_id="141" value="57.0"/>
+      <Q id="1104954389" qualifier_id="212" value="23.4"/>
+      <Q id="640008214" qualifier_id="213" value="0.0"/>
+    </Event>
+    <Event id="1763508191" event_id="270" type_id="1" period_id="1" min="26" sec="30" player_id="59966" team_id="143" outcome="1" x="55.3" y="61.0" timestamp="" last_modified="" version="1471181237994">
+      <Q id="1366111374" qualifier_id="141" value="60.8"/>
+      <Q id="177511923" qualifier_id="213" value="6.3"/>
+      <Q id="857401350" qualifier_id="56" value="Center"/>
+      <Q id="203150497" qualifier_id="212" value="26.0"/>
+      <Q id="1282827676" qualifier_id="140" value="80.1"/>
+      <Q id="1616133851" qualifier_id="4"/>
+    </Event>
+    <Event id="1440844018" event_id="222" type_id="4" period_id="1" min="26" sec="34" player_id="80799" team_id="148" outcome="0" x="19.4" y="37.3" timestamp="" last_modified="" version="1471182199609">
+      <Q id="1588446340" qualifier_id="152"/>
+      <Q id="272431232" qualifier_id="233" value="271"/>
+      <Q id="1858716081" qualifier_id="295"/>
+      <Q id="1764072463" qualifier_id="56" value="Back"/>
+      <Q id="972314816" qualifier_id="13"/>
+      <Q id="228366220" qualifier_id="285"/>
+    </Event>
+    <Event id="414533477" event_id="271" type_id="4" period_id="1" min="26" sec="34" player_id="149519" team_id="143" outcome="1" x="80.6" y="62.7" timestamp="" last_modified="" version="1471181235243">
+      <Q id="1241497437" qualifier_id="13"/>
+      <Q id="649215992" qualifier_id="233" value="222"/>
+      <Q id="444409564" qualifier_id="295"/>
+      <Q id="2119523775" qualifier_id="286"/>
+      <Q id="865841892" qualifier_id="152"/>
+      <Q id="595996558" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="1303025809" event_id="223" type_id="17" period_id="1" min="26" sec="42" player_id="80799" team_id="148" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="" version="1471181228816">
+      <Q id="1878720928" qualifier_id="13" value="243"/>
+      <Q id="2011647828" qualifier_id="31"/>
+    </Event>
+    <Event id="11884514" event_id="272" type_id="15" period_id="1" min="27" sec="53" player_id="59966" team_id="143" outcome="1" x="80.8" y="62.3" timestamp="" last_modified="" version="1471343915263">
+      <Q id="1948225965" qualifier_id="103" value="24.7"/>
+      <Q id="305514673" qualifier_id="146" value="99.0"/>
+      <Q id="1744178671" qualifier_id="233" value="224"/>
+      <Q id="1909878248" qualifier_id="102" value="53.0"/>
+      <Q id="855837319" qualifier_id="18"/>
+      <Q id="300095180" qualifier_id="147" value="51.8"/>
+      <Q id="889335100" qualifier_id="56" value="Center"/>
+      <Q id="1915352609" qualifier_id="77"/>
+      <Q id="163439935" qualifier_id="26"/>
+      <Q id="960680943" qualifier_id="20"/>
+      <Q id="1846951751" qualifier_id="120"/>
+    </Event>
+    <Event id="611735389" event_id="224" type_id="10" period_id="1" min="27" sec="53" player_id="38816" team_id="148" outcome="1" x="0.9" y="48.7" timestamp="" last_modified="" version="1471182516867">
+      <Q id="466680081" qualifier_id="233" value="272"/>
+      <Q id="537616586" qualifier_id="182"/>
+      <Q id="1433967309" qualifier_id="173"/>
+      <Q id="1015815549" qualifier_id="179"/>
+      <Q id="506746905" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="604470224" event_id="225" type_id="6" period_id="1" min="27" sec="56" player_id="38816" team_id="148" outcome="0" x="0.0" y="39.4" timestamp="" last_modified="" version="1471182516403">
+      <Q id="537545171" qualifier_id="233" value="273"/>
+      <Q id="1746381668" qualifier_id="56" value="Back"/>
+      <Q id="1114005839" qualifier_id="73"/>
+    </Event>
+    <Event id="1351995802" event_id="273" type_id="6" period_id="1" min="27" sec="56" player_id="59966" team_id="143" outcome="1" x="91.3" y="61.4" timestamp="" last_modified="" version="1471181304998">
+      <Q id="70548749" qualifier_id="233" value="225"/>
+      <Q id="1796964676" qualifier_id="73"/>
+      <Q id="1009450240" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="936180160" event_id="274" type_id="1" period_id="1" min="28" sec="21" player_id="166552" team_id="143" outcome="0" x="99.5" y="99.5" timestamp="" last_modified="" version="1471181329201">
+      <Q id="1711624786" qualifier_id="1"/>
+      <Q id="1672439266" qualifier_id="213" value="4.3"/>
+      <Q id="1663621859" qualifier_id="212" value="34.0"/>
+      <Q id="873249317" qualifier_id="224"/>
+      <Q id="569682063" qualifier_id="2"/>
+      <Q id="454418921" qualifier_id="140" value="87.4"/>
+      <Q id="1673853201" qualifier_id="141" value="53.1"/>
+      <Q id="1153467916" qualifier_id="6"/>
+      <Q id="362570608" qualifier_id="56" value="Center"/>
+      <Q id="486160136" qualifier_id="155"/>
+    </Event>
+    <Event id="97985126" event_id="226" type_id="12" period_id="1" min="28" sec="25" player_id="210460" team_id="148" outcome="1" x="10.3" y="44.8" timestamp="" last_modified="" version="1471181372981">
+      <Q id="355794899" qualifier_id="213" value="5.6"/>
+      <Q id="345578900" qualifier_id="56" value="Back"/>
+      <Q id="1928644469" qualifier_id="140" value="27.3"/>
+      <Q id="1559310210" qualifier_id="141" value="24.6"/>
+      <Q id="853012057" qualifier_id="212" value="22.5"/>
+    </Event>
+    <Event id="1112322187" event_id="227" type_id="49" period_id="1" min="28" sec="26" player_id="38008" team_id="148" outcome="1" x="26.6" y="25.0" timestamp="" last_modified="" version="1471181332263"/>
+    <Event id="718982857" event_id="228" type_id="1" period_id="1" min="28" sec="26" player_id="38008" team_id="148" outcome="0" x="26.6" y="25.0" timestamp="" last_modified="" version="1471181369868">
+      <Q id="574749975" qualifier_id="212" value="17.1"/>
+      <Q id="396580194" qualifier_id="213" value="0.3"/>
+      <Q id="1404951643" qualifier_id="141" value="33.3"/>
+      <Q id="542752900" qualifier_id="140" value="42.0"/>
+      <Q id="2069289510" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1033790414" event_id="275" type_id="8" period_id="1" min="28" sec="26" player_id="37832" team_id="143" outcome="1" x="60.5" y="65.7" timestamp="" last_modified="" version="1471181332473">
+      <Q id="61929001" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="993119397" event_id="276" type_id="43" period_id="1" min="28" sec="33" player_id="52775" team_id="143" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="">
+      <Q id="1123600384" qualifier_id="56" value="Back"/>
+      <Q id="668628104" qualifier_id="285" value="0"/>
+      <Q id="1906200148" qualifier_id="144" value="7"/>
+    </Event>
+    <Event id="2145847814" event_id="229" type_id="4" period_id="1" min="28" sec="35" player_id="97290" team_id="148" outcome="1" x="76.4" y="20.7" timestamp="" last_modified="" version="1471181347478">
+      <Q id="214632413" qualifier_id="265"/>
+      <Q id="100204266" qualifier_id="286"/>
+      <Q id="93067818" qualifier_id="13"/>
+      <Q id="600231064" qualifier_id="233" value="277"/>
+      <Q id="1460159787" qualifier_id="56" value="Right"/>
+      <Q id="1006057825" qualifier_id="152"/>
+    </Event>
+    <Event id="1909580179" event_id="277" type_id="4" period_id="1" min="28" sec="35" player_id="52775" team_id="143" outcome="0" x="23.6" y="79.3" timestamp="" last_modified="" version="1471181347477">
+      <Q id="1094969196" qualifier_id="233" value="229"/>
+      <Q id="1874117108" qualifier_id="152"/>
+      <Q id="1503926735" qualifier_id="13"/>
+      <Q id="1743326217" qualifier_id="56" value="Back"/>
+      <Q id="2052075245" qualifier_id="265"/>
+      <Q id="1364603720" qualifier_id="285"/>
+    </Event>
+    <Event id="2140067250" event_id="278" type_id="17" period_id="1" min="28" sec="38" player_id="52775" team_id="143" outcome="1" x="0.0" y="0.0" timestamp="" last_modified="" version="1471181344832">
+      <Q id="1475394879" qualifier_id="31"/>
+      <Q id="298165076" qualifier_id="13" value="243"/>
+    </Event>
+    <Event id="1541195433" event_id="230" type_id="1" period_id="1" min="29" sec="41" player_id="9980" team_id="148" outcome="1" x="73.1" y="20.2" keypass="1" timestamp="" last_modified="" version="1471343976115">
+      <Q id="2066532526" qualifier_id="152"/>
+      <Q id="1950593883" qualifier_id="140" value="90.5"/>
+      <Q id="1728160672" qualifier_id="213" value="0.8"/>
+      <Q id="1074465556" qualifier_id="210"/>
+      <Q id="164279503" qualifier_id="155"/>
+      <Q id="501904685" qualifier_id="5"/>
+      <Q id="418306219" qualifier_id="212" value="27.0"/>
+      <Q id="1462820035" qualifier_id="154"/>
+      <Q id="726709055" qualifier_id="2"/>
+      <Q id="1055252322" qualifier_id="141" value="49.5"/>
+      <Q id="1870471055" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="1393230327" event_id="231" type_id="13" period_id="1" min="29" sec="43" player_id="51327" team_id="148" outcome="1" x="90.7" y="48.9" timestamp="" last_modified="" version="1471343976134">
+      <Q id="1376017028" qualifier_id="81"/>
+      <Q id="990944317" qualifier_id="17"/>
+      <Q id="1403374850" qualifier_id="154"/>
+      <Q id="1718807417" qualifier_id="55" value="230"/>
+      <Q id="919691939" qualifier_id="102" value="40"/>
+      <Q id="96001098" qualifier_id="29"/>
+      <Q id="540920113" qualifier_id="24"/>
+      <Q id="562149882" qualifier_id="56" value="Center"/>
+      <Q id="1771087668" qualifier_id="15"/>
+      <Q id="1250002378" qualifier_id="103" value="65.3"/>
+    </Event>
+    <Event id="1875562974" event_id="232" type_id="5" period_id="1" min="29" sec="45" player_id="51327" team_id="148" outcome="0" x="101.7" y="42.2" timestamp="" last_modified="" version="1471181585914">
+      <Q id="1369667928" qualifier_id="233" value="280"/>
+      <Q id="1111272134" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="1521964177" event_id="280" type_id="5" period_id="1" min="29" sec="45" player_id="44488" team_id="143" outcome="1" x="-1.6" y="60.7" timestamp="" last_modified="" version="1471181411209">
+      <Q id="1984205102" qualifier_id="56" value="Back"/>
+      <Q id="1024666777" qualifier_id="233" value="232"/>
+    </Event>
+    <Event id="521644697" event_id="281" type_id="1" period_id="1" min="30" sec="15" player_id="59957" team_id="143" outcome="0" x="5.4" y="59.6" timestamp="" last_modified="" version="1471181444210">
+      <Q id="1732904819" qualifier_id="74"/>
+      <Q id="1182183101" qualifier_id="212" value="58.5"/>
+      <Q id="1510594897" qualifier_id="213" value="6.2"/>
+      <Q id="1896420744" qualifier_id="140" value="61.0"/>
+      <Q id="2118119379" qualifier_id="141" value="54.2"/>
+      <Q id="397063939" qualifier_id="1"/>
+      <Q id="713341032" qualifier_id="56" value="Center"/>
+      <Q id="1935590014" qualifier_id="124"/>
+    </Event>
+    <Event id="271749282" event_id="233" type_id="1" period_id="1" min="30" sec="20" player_id="214472" team_id="148" outcome="0" x="35.2" y="40.3" timestamp="" last_modified="" version="1471181448645">
+      <Q id="526830994" qualifier_id="56" value="Center"/>
+      <Q id="136675481" qualifier_id="212" value="31.1"/>
+      <Q id="2034468836" qualifier_id="141" value="73.0"/>
+      <Q id="934066939" qualifier_id="140" value="55.9"/>
+      <Q id="1566460704" qualifier_id="3"/>
+      <Q id="123681855" qualifier_id="213" value="0.8"/>
+    </Event>
+    <Event id="858935362" event_id="282" type_id="1" period_id="1" min="30" sec="22" player_id="54772" team_id="143" outcome="1" x="47.0" y="29.1" timestamp="" last_modified="" version="1471181478452">
+      <Q id="1598462065" qualifier_id="141" value="24.8"/>
+      <Q id="790435727" qualifier_id="3"/>
+      <Q id="612079013" qualifier_id="213" value="5.9"/>
+      <Q id="209475247" qualifier_id="212" value="7.2"/>
+      <Q id="896670525" qualifier_id="140" value="53.3"/>
+      <Q id="1740156584" qualifier_id="56" value="Center"/>
+    </Event>
+    <Event id="528719564" event_id="283" type_id="1" period_id="1" min="30" sec="25" player_id="166552" team_id="143" outcome="0" x="51.7" y="6.6" timestamp="" last_modified="" version="1471181495733">
+      <Q id="2115182469" qualifier_id="212" value="7.8"/>
+      <Q id="2080909628" qualifier_id="140" value="51.1"/>
+      <Q id="465548808" qualifier_id="213" value="1.7"/>
+      <Q id="778684646" qualifier_id="56" value="Right"/>
+      <Q id="1466087926" qualifier_id="141" value="18.0"/>
+    </Event>
+    <Event id="1240546591" event_id="234" type_id="49" period_id="1" min="30" sec="28" player_id="214472" team_id="148" outcome="1" x="54.6" y="83.6" timestamp="" last_modified="" version="1471181453567"/>
+    <Event id="1835969637" event_id="235" type_id="3" period_id="1" min="30" sec="28" player_id="214472" team_id="148" outcome="1" x="55.5" y="79.6" timestamp="" last_modified="" version="1471181456281">
+      <Q id="1002748421" qualifier_id="56" value="Left"/>
+      <Q id="1330192246" qualifier_id="286"/>
+      <Q id="716296734" qualifier_id="233" value="284"/>
+    </Event>
+    <Event id="1516085426" event_id="284" type_id="45" period_id="1" min="30" sec="28" player_id="169007" team_id="143" outcome="0" x="44.5" y="20.4" timestamp="" last_modified="" version="1471181456282">
+      <Q id="1720915100" qualifier_id="285"/>
+      <Q id="1552024958" qualifier_id="233" value="235"/>
+      <Q id="491371102" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1715874840" event_id="236" type_id="1" period_id="1" min="30" sec="30" player_id="214472" team_id="148" outcome="1" x="54.0" y="69.3" timestamp="" last_modified="" version="1471181458777">
+      <Q id="1804405637" qualifier_id="213" value="5.3"/>
+      <Q id="765375282" qualifier_id="56" value="Center"/>
+      <Q id="948365671" qualifier_id="212" value="13.7"/>
+      <Q id="1964842949" qualifier_id="141" value="52.8"/>
+      <Q id="47212012" qualifier_id="140" value="61.5"/>
+    </Event>
+    <Event id="1013334899" event_id="238" type_id="1" period_id="1" min="30" sec="32" player_id="210460" team_id="148" outcome="0" x="62.7" y="49.1" timestamp="" last_modified="" version="1471344027221">
+      <Q id="1520874473" qualifier_id="56" value="Center"/>
+      <Q id="1154963446" qualifier_id="141" value="29.5"/>
+      <Q id="637861751" qualifier_id="140" value="77.2"/>
+      <Q id="1465993514" qualifier_id="213" value="5.6"/>
+      <Q id="1332286526" qualifier_id="212" value="20.2"/>
+      <Q id="330453767" qualifier_id="155"/>
+    </Event>
+    <Event id="1200815688" event_id="285" type_id="8" period_id="1" min="30" sec="33" player_id="37832" team_id="143" outcome="1" x="22.8" y="69.1" timestamp="" last_modified="" version="1471181459545">
+      <Q id="1070676202" qualifier_id="15"/>
+      <Q id="1907975583" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="325094660" event_id="239" type_id="1" period_id="1" min="30" sec="38" player_id="38008" team_id="148" outcome="1" x="73.6" y="6.1" timestamp="" last_modified="" version="1471181468159">
+      <Q id="701289316" qualifier_id="141" value="8.6"/>
+      <Q id="1691019417" qualifier_id="56" value="Right"/>
+      <Q id="137296719" qualifier_id="212" value="15.7"/>
+      <Q id="1283422849" qualifier_id="213" value="3.0"/>
+      <Q id="994361518" qualifier_id="140" value="58.7"/>
+    </Event>
+    <Event id="2063211924" event_id="240" type_id="1" period_id="1" min="30" sec="42" player_id="80799" team_id="148" outcome="1" x="65.8" y="9.8" timestamp="" last_modified="" version="1471181470264">
+      <Q id="725746780" qualifier_id="213" value="5.5"/>
+      <Q id="1792435348" qualifier_id="56" value="Right"/>
+      <Q id="842875550" qualifier_id="141" value="1.0"/>
+      <Q id="389551027" qualifier_id="140" value="71.0"/>
+      <Q id="186464254" qualifier_id="212" value="8.1"/>
+    </Event>
+    <Event id="1082121009" event_id="241" type_id="1" period_id="1" min="30" sec="44" player_id="38008" team_id="148" outcome="1" x="70.1" y="1.9" timestamp="" last_modified="" version="1471181471977">
+      <Q id="1921355145" qualifier_id="56" value="Right"/>
+      <Q id="1466342259" qualifier_id="213" value="1.7"/>
+      <Q id="1002853162" qualifier_id="140" value="69.1"/>
+      <Q id="106947128" qualifier_id="141" value="16.4"/>
+      <Q id="164598381" qualifier_id="212" value="9.9"/>
+    </Event>
+    <Event id="1465864898" event_id="242" type_id="1" period_id="1" min="30" sec="46" player_id="9980" team_id="148" outcome="1" x="68.1" y="13.7" timestamp="" last_modified="" version="1471181476432">
+      <Q id="1418939667" qualifier_id="140" value="43.2"/>
+      <Q id="1949144909" qualifier_id="141" value="21.2"/>
+      <Q id="766441043" qualifier_id="212" value="26.6"/>
+      <Q id="2076286057" qualifier_id="213" value="2.9"/>
+      <Q id="2027160292" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="1004809326" event_id="243" type_id="1" period_id="1" min="30" sec="50" player_id="170034" team_id="148" outcome="1" x="44.0" y="21.9" timestamp="" last_modified="" version="1471181480218">
+      <Q id="228879264" qualifier_id="212" value="27.3"/>
+      <Q id="109726424" qualifier_id="213" value="1.6"/>
+      <Q id="1130376409" qualifier_id="56" value="Back"/>
+      <Q id="336737520" qualifier_id="141" value="62.0"/>
+      <Q id="1141766983" qualifier_id="140" value="42.0"/>
+    </Event>
+    <Event id="1941881369" event_id="244" type_id="1" period_id="1" min="30" sec="54" player_id="171101" team_id="148" outcome="1" x="42.5" y="64.2" timestamp="" last_modified="" version="1471181482624">
+      <Q id="443553156" qualifier_id="212" value="18.6"/>
+      <Q id="563007131" qualifier_id="140" value="39.3"/>
+      <Q id="434709038" qualifier_id="141" value="37.3"/>
+      <Q id="1927676649" qualifier_id="213" value="4.5"/>
+      <Q id="1931133226" qualifier_id="56" value="Back"/>
+    </Event>
+    <Event id="115499080" event_id="245" type_id="1" period_id="1" min="30" sec="57" player_id="170034" team_id="148" outcome="1" x="39.7" y="36.3" timestamp="" last_modified="" version="1471181484810">
+      <Q id="1334709187" qualifier_id="141" value="8.8"/>
+      <Q id="1309320922" qualifier_id="140" value="43.8"/>
+      <Q id="1217168383" qualifier_id="212" value="19.2"/>
+      <Q id="1167148055" qualifier_id="56" value="Back"/>
+      <Q id="1781314347" qualifier_id="213" value="4.9"/>
+    </Event>
+    <Event id="605784197" event_id="246" type_id="1" period_id="1" min="30" sec="59" player_id="9980" team_id="148" outcome="1" x="44.3" y="9.7" timestamp="" last_modified="" version="1471181487081">
+      <Q id="238032174" qualifier_id="213" value="6.0"/>
+      <Q id="170581555" qualifier_id="56" value="Right"/>
+      <Q id="1989396568" qualifier_id="212" value="19.0"/>
+      <Q id="6317295" qualifier_id="140" value="61.7"/>
+      <Q id="1662313829" qualifier_id="141" value="2.0"/>
+    </Event>
+    <Event id="1101102032" event_id="247" type_id="3" period_id="1" min="31" sec="0" player_id="80799" team_id="148" outcome="1" x="62.3" y="2.4" timestamp="" last_modified="" version="1471181488436">
+      <Q id="792684227" qualifier_id="233" value="286"/>
+      <Q id="1133576292" qualifier_id="286"/>
+      <Q id="127112483" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="1112793800" event_id="286" type_id="45" period_id="1" min="31" sec="0" player_id="37832" team_id="143" outcome="0" x="37.7" y="97.6" timestamp="" last_modified="" version="1471181488436">
+      <Q id="60494229" qualifier_id="56" value="Back"/>
+      <Q id="861141022" qualifier_id="233" value="247"/>
+      <Q id="101089681" qualifier_id="285"/>
+    </Event>
+    <Event id="1248122706" event_id="248" type_id="1" period_id="1" min="31" sec="2" player_id="80799" team_id="148" outcome="1" x="63.8" y="5.0" timestamp="" last_modified="" version="1471181491162">
+      <Q id="1397275691" qualifier_id="140" value="78.8"/>
+      <Q id="308944166" qualifier_id="141" value="1.3"/>
+      <Q id="768228580" qualifier_id="212" value="15.9"/>
+      <Q id="468716771" qualifier_id="56" value="Right"/>
+      <Q id="720576425" qualifier_id="213" value="6.1"/>
+    </Event>
+    <Event id="194775015" event_id="249" type_id="3" period_id="1" min="31" sec="5" player_id="210460" team_id="148" outcome="0" x="81.6" y="2.2" timestamp="" last_modified="" version="1471181943358">
+      <Q id="1824075831" qualifier_id="233" value="287"/>
+      <Q id="1912227568" qualifier_id="286"/>
+      <Q id="147659067" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="1166435945" event_id="287" type_id="7" period_id="1" min="31" sec="5" player_id="52775" team_id="143" outcome="1" x="18.4" y="97.8" timestamp="" last_modified="" version="1471181491739">
+      <Q id="1416265300" qualifier_id="56" value="Back"/>
+      <Q id="1174579058" qualifier_id="285"/>
+      <Q id="2050311751" qualifier_id="167"/>
+      <Q id="1721585576" qualifier_id="233" value="249"/>
+    </Event>
+    <Event id="1816637331" event_id="250" type_id="5" period_id="1" min="31" sec="6" player_id="210460" team_id="148" outcome="1" x="80.7" y="-1.2" timestamp="" last_modified="" version="1471181585914">
+      <Q id="384764379" qualifier_id="233" value="288"/>
+      <Q id="1753946898" qualifier_id="56" value="Right"/>
+    </Event>
+    <Event id="925940793" event_id="288" type_id="5" period_id="1" min="31" sec="6" player_id="52775" team_id="143" outcome="0" x="19.3" y="101.2" timestamp="" last_modified="" version="1471181497407">
+      <Q id="366673144" qualifier_id="56" value="Back"/>
+      <Q id="2021387057" qualifier_id="233" value="250"/>
+    </Event>
+    </Game>
+</Games>
