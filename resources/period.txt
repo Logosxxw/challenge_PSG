@@ -1,0 +1,10 @@
+period|id
+First half|1
+Second Half|2
+First period of extra time|3
+Second period of extra time|4
+Penalty shoot out|5
+Half-time|10
+Post-game|14
+Pre-game|15
+Pre-match|16

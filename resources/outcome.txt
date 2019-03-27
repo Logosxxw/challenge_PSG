@@ -1,0 +1,13 @@
+id|event|0|1
+1|Pass|Unsuccessful pass ie pass did not find team mate|Successful pass
+3|Take On|Unsuccessful – player lost possession or was tackled|Successful take on
+4|Foul|Player who committed the foul Player who was fouled
+5|Out|The team that put the ball out|The team that therefore gained possession
+6|Corner Awarded|The team that conceded the corner|The team that won the corner
+7|Tackle|Unsuccessful attempted tackle/challenge from this team to the team on the ball ie other team retains possession after the challenge|Successful tackle ie challenging player wins possession of the ball from the other team
+11|Claim|Keeper drops the ball after an attempted catch from a cross. The keeper may then pick up the ball again and retain possession, but this would be a separate event|Keeper catches the cross in one attempt ie no drop
+44|Aerial|Player lost aerial duel|Player won the aerial duel
+57|Foul throw in|Player who conceded the foul throw|Player who won the foul throw
+59 Keeper Sweeper|Goalkeeper comes off the line and clears ball but possession switches to other team (not the same as player clearing ball out of play which is outcome="1")|Goalkeeper comes off the line and either clears ball to another team mate (ie possession retained) or straight out of play
+61|Ball touch Player unsuccessfully controlled the ball ie lost possession|Ball simply hit player unintentionally
+67|50/50|Player lost 50/50 duel|Player won 50/50 duel
