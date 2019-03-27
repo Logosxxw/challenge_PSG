@@ -1,0 +1,92 @@
+1|Long ball|Long pass over 32 metres
+2|Cross|A ball played in from wide areas into the box
+3|Head pass|Pass made with a players head
+4|Through ball|Ball played through for player making an attacking run to create a chance on goal
+5|Free kick|taken Any free kick; direct or indirect
+6|Corner taken|All corners. Short corners will feature qualifier 6 but be missing qualifier 2 (cross).
+7|Players caught
+offside
+Players caught
+offside
+Player who was in an offside position when pass was made.
+8 Goal disallowed Pass led to a goal disallowed for a foul or offside
+106 Attacking Pass A pass in the opposition’s half of the pitch | No longer collected as of June 2016
+107 Throw-in Throw-in taken
+140 Pass End X 0_100 The x pitch coordinate for the end point of a pass
+- See Appendix 11
+141 Pass End Y 0_100 The y pitch coordinate for the end point of a pass
+- See Appendix 11
+152 Direct A direct free kick.
+155 Chipped Pass which was chipped into the air
+156 Lay-off Pass where player laid the ball into the path of a teammates run
+157 Launch
+Pass played from a player’s own half up towards front players. Aimed to hit a zone rather than a specific player
+168 Flick-on
+Pass where a player has "flicked" the ball forward using their head
+193 Goal Measure
+Essentially a Goal Rating from 1-5 but is only used for a limited about of comps. This was collected from 2013-
+2015 but is no longer used
+195 Pull Back
+Player in opposition’s penalty box reaches the by-line and passes (cuts) the ball backwards to a teammate
+196 Switch of play
+Any pass which crosses the centre zone of the pitch and in length is greater than 60 on the y axis of the pitch
+210 Assist
+The pass was an assist for a shot. The type of shot then dictates whether it was a goal assist or just key pass.
+212 Length
+Dynamic -
+length of pass in
+metres
+The estimated length the ball has travelled during the associated event.
+213 Angle 0 to 6.28
+(Radians)
+The angle the ball travels at during an event relative to the direction of play. Shown in radians.
+218 2nd assist Pass was deemed a 2nd assist - created the opportunity for another player to assist a goal
+219 Players on both
+posts
+Assigned to a pass event with qualifier 6 indicating if there were defensive players on both posts when a corner
+was taken | No longer collected as of June 2016
+220 Player on near
+post
+Assigned to a pass event with qualifier 6 indicating if there was a defensive player on only the near post when a
+corner was taken | No longer collected as of June 2016
+221 Player on far
+post
+Assigned to a pass event with qualifier 6 indicating if there was a defensive player on only the far post when
+corner was taken | No longer collected as of June 2016
+222 No players on
+posts
+Assigned to a pass event with qualifier 6 indicating if there were no defensive players on either post when a
+corner was taken | No longer collected as of June 2016
+223 In-swinger Corner was crossed into the box swerving towards the goal
+224 Out-swinger Corner was crossed into the box swerving away from the goal
+225 Straight Corner was crossed into the box with a straight ball flight
+236 Blocked Pass
+Similar to interception but player already very close to ball - instead of touch event in past. Or assigned to the
+pass to indicate it was blocked
+238 Fair Play Ball kicked out of play for injury etc
+240 GK Start
+Automated qualifier which appears on all GK passes after keeper collects ball with his hands and then puts it on
+the ground.
+241 Indirect Shows if indirect freekick is taken
+279 Kick Off
+S = kick-off to
+start a period
+(first half,
+second half, first
+half extra-time,
+second half
+extra-time)
+G = kick-off
+following a goal
+Starting pass - to enable exclusion from passing
+%
+278 Tap Ball tapped to other player (i.e. for free-kick shot)
+287 Over-arm Indicates over-arm throw out by the goalkeeper
+345 Overhit Cross A cross which clearly went over the intended target area
+346 Next Event -
+Goal Kick
+Used with Event 5. Indicates the next event will be a goal-kick
+347 Next Event -
+Throw-In
+Used with Event 5. Indicates the next event will be a throw-in
+Offside Pass Events
