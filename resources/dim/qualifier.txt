@@ -1,4 +1,4 @@
-qualifier_id|type|description
+id|type|description
 1|Long ball|Long pass over 32 metres
 2|Cross|A ball played in from wide areas into the box
 3|Head pass|Pass made with a players head
@@ -24,7 +24,7 @@ qualifier_id|type|description
 213|Angle|The angle the ball travels at during an event relative to the direction of play. Shown in radians.
 218|2nd assist|Pass was deemed a 2nd assist - created the opportunity for another player to assist a goal
 219|Players on both posts|Assigned to a pass event with qualifier 6 indicating if there were defensive players on both posts when a corner was taken No longer collected as of June 2016
-220|Player on near post Assigned to a pass event with qualifier 6 indicating if there was a defensive player on only the near post when a corner was taken No longer collected as of June 2016
+220|Player on near post|Assigned to a pass event with qualifier 6 indicating if there was a defensive player on only the near post when a corner was taken No longer collected as of June 2016
 221|Player on far post|Assigned to a pass event with qualifier 6 indicating if there was a defensive player on only the far post when corner was taken No longer collected as of June 2016
 222|No players on posts|Assigned to a pass event with qualifier 6 indicating if there were no defensive players on either post when a corner was taken No longer collected as of June 2016
 223|In-swinger|Corner was crossed into the box swerving towards the goal
@@ -39,7 +39,7 @@ qualifier_id|type|description
 287|Over-arm|Indicates over-arm throw out by the goalkeeper
 345|Overhit Cross|A cross which clearly went over the intended target area
 346|Next Event - Goal Kick|Used with Event 5. Indicates the next event will be a goal-kick
-347 Next Event - Throw-In|Used with Event 5. Indicates the next event will be a throw-in Offside Pass Events
+347|Next Event - Throw-In|Used with Event 5. Indicates the next event will be a throw-in Offside Pass Events
 23|Fast Break|An offside pass which would have started a fast break
 297|Follows shot rebound|An offside pass that follwos a rebounded shot
 298|Follows shot blocked|An offside pass that follwos a blocked shot
@@ -67,7 +67,7 @@ qualifier_id|type|description
 113|Strong|Shot was subjectively classed as strong
 114|Weak|Shot was subjectively classed as weak
 115|Rising|Shot was rising in the air No longer collected as of June 2016
-116|Dipping|Shot was dipping towards the ground | No longer collected as of June 2016
+116|Dipping|Shot was dipping towards the ground No longer collected as of June 2016
 117|Lob|Shot was an attempt by the attacker to play the ball over the goalkeeper and into the goal
 120|Swerve Left|Shot which swerves to the left - from attackers perspective
 121|Swerve Right|Shot which swerves to the right - from attackers perspective
@@ -78,8 +78,7 @@ qualifier_id|type|description
 138|Hit Woodwork|Any shot which hits the post or crossbar
 153|Not past goal line|Shot missed which does not pass the goal line
 214|Big Chance|Shot was deemed by Opta analysts an excellent opportunity to score – clear cut chance eg one on one
-215|Individual Play|Player created the chance to shoot by himself, not assisted. For example he dribbled to create space for himself
-and shot.
+215|Individual Play|Player created the chance to shoot by himself, not assisted. For example he dribbled to create space for himself and shot.
 217|2nd assisted|Indicates that this shot had a significant pass to create the opportunity for the pass which led to a goal
 228|Own shot blocked|Player blocks an attacking shot unintentionally from their teammate
 230|GK X Coordinate|GK position when goal or shot hit post
@@ -130,8 +129,8 @@ and shot.
 81|High Right|Zone of the goalmouth
 82|Blocked|Zone of the goalmouth
 83|Close left|Zone of the goalmouth
-84|Close right Zone of the goalmouth
-85|Close high Zone of the goalmouth
+84|Close right|Zone of the goalmouth
+85|Close high|Zone of the goalmouth
 86|Close left and high|Zone of the goalmouth
 87|Close right and high|Zone of the goalmouth
 100|Six yard blocked|Shot blocked on the 6 yard line
@@ -189,10 +188,10 @@ and shot.
 190|From shot off target|Used with Event 10. Indicates a shot was saved by the goalkeeper but in fact the shot was going wide and not on target
 88|High claim|Event 11 Claim - Goalkeeper claims possession of a crossed ball
 89|1 on 1|When attacker was clear with no defenders between him and the goalkeeper (can be associated with 10, 11, 12, 13, 14, 15 or 16)
-90|Deflected save|Event 10 Save; when goalkeeper saves a shot but does not catch the ball | No longer collected as of June 2016
-91|Dive and deflect|Event 10 Save; when goalkeeper saves a shot while diving but does not catch the ball | No longer collected as of June 2016
-92|Catch|Event 10 Save; when goalkeeper saves a shot and catches it | No longer collected as of June 2016
-93|Dive and catch|Event 10 Save; when goalkeeper saves a shot while diving and catches it | No longer collected as of June 2016
+90|Deflected save|Event 10 Save; when goalkeeper saves a shot but does not catch the ball No longer collected as of June 2016
+91|Dive and deflect|Event 10 Save; when goalkeeper saves a shot while diving but does not catch the ball No longer collected as of June 2016
+92|Catch|Event 10 Save; when goalkeeper saves a shot and catches it No longer collected as of June 2016
+93|Dive and catch|Event 10 Save; when goalkeeper saves a shot while diving and catches it No longer collected as of June 2016
 123|Keeper Throw|Pass event - goalkeeper throws the ball out
 124|Goal Kick|Pass event – goal kick
 128|Punch|Clearance by goalkeeper where he punches the ball clear
@@ -246,7 +245,7 @@ and shot.
 130|Team formation|See appendix 14
 131|Team player formation|Player position within a formation - 'See appendix 14
 145|Formation slot|Formation position of a player coming on - see appendix 14
-194|Captain||ID of the player who is the team captain
+194|Captain|ID of the player who is the team captain
 197|Team kit|Kit of the team
 283|Coach ID|ID of the team coach
 290|Coach Types|Shows Coaches and involved roles

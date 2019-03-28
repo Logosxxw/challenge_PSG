@@ -1,4 +1,4 @@
-id|event|description
+id|type|description
 1|Pass|Any pass attempted from one player to another - free kicks, corners, throw-ins, goal kicks and goal assists
 2|Offside|Pass Attempted pass made to a player who is in an offside position
 3|Take On|Attempted dribble past an opponent (excluding when qualifier 211 is present as this is 'overrun' and is not always a duel event)
@@ -58,7 +58,7 @@ id|event|description
 64|Resume|Match resumes on a new date after being abandoned mid game
 65|Contentious referee decision|Any major talking point or error made by the referee – decision will be assigned to the relevant team
 66|Possession Data|Possession event will appear every 5 mins **No longer recorded in the feed**
-67|50/50|2 players running for a loose ball - GERMAN ONLY. Outcome 1 or 0. | No longer collected as of June 2017
+67|50/50|2 players running for a loose ball - GERMAN ONLY. Outcome 1 or 0. No longer collected as of June 2017
 68|Referee Drop Ball|Delay - ref stops - this to event given to both teams on restart. No Outcome
 70|Injury Time Announcement|Injury Time awarded by Referee
 71|Coach Setup|Coach Type; 1,2,18,30,32,54,57,58,59
