@@ -1,3 +1,4 @@
 # OSX
 *.DS_Store*
-
+resources/.DS_Store
+.ipynb_checkpoints
