@@ -1,0 +1,1930 @@
+period	min	sec	player_id	team_id	event_type	outcome	length	direction	x	y	position	qualifier
+16	0	0		149	Team set up	1	null	null	0.0	0.0	null	null
+16	0	0		1395	Team set up	1	null	null	0.0	0.0	null	null
+1	0	0		1395	Start	1	null	null	0.0	0.0	null	null
+1	0	0		149	Start	1	null	null	0.0	0.0	null	null
+1	0	0	40720	149	Pass	1	short	right	49.9	49.9	Back	Kick Off
+1	0	2	61170	149	Pass	1	middle	right	43.0	35.1	Right	null
+1	0	6	46497	149	Pass	1	short	forward	44.0	9.8	Right	null
+1	0	8	61170	149	Deleted event	1	null	null	0.0	0.0	null	null
+1	0	8	204727	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	0	10	61170	149	Ball touch	0	null	null	59.2	3.1	Right	null
+1	0	11	204727	1395	Out	1	null	null	38.0	101.2	Back	null
+1	0	11	61170	149	Out	0	null	null	62.0	-1.2	Right	null
+1	0	16	212752	1395	Pass	1	middle	back	35.7	100.0	Back	Throw-in
+1	0	19	204727	1395	Pass	1	middle	right	22.3	85.3	Back	null
+1	0	23	115851	1395	Pass	0	long	forward	3.9	49.4	Back	Launch
+1	0	26	80226	149	Pass	0	middle	forward	63.3	3.4	Right	null
+1	0	27	204727	1395	Clearance	1	middle	null	24.9	82.3	null	Out of play
+1	0	31	46497	149	Out	1	null	null	94.1	-1.6	Right	null
+1	0	31	204727	1395	Out	0	null	null	5.9	101.6	Back	null
+1	0	43	80226	149	Pass	1	short	left	93.1	0.0	Right	Throw-in
+1	0	47	46497	149	Dispossessed	1	null	null	96.9	6.2	Right	null
+1	0	47	153649	1395	Tackle	1	null	null	3.1	93.8	Back	Out of play
+1	0	48	78275	1395	Out	0	null	null	4.0	101.5	Back	null
+1	0	48	46497	149	Out	1	null	null	96.0	-1.5	Right	null
+1	0	54	80226	149	Pass	1	short	left	96.8	0.0	Right	Throw-in
+1	0	55	46497	149	Pass	1	short	right	95.3	9.2	Right	Lay-off
+1	0	57	80226	149	Pass	0	middle	left	94.4	2.0	Center	Chipped|Cross
+1	0	58	26894	1395	Clearance	1	long	null	6.3	54.2	null	null
+1	1	5	116406	149	Pass	1	long	back	43.1	6.2	Back	null
+1	1	11	84182	149	Pass	1	long	left	11.9	29.7	Back	Chipped
+1	1	13	51090	149	Pass	0	middle	right	25.0	79.7	Back	Launch
+1	1	16	153649	1395	Pass	1	short	left	62.4	55.1	Center	null
+1	1	18	66959	1395	Ball recovery	1	null	null	63.3	67.8	null	null
+1	1	19	66959	1395	Pass	1	short	right	58.2	74.4	Center	null
+1	1	22	151873	1395	Dispossessed	1	null	null	55.1	66.2	Center	null
+1	1	22	61170	149	Tackle	1	null	null	44.9	33.8	Back	null
+1	1	23	40720	149	Ball recovery	1	null	null	53.1	34.2	null	null
+1	1	23	40720	149	Pass	1	short	right	53.1	34.2	Center	null
+1	1	24	46497	149	Ball touch	0	null	null	56.9	30.7	Center	null
+1	1	27	212752	1395	Ball recovery	1	null	null	38.3	69.1	null	null
+1	1	28	212752	1395	Pass	1	middle	right	39.2	67.2	Back	null
+1	1	29	170271	1395	Pass	1	middle	right	34.6	50.3	Back	null
+1	1	32	108168	1395	Pass	1	short	forward	51.8	32.2	Center	null
+1	1	34	151873	1395	Dispossessed	1	null	null	62.1	47.5	Center	null
+1	1	34	73494	149	Tackle	0	null	null	37.9	52.5	Back	null
+1	1	36	153649	1395	Pass	0	short	right	61.2	56.6	Center	Chipped
+1	1	37	11527	149	Ball touch	1	null	null	36.7	56.0	Back	null
+1	1	40	170271	1395	Pass	1	middle	left	47.4	55.7	Back	null
+1	1	42	204727	1395	Pass	1	long	right	38.5	74.7	Back	null
+1	1	45	78275	1395	Pass	1	middle	left	36.7	25.2	Back	null
+1	1	48	26894	1395	Pass	1	short	forward	37.7	49.9	Back	null
+1	1	49	151873	1395	Pass	1	short	right	43.3	49.4	Back	null
+1	1	53	170271	1395	Pass	1	short	right	58.0	17.7	Right	null
+1	1	55	111931	1395	Ball touch	0	null	null	67.3	3.7	Right	null
+1	1	58	89068	149	Pass	1	short	right	24.6	93.1	Back	null
+1	1	59	11527	149	Ball recovery	1	null	null	27.4	87.2	null	null
+1	2	0	11527	149	Pass	1	short	left	27.4	87.2	Back	null
+1	2	1	89068	149	Pass	0	long	forward	29.3	95.6	Left	null
+1	2	2	78275	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	2	7	78275	1395	Ball recovery	1	null	null	15.7	2.6	null	null
+1	2	8	78275	1395	Pass	1	middle	left	15.7	2.6	Back	null
+1	2	10	115851	1395	Pass	1	long	left	5.2	50.6	Back	Chipped
+1	2	12	212752	1395	Ball touch	0	null	null	29.4	90.3	Back	null
+1	2	13	80226	149	Pass	1	middle	forward	61.2	3.4	Right	null
+1	2	14	46497	149	Ball recovery	1	null	null	75.5	4.1	null	null
+1	2	18	46497	149	Pass	0	long	left	80.4	2.8	Center	Chipped|Cross
+1	2	20	115851	1395	Keeper pick-up	1	null	null	2.0	50.9	null	null
+1	2	22	115851	1395	Pass	1	middle	forward	4.8	49.6	Back	Keeper Throw
+1	2	24	170271	1395	Pass	1	middle	right	23.9	48.7	Back	null
+1	2	32	111931	1395	Pass	1	short	left	56.8	3.8	Right	null
+1	2	36	108168	1395	Dispossessed	1	null	null	57.3	8.8	Right	null
+1	2	36	73494	149	Tackle	1	null	null	42.7	91.2	Back	Out of play
+1	2	37	73494	149	Out	0	null	null	45.6	102.0	Back	null
+1	2	37	151873	1395	Out	1	null	null	54.4	-2.0	Right	null
+1	2	41	111931	1395	Pass	1	short	back	53.1	0.0	Back	Throw-in
+1	2	42	170271	1395	Pass	1	middle	back	45.1	10.0	Back	null
+1	2	47	78275	1395	Pass	1	middle	left	29.5	20.3	Back	null
+1	2	48	26894	1395	Pass	1	middle	left	33.6	58.4	Back	Chipped
+1	2	53	212752	1395	Take On	0	null	null	72.2	94.3	Left	null
+1	2	53	80226	149	Tackle	0	null	null	27.8	5.7	Back	null
+1	2	54	212752	1395	Ball touch	1	null	null	68.1	93.9	Left	null
+1	2	55	66959	1395	Pass	0	short	right	72.4	82.0	Center	null
+1	2	55	73494	149	Blocked Pass	1	null	null	22.3	26.7	Back	null
+1	2	59	84182	149	Ball recovery	1	null	null	9.2	44.3	null	null
+1	3	1	84182	149	Pass	1	middle	left	11.8	62.4	Back	null
+1	3	5	89068	149	Pass	1	middle	right	29.8	95.4	Back	null
+1	3	7	11527	149	Pass	1	middle	right	36.6	66.3	Back	null
+1	3	10	61170	149	Pass	1	middle	back	34.2	36.7	Back	null
+1	3	12	116406	149	Pass	1	middle	left	19.3	37.7	Back	null
+1	3	15	51090	149	Pass	1	middle	forward	22.7	79.9	Back	null
+1	3	22	89068	149	Pass	1	middle	right	47.4	93.6	Back	null
+1	3	25	73494	149	Pass	1	short	left	37.2	68.8	Back	null
+1	3	27	51090	149	Pass	1	middle	forward	36.4	83.3	Left	null
+1	3	30	89068	149	Pass	1	middle	forward	57.8	97.2	Left	null
+1	3	34	37971	149	Ball touch	0	null	null	88.5	95.7	Left	null
+1	3	35	37971	149	Out	0	null	null	101.6	92.7	Left	null
+1	3	35	78275	1395	Out	1	null	null	-1.6	6.2	Back	null
+1	3	58	115851	1395	Pass	1	middle	right	5.0	42.8	Back	Goal Kick|Low
+1	3	59	78275	1395	Pass	1	middle	left	12.5	15.3	Back	null
+1	4	1	115851	1395	Pass	0	long	left	4.8	38.8	Back	Chipped|Switch of play
+1	4	2	37971	149	Out	1	null	null	75.4	-1.5	Right	null
+1	4	2	115851	1395	Out	0	null	null	24.6	101.5	Back	null
+1	4	11	80226	149	Pass	1	short	left	80.7	0.0	Right	Throw-in
+1	4	12	46497	149	Pass	1	short	back	79.2	11.1	Right	null
+1	4	15	61170	149	Pass	0	short	back	73.0	4.3	Right	null
+1	4	15	66959	1395	Blocked Pass	1	null	null	26.0	94.7	Back	null
+1	4	16	61170	149	Out	1	null	null	74.4	-1.8	Right	null
+1	4	16	66959	1395	Out	0	null	null	25.6	101.8	Back	null
+1	4	17	61170	149	Pass	1	middle	back	72.7	0.0	Back	Throw-in
+1	4	21	116406	149	Pass	1	short	forward	47.4	12.6	Right	null
+1	4	23	61170	149	Pass	0	short	forward	56.4	2.5	Right	null
+1	4	24	212752	1395	Interception	1	null	null	34.5	93.6	Back	null
+1	4	26	73494	149	Pass	1	short	right	58.6	14.0	Right	null
+1	4	27	61170	149	Pass	1	middle	left	56.1	17.6	Center	null
+1	4	29	11527	149	Pass	1	middle	left	53.5	53.0	Left	null
+1	4	34	89068	149	Pass	0	middle	right	70.9	89.6	Center	Chipped|Cross
+1	4	35	26894	1395	Clearance	1	middle	null	13.8	44.3	null	null
+1	4	39	61170	149	Pass	1	middle	back	68.2	28.3	Back	null
+1	4	42	116406	149	Pass	1	middle	left	47.3	33.4	Back	null
+1	4	45	51090	149	Pass	1	middle	left	42.5	64.6	Left	null
+1	4	48	89068	149	Pass	1	short	right	59.4	96.9	Left	null
+1	4	51	11527	149	Pass	1	short	forward	62.0	88.0	Left	null
+1	4	54	89068	149	Pass	1	short	right	71.1	96.0	Left	null
+1	4	58	11527	149	Pass	1	middle	right	68.9	76.4	Center	null
+1	5	1	61170	149	Pass	0	long	forward	69.6	32.4	Center	Chipped
+1	5	4	115851	1395	Claim	1	null	null	3.2	44.6	Back	High claim
+1	5	18	115851	1395	Pass	0	long	forward	12.0	41.9	Center	Gk kick from hands
+1	5	19	108168	1395	Aerial	0	null	null	60.8	27.9	Center	Offensive
+1	5	19	51090	149	Aerial	1	null	null	39.2	72.1	Back	Defensive
+1	5	20	51090	149	Pass	1	short	forward	39.1	70.3	Back	null
+1	5	21	11527	149	Pass	1	middle	back	43.9	74.7	Back	Chipped
+1	5	23	116406	149	Pass	1	middle	back	22.8	64.8	Back	null
+1	5	25	84182	149	Keeper pick-up	1	null	null	8.4	58.4	null	null
+1	5	29	84182	149	Pass	1	long	left	12.6	56.0	Back	Keeper Throw|Over-arm
+1	5	34	89068	149	Pass	1	middle	right	32.7	95.1	Back	null
+1	5	36	11527	149	Pass	1	middle	left	36.2	78.1	Back	null
+1	5	39	89068	149	Pass	1	short	back	35.4	93.8	Back	null
+1	5	41	51090	149	Pass	1	short	left	26.6	86.9	Back	null
+1	5	44	89068	149	Pass	1	short	forward	33.9	96.5	Back	null
+1	5	46	37971	149	Pass	0	short	back	42.3	96.2	Back	null
+1	5	47	170271	1395	Ball touch	1	null	null	54.4	9.2	Right	null
+1	5	48	170271	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	5	48	111931	1395	Challenge	0	null	null	55.8	5.2	Right	null
+1	5	48	37971	149	Take On	1	null	null	50.2	94.2	Back	null
+1	5	50	37971	149	Dispossessed	1	null	null	41.4	94.7	Back	null
+1	5	50	151873	1395	Tackle	1	null	null	49.8	5.8	Back	Out of play
+1	5	53	170271	1395	Out	0	null	null	39.4	-1.6	Back	null
+1	5	53	37971	149	Out	1	null	null	60.6	101.6	Left	null
+1	6	4	89068	149	Pass	1	middle	back	57.8	100.0	Back	Throw-in
+1	6	5	51090	149	Pass	1	long	right	31.7	91.5	Back	null
+1	6	9	84182	149	Pass	1	middle	right	13.5	43.3	Back	null
+1	6	14	116406	149	Pass	1	short	forward	22.3	9.5	Back	null
+1	6	15	80226	149	Pass	1	short	left	28.4	3.8	Back	null
+1	6	17	61170	149	Pass	1	middle	forward	31.8	14.9	Back	null
+1	6	18	80226	149	Pass	1	short	forward	46.1	2.8	Right	null
+1	6	19	46497	149	Pass	1	middle	forward	52.6	6.7	Right	null
+1	6	23	80226	149	Pass	1	middle	left	79.8	23.9	Center	Assist
+1	6	26	89068	149	Attempt Saved	1	null	null	79.3	68.2	Center	Assisted|footed|out of box
+1	6	26	115851	1395	Save	1	null	null	1.1	47.0	Back	Diving
+1	6	29	40720	149	Attempt Saved	1	null	null	98.0	59.0	Center	footed|inside box
+1	6	29	115851	1395	Save	1	null	null	2.8	41.2	Back	Diving
+1	6	30	115851	1395	Corner Awarded	0	null	null	2.4	41.1	Back	null
+1	6	30	40720	149	Corner Awarded	1	null	null	97.6	58.9	Center	null
+1	6	54	46497	149	Pass	1	long	right	99.5	99.5	Center	Assist|Chipped|Corner taken|Cross
+1	6	57	51090	149	Attempt Saved	1	null	null	90.5	48.0	Center	Assisted|From corner|Head|inside box
+1	6	57	115851	1395	Save	1	null	null	1.1	49.9	Back	Caught|Stooping
+1	6	59	115851	1395	Claim	1	null	null	1.1	49.9	Back	High claim
+1	7	12	115851	1395	Pass	1	middle	left	4.8	50.1	Back	Keeper Throw|Over-arm
+1	7	15	151873	1395	Pass	1	short	left	24.9	83.9	Back	null
+1	7	17	204727	1395	Pass	0	short	forward	21.3	91.7	Back	null
+1	7	17	46497	149	Blocked Pass	1	null	null	77.1	14.7	Right	null
+1	7	18	151873	1395	Ball touch	0	null	null	27.9	81.3	Back	null
+1	7	18	61170	149	Ball recovery	1	null	null	60.5	5.2	null	null
+1	7	19	61170	149	Pass	1	short	left	60.2	5.3	Right	null
+1	7	19	73494	149	Pass	1	short	right	61.4	15.6	Right	null
+1	7	20	61170	149	Pass	1	short	left	60.2	5.0	Right	null
+1	7	22	73494	149	Pass	1	middle	back	55.6	22.4	Back	null
+1	7	24	116406	149	Pass	1	middle	forward	42.9	18.9	Right	null
+1	7	28	80226	149	Pass	1	short	forward	65.7	4.1	Right	null
+1	7	31	46497	149	Pass	1	long	left	70.0	4.4	Center	Chipped
+1	7	35	11527	149	Pass	1	long	left	67.4	54.0	Left	null
+1	7	37	89068	149	Pass	1	short	right	82.6	94.1	Center	null
+1	7	39	37971	149	Pass	1	short	back	80.9	78.2	Center	null
+1	7	43	11527	149	Pass	1	short	right	66.5	70.8	Center	null
+1	7	44	61170	149	Pass	1	short	left	68.6	61.5	Center	null
+1	7	46	11527	149	Pass	1	middle	left	66.7	77.0	Left	null
+1	7	49	37971	149	Pass	1	middle	forward	81.5	94.5	Left	null
+1	7	51	89068	149	Pass	0	middle	right	97.8	88.7	Center	Cross
+1	7	52	78275	1395	Clearance	1	middle	null	6.9	28.5	null	null
+1	7	55	170271	1395	Clearance	1	middle	null	19.4	22.8	null	null
+1	7	57	73494	149	Pass	1	short	forward	64.0	76.9	Center	null
+1	7	58	11527	149	Pass	1	short	right	66.7	73.2	Center	null
+1	8	0	61170	149	Pass	0	middle	forward	69.6	63.0	Center	null
+1	8	2	204727	1395	Interception	1	null	null	22.7	49.1	Back	null
+1	8	3	26894	1395	Clearance	1	middle	null	23.5	46.6	null	null
+1	8	5	66959	1395	Aerial	0	null	null	40.4	60.7	Back	Defensive
+1	8	5	116406	149	Aerial	1	null	null	59.6	39.3	Center	Offensive
+1	8	5	116406	149	Pass	1	middle	left	56.5	40.6	Center	null
+1	8	6	11527	149	Pass	1	short	right	64.8	53.7	Center	Lay-off
+1	8	8	61170	149	Pass	1	middle	right	61.2	42.5	Right	null
+1	8	11	80226	149	Pass	0	long	left	66.8	3.8	Center	Cross
+1	8	12	26894	1395	Clearance	1	middle	null	14.2	57.9	null	null
+1	8	14	170271	1395	Ball recovery	1	null	null	27.3	63.9	null	null
+1	8	14	170271	1395	Pass	1	short	left	27.3	63.9	Back	null
+1	8	17		1395	Foul	1	null	null	29.7	64.8	Back	Defensive|Direct
+1	8	17	61170	149	Foul	0	null	null	70.3	35.2	Center	Direct|Offensive
+1	8	34	204727	1395	Pass	0	middle	right	28.9	67.3	Back	Direct|Free kick
+1	8	36	37971	149	Ball recovery	1	null	null	71.2	56.6	null	null
+1	8	36	37971	149	Pass	0	middle	forward	71.2	56.6	Center	null
+1	8	39	115851	1395	Keeper pick-up	1	null	null	10.4	39.8	null	null
+1	8	40	115851	1395	Pass	1	middle	right	10.4	39.8	Back	Keeper Throw
+1	8	42	78275	1395	Pass	1	short	forward	24.8	13.2	Back	null
+1	8	45	151873	1395	Pass	1	middle	left	35.1	17.6	Back	null
+1	8	48	170271	1395	Take On	1	null	null	38.0	47.4	Back	null
+1	8	48	61170	149	Challenge	0	null	null	62.0	52.6	Center	null
+1	8	49	170271	1395	Pass	1	middle	left	39.8	47.6	Back	null
+1	8	55	66959	1395	Pass	1	long	right	68.1	67.3	Right	null
+1	8	59	111931	1395	Pass	0	long	left	78.6	13.4	Center	Chipped|Cross
+1	9	2	111931	1395	Out	0	null	null	101.7	63.0	Center	null
+1	9	2	89068	149	Out	1	null	null	-1.7	37.0	Back	null
+1	9	19	84182	149	Pass	1	middle	forward	4.5	59.4	Back	Goal Kick|Low
+1	9	21	51090	149	Pass	1	middle	forward	23.9	83.9	Back	null
+1	9	21	11527	149	Pass	1	middle	forward	35.3	85.4	Back	null
+1	9	24	89068	149	Pass	1	short	right	45.9	97.7	Back	null
+1	9	30	11527	149	Pass	1	middle	right	47.9	76.3	Back	null
+1	9	32	73494	149	Pass	1	short	forward	39.6	56.7	Back	null
+1	9	34	61170	149	Pass	1	short	back	43.0	48.2	Back	null
+1	9	36	116406	149	Pass	1	middle	left	33.6	46.9	Back	null
+1	9	39	204727	1395	Offside provoked	1	null	null	21.5	73.3	null	null
+1	9	39	51090	149	Offside	1	null	null	39.0	75.1	Center	null
+1	9	53	204727	1395	Pass	1	short	forward	24.9	73.6	Back	Free kick|Indirect
+1	9	54	151873	1395	Pass	1	middle	right	34.1	60.0	Back	null
+1	9	55	170271	1395	Pass	1	short	forward	33.9	41.0	Back	null
+1	9	58	66959	1395	Pass	1	middle	right	53.4	34.2	Right	null
+1	10	1	151873	1395	Pass	1	short	forward	61.0	16.4	Right	null
+1	10	3	111931	1395	Pass	1	short	left	68.4	4.4	Right	null
+1	10	5	151873	1395	Pass	1	middle	back	64.4	11.3	Right	null
+1	10	6	78275	1395	Pass	1	short	left	52.7	19.1	Center	null
+1	10	7	170271	1395	Pass	1	short	back	56.1	27.3	Center	Lay-off
+1	10	9	78275	1395	Pass	1	long	left	52.5	21.5	Back	null
+1	10	11	204727	1395	Pass	1	long	forward	39.2	67.6	Left	null
+1	10	14	212752	1395	Take On	1	null	null	65.6	94.3	Left	null
+1	10	14	46497	149	Challenge	0	null	null	34.4	5.7	Back	null
+1	10	16	212752	1395	Pass	1	short	right	71.1	84.4	Center	null
+1	10	17	108168	1395	Ball touch	0	null	null	73.7	74.7	Center	null
+1	10	19	61170	149	Ball recovery	1	null	null	28.1	33.9	null	null
+1	10	19	61170	149	Pass	1	short	left	27.7	34.2	Back	null
+1	10	20	73494	149	Dispossessed	1	null	null	29.7	42.1	Back	null
+1	10	20	151873	1395	Tackle	0	null	null	71.9	62.1	Center	null
+1	10	22	61170	149	Pass	1	short	right	28.6	44.6	Back	null
+1	10	23	11527	149	Pass	1	middle	forward	32.5	28.6	Back	null
+1	10	26	204727	1395	Foul	0	null	null	54.6	76.8	Left	Defensive|Direct
+1	10	26	46497	149	Foul	1	null	null	45.4	23.2	Back	Direct|Offensive
+1	10	37	204727	1395	Card	1	null	null	0.0	0.0	null	Yellow Card
+1	10	56	61170	149	Pass	1	long	left	45.4	22.1	Left	Chipped|Direct|Free kick|Switch of play
+1	10	59	89068	149	Pass	1	middle	right	55.1	97.1	Left	null
+1	11	1	11527	149	Pass	1	short	right	54.9	73.8	Center	null
+1	11	4	73494	149	Pass	1	middle	right	53.3	52.4	Back	null
+1	11	8	116406	149	Pass	1	short	forward	47.7	37.6	Center	null
+1	11	9	73494	149	Pass	0	short	right	56.4	37.1	Center	null
+1	11	10	108168	1395	Interception	1	null	null	44.4	80.1	Back	null
+1	11	11	108168	1395	Ball recovery	1	null	null	46.2	70.8	null	null
+1	11	12	108168	1395	Pass	1	short	right	47.7	63.7	Center	null
+1	11	13	66959	1395	Pass	1	short	left	51.7	55.5	Center	null
+1	11	15	153649	1395	Dispossessed	1	null	null	55.0	64.7	Center	null
+1	11	15	61170	149	Tackle	1	null	null	45.0	35.3	Back	null
+1	11	16	51090	149	Ball recovery	1	null	null	40.2	55.8	null	null
+1	11	17	51090	149	Pass	1	middle	left	40.2	55.8	Center	null
+1	11	19	37971	149	Pass	1	middle	back	47.5	76.7	Back	null
+1	11	23	89068	149	Pass	1	middle	back	26.6	83.3	Back	null
+1	11	27	84182	149	Pass	1	middle	right	11.4	56.4	Back	null
+1	11	29	116406	149	Pass	1	short	forward	17.2	32.2	Back	null
+1	11	30	73494	149	Pass	1	middle	right	25.6	37.7	Back	null
+1	11	31	80226	149	Pass	1	middle	forward	28.7	6.1	Back	null
+1	11	34	61170	149	Pass	1	middle	left	45.3	22.8	Center	null
+1	11	35	46497	149	Pass	1	short	left	55.3	38.6	Center	null
+1	11	36	11527	149	Pass	1	middle	right	61.0	50.3	Right	null
+1	11	40	80226	149	Pass	0	middle	left	87.2	16.8	Center	Cross
+1	11	41	26894	1395	Clearance	1	middle	null	5.0	64.6	null	Out of play
+1	11	43	26894	1395	Out	0	null	null	12.2	101.6	Back	null
+1	11	43	80226	149	Out	1	null	null	87.8	-1.6	Right	null
+1	12	2	80226	149	Pass	1	short	left	87.2	0.0	Right	Throw-in
+1	12	5	46497	149	Pass	0	short	left	96.6	1.3	Right	Cross
+1	12	6	212752	1395	Clearance	1	short	null	7.2	96.5	null	Blocked cross|Out of play
+1	12	7	46497	149	Ball touch	1	null	null	95.7	2.9	Right	null
+1	12	7	212752	1395	Out	1	null	null	6.6	101.5	Back	null
+1	12	7	46497	149	Out	0	null	null	93.4	-1.5	Right	null
+1	12	19	212752	1395	Pass	1	middle	forward	8.3	100.0	Back	Throw-in
+1	12	21	151873	1395	Pass	0	short	forward	25.2	94.5	Back	Flick-on
+1	12	22	116406	149	Pass	1	middle	left	62.2	3.2	Center	null
+1	12	23	11527	149	Pass	1	middle	back	65.4	25.9	Center	null
+1	12	25	51090	149	Ball recovery	1	null	null	50.8	33.3	null	null
+1	12	25	51090	149	Pass	1	middle	left	49.9	33.1	Center	null
+1	12	27	89068	149	Pass	1	middle	left	53.9	62.0	Left	null
+1	12	31	37971	149	Pass	0	long	right	80.8	96.0	Center	Chipped|Cross
+1	12	35	115851	1395	Claim	0	null	null	8.8	54.3	Back	High claim
+1	12	36	204727	1395	Clearance	1	short	null	9.6	53.6	null	null
+1	12	38	111931	1395	Clearance	1	long	null	13.2	44.8	null	null
+1	12	41	66959	1395	Pass	0	middle	forward	39.3	63.3	Center	Flick-on
+1	12	42	116406	149	Pass	1	middle	back	43.8	35.1	Back	null
+1	12	45	84182	149	Pass	1	middle	left	22.0	45.2	Back	null
+1	12	48	51090	149	Pass	1	middle	right	29.7	84.2	Back	null
+1	12	51	73494	149	Pass	1	middle	left	44.2	69.1	Back	null
+1	12	54	89068	149	Pass	1	short	back	48.4	97.4	Back	null
+1	12	56	73494	149	Pass	1	short	right	41.0	85.3	Back	null
+1	13	0	11527	149	Pass	1	long	right	46.2	62.9	Right	Chipped
+1	13	6	80226	149	Pass	0	long	left	79.5	6.5	Center	Chipped|Cross
+1	13	8	115851	1395	Keeper pick-up	1	null	null	2.7	47.5	null	null
+1	13	8	115851	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	13	18	115851	1395	Pass	1	middle	right	10.0	39.2	Back	Keeper Throw
+1	13	19	111931	1395	Pass	1	middle	back	25.2	12.2	Back	null
+1	13	20	78275	1395	Pass	1	short	forward	14.7	23.4	Back	null
+1	13	23	170271	1395	Pass	1	short	left	22.8	37.7	Back	null
+1	13	26	26894	1395	Pass	1	long	left	18.3	52.8	Back	Chipped
+1	13	29	212752	1395	Pass	0	short	back	29.8	93.3	Back	null
+1	13	31	46497	149	Interception	1	null	null	77.5	7.9	Right	null
+1	13	36	46497	149	Ball touch	1	null	null	99.1	16.8	Right	null
+1	13	39	204727	1395	Pass	1	middle	forward	18.7	76.4	Back	null
+1	13	40	66959	1395	Pass	1	short	right	36.5	86.2	Back	null
+1	13	42	151873	1395	Pass	1	short	forward	39.7	73.8	Back	null
+1	13	51	66959	1395	Pass	1	short	left	68.6	40.1	Center	null
+1	13	53	108168	1395	Pass	1	short	right	70.5	47.6	Center	null
+1	13	55	153649	1395	Pass	1	middle	left	67.7	43.4	Center	null
+1	13	57	212752	1395	Pass	1	short	right	72.1	76.0	Center	null
+1	13	59	66959	1395	Pass	1	short	back	78.3	63.7	Center	Lay-off
+1	14	0	153649	1395	Pass	0	short	forward	76.9	61.1	Center	null
+1	14	2	80226	149	Clearance	1	short	null	15.5	29.5	null	null
+1	14	3	66959	1395	Ball touch	1	null	null	79.9	64.8	Center	null
+1	14	7	170271	1395	Pass	1	short	right	68.9	52.4	Center	null
+1	14	9	108168	1395	Pass	0	short	forward	69.9	47.9	Center	null
+1	14	9	73494	149	Blocked Pass	1	null	null	27.1	52.7	Back	null
+1	14	12	89068	149	Ball recovery	1	null	null	27.0	65.5	null	null
+1	14	14	153649	1395	Challenge	0	null	null	68.2	42.6	Center	null
+1	14	14	89068	149	Take On	1	null	null	31.8	57.4	Back	null
+1	14	14	170271	1395	Challenge	0	null	null	70.9	45.0	Center	null
+1	14	14	89068	149	Take On	1	null	null	29.1	55.0	Back	null
+1	14	15	89068	149	Ball touch	0	null	null	34.1	59.6	Back	null
+1	14	16	151873	1395	Ball recovery	1	null	null	57.1	48.2	null	null
+1	14	16	151873	1395	Pass	1	middle	left	57.1	48.2	Back	null
+1	14	18	204727	1395	Pass	1	middle	forward	41.9	76.7	Left	null
+1	14	25	212752	1395	Pass	1	short	back	67.4	87.1	Left	null
+1	14	27	153649	1395	Pass	1	middle	back	57.0	85.0	Back	null
+1	14	29	204727	1395	Pass	1	middle	right	45.0	78.8	Back	null
+1	14	32	26894	1395	Pass	1	middle	right	39.9	49.4	Back	null
+1	14	35	78275	1395	Ball touch	0	null	null	43.3	16.2	Back	null
+1	14	36	37971	149	Ball recovery	1	null	null	51.7	84.2	null	null
+1	14	37	37971	149	Pass	1	middle	back	48.9	84.1	Back	null
+1	14	38	89068	149	Pass	1	middle	right	36.8	92.4	Back	null
+1	14	41	51090	149	Pass	1	middle	left	28.3	77.2	Back	Chipped
+1	14	46	89068	149	Pass	1	short	right	35.4	93.3	Back	null
+1	14	48	11527	149	Pass	1	middle	left	38.9	78.4	Back	null
+1	14	49	89068	149	Pass	1	middle	right	37.7	96.5	Back	null
+1	14	50	11527	149	Pass	1	short	left	43.0	79.9	Back	null
+1	14	55	89068	149	Pass	0	long	right	60.1	82.9	Center	Chipped
+1	14	57	212752	1395	Pass	1	short	forward	22.1	64.8	Back	null
+1	14	59	153649	1395	Ball recovery	1	null	null	30.5	47.5	null	null
+1	15	0	153649	1395	Pass	1	short	right	31.4	45.5	Back	null
+1	15	1	170271	1395	Pass	1	short	left	34.4	32.5	Back	null
+1	15	3	153649	1395	Pass	1	short	back	35.9	43.0	Back	null
+1	15	4	26894	1395	Pass	1	middle	right	27.1	44.3	Back	Chipped
+1	15	7	111931	1395	Pass	1	short	left	38.7	5.2	Back	null
+1	15	9	170271	1395	Pass	1	middle	left	33.3	24.1	Back	null
+1	15	13	26894	1395	Pass	1	middle	left	29.8	46.9	Back	null
+1	15	15	212752	1395	Pass	1	middle	back	35.3	83.8	Back	null
+1	15	17	204727	1395	Pass	1	short	forward	21.1	72.7	Back	null
+1	15	21	151873	1395	Pass	1	middle	left	29.8	68.5	Back	null
+1	15	22	212752	1395	Pass	1	short	forward	34.5	88.6	Back	null
+1	15	23	153649	1395	Ball touch	0	null	null	40.2	86.3	Back	null
+1	15	23	80226	149	Ball recovery	1	null	null	57.2	3.2	null	null
+1	15	24	80226	149	Pass	1	short	back	57.2	3.2	Right	null
+1	15	25	61170	149	Pass	1	middle	back	52.7	9.2	Back	null
+1	15	27	116406	149	Pass	1	middle	left	34.8	24.4	Back	null
+1	15	30	51090	149	Pass	1	middle	back	33.5	49.0	Back	null
+1	15	35	84182	149	Pass	1	long	right	13.9	57.6	Back	Chipped
+1	15	38	80226	149	Pass	1	short	left	39.9	8.0	Back	null
+1	15	40	73494	149	Pass	1	short	right	37.5	21.0	Back	null
+1	15	41	80226	149	Pass	1	short	left	38.6	4.6	Back	null
+1	15	43	73494	149	Pass	1	middle	forward	44.3	17.4	Right	null
+1	15	44	46497	149	Pass	1	short	back	52.3	4.7	Back	null
+1	15	46	80226	149	Pass	1	middle	back	43.4	3.8	Back	null
+1	15	48	116406	149	Pass	1	middle	left	23.8	33.1	Back	null
+1	15	51	61170	149	Pass	1	middle	forward	35.0	66.9	Back	null
+1	15	53	37971	149	Pass	1	short	back	48.7	72.9	Back	Lay-off
+1	15	55	61170	149	Pass	1	short	right	38.7	73.0	Back	null
+1	15	56	11527	149	Pass	1	middle	left	40.7	58.8	Back	null
+1	16	0	61170	149	Pass	0	middle	forward	45.1	78.8	Left	Chipped
+1	16	1	78275	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	16	3	78275	1395	Ball touch	0	null	null	23.2	23.1	Back	null
+1	16	5	89068	149	Pass	0	long	right	85.7	79.1	Right	Cross
+1	16	9	78275	1395	Out	1	null	null	-1.2	85.8	Back	null
+1	16	9	89068	149	Out	0	null	null	101.1	15.5	Right	null
+1	16	31	115851	1395	Pass	1	middle	left	4.7	51.1	Back	Goal Kick|Low
+1	16	32	204727	1395	Pass	0	middle	right	23.1	89.9	Back	null
+1	16	33	51090	149	Interception	1	null	null	56.5	40.3	Center	null
+1	16	34	170271	1395	Pass	1	middle	back	27.6	67.0	Back	null
+1	16	37	115851	1395	Keeper pick-up	1	null	null	9.7	57.9	null	null
+1	16	49	115851	1395	Pass	1	long	forward	15.5	46.4	Center	Gk kick from hands
+1	16	54	108168	1395	Foul	0	null	null	64.0	44.7	Center	Defensive|Direct
+1	16	54	51090	149	Foul	1	null	null	36.0	55.3	Back	Direct|Offensive
+1	16	55	11527	149	Deleted event	1	null	null	0.0	0.0	null	null
+1	16	56	89068	149	Pass	1	short	right	33.5	73.8	Back	Direct|Free kick
+1	16	58	11527	149	Pass	1	middle	left	38.9	57.3	Back	null
+1	16	59	89068	149	Pass	1	short	right	39.4	79.7	Back	null
+1	17	1	11527	149	Pass	1	long	right	41.8	70.9	Back	Chipped
+1	17	5	80226	149	Pass	1	middle	forward	44.0	11.7	Right	null
+1	17	7	61170	149	Pass	1	short	back	55.3	2.9	Back	null
+1	17	10	80226	149	Pass	1	middle	left	46.4	7.9	Back	null
+1	17	14	116406	149	Pass	1	middle	right	31.4	36.4	Back	null
+1	17	16	61170	149	Pass	1	middle	forward	43.8	11.7	Right	null
+1	17	17	80226	149	Pass	1	short	back	53.5	2.5	Back	null
+1	17	19	61170	149	Pass	1	middle	left	45.8	11.4	Back	null
+1	17	22	73494	149	Pass	1	short	left	43.9	32.1	Back	null
+1	17	26	11527	149	Pass	1	middle	right	47.9	47.5	Back	null
+1	17	28	61170	149	Pass	1	middle	forward	46.9	17.9	Right	null
+1	17	31	46497	149	Pass	0	middle	forward	65.4	2.9	Right	null
+1	17	33	212752	1395	Ball recovery	1	null	null	11.4	90.0	null	null
+1	17	33	212752	1395	Pass	1	short	right	11.4	90.0	Back	null
+1	17	35	204727	1395	Pass	1	middle	forward	9.4	83.0	Back	null
+1	17	37	153649	1395	Pass	1	middle	forward	21.8	94.7	Back	null
+1	17	43	66959	1395	Foul	0	null	null	38.4	94.6	Back	Defensive|Direct
+1	17	43	61170	149	Foul	1	null	null	61.6	5.4	Right	Direct|Offensive
+1	18	9	61170	149	Pass	1	middle	left	60.5	4.7	Center	Direct|Free kick
+1	18	10	11527	149	Pass	1	middle	right	64.9	34.9	Right	null
+1	18	11	61170	149	Pass	1	short	forward	62.4	10.3	Right	null
+1	18	13	80226	149	Pass	1	short	left	67.1	3.7	Right	null
+1	18	16	61170	149	Pass	1	middle	back	68.1	20.6	Center	null
+1	18	17	73494	149	Pass	1	middle	left	55.7	27.3	Center	null
+1	18	20	11527	149	Pass	1	middle	forward	55.5	63.0	Center	null
+1	18	22	37971	149	Pass	1	middle	left	65.9	71.5	Left	Lay-off
+1	18	23	89068	149	Pass	1	short	forward	58.7	97.5	Left	null
+1	18	25	37971	149	Pass	1	short	left	63.0	91.8	Left	null
+1	18	26	89068	149	Pass	1	short	right	63.9	97.8	Left	null
+1	18	28	11527	149	Pass	1	short	left	61.2	86.3	Left	null
+1	18	31	89068	149	Pass	1	short	right	68.5	96.2	Left	null
+1	18	32	37971	149	Pass	1	middle	forward	72.6	86.6	Left	null
+1	18	38	89068	149	Pass	0	short	right	97.9	97.4	Left	null
+1	18	38	78275	1395	Blocked Pass	1	null	null	3.5	7.0	Back	null
+1	18	40	78275	1395	Clearance	1	short	null	3.5	7.0	null	Out of play
+1	18	41	66959	1395	Out	0	null	null	8.0	-1.6	Back	null
+1	18	41	89068	149	Out	1	null	null	92.0	101.6	Left	null
+1	18	43	89068	149	Pass	1	short	right	92.2	100.0	Left	Throw-in
+1	18	44	37971	149	Pass	1	short	back	95.7	93.8	Left	null
+1	18	46	89068	149	Dispossessed	1	null	null	88.9	98.0	Left	null
+1	18	46	111931	1395	Tackle	1	null	null	11.1	2.0	Back	null
+1	18	49	111931	1395	Foul	1	null	null	13.4	2.6	Back	Defensive|Direct
+1	18	49	89068	149	Foul	0	null	null	86.6	97.4	Left	Direct|Offensive
+1	19	10	78275	1395	Pass	0	long	forward	17.8	2.2	Back	Chipped|Direct|Free kick
+1	19	12	11527	149	Pass	1	short	right	51.9	67.0	Center	null
+1	19	13	61170	149	Pass	1	middle	back	55.0	58.2	Back	null
+1	19	15	80226	149	Ball recovery	1	null	null	38.3	43.3	null	null
+1	19	18	80226	149	Pass	1	short	back	37.5	41.6	Back	null
+1	19	20	116406	149	Pass	1	middle	left	29.5	51.9	Back	null
+1	19	22	51090	149	Pass	1	middle	right	29.0	89.3	Back	null
+1	19	26	116406	149	Pass	1	middle	right	21.4	45.1	Back	null
+1	19	29	80226	149	Pass	1	middle	left	29.7	7.9	Back	null
+1	19	31	116406	149	Pass	1	short	forward	22.6	31.8	Back	null
+1	19	33	73494	149	Pass	1	middle	left	32.0	40.3	Back	null
+1	19	39	51090	149	Pass	1	middle	right	41.9	72.1	Back	null
+1	19	41	73494	149	Pass	1	short	left	43.6	60.8	Back	null
+1	19	44	51090	149	Pass	1	short	right	44.2	72.9	Back	null
+1	19	47	73494	149	Pass	1	middle	right	40.1	63.1	Back	null
+1	19	49	116406	149	Pass	1	middle	right	34.0	45.2	Back	null
+1	19	54	61170	149	Pass	1	middle	forward	46.9	21.6	Right	null
+1	19	58	46497	149	Pass	1	middle	forward	63.2	4.7	Right	null
+1	20	1	80226	149	Pass	0	middle	left	86.6	22.1	Center	Cross
+1	20	2	26894	1395	Clearance	1	short	null	11.8	60.9	null	Blocked cross|Out of play
+1	20	5	89068	149	Miss	1	null	null	81.1	77.3	Center	footed|out of box
+1	20	6	26894	1395	Out	1	null	null	-1.6	39.0	Back	null
+1	20	6	89068	149	Out	0	null	null	101.6	61.0	Center	null
+1	20	36	115851	1395	Pass	1	long	forward	5.1	59.0	Center	Goal Kick
+1	20	43	108168	1395	Foul	1	null	null	56.7	70.6	Center	Direct|Offensive
+1	20	43	73494	149	Foul	0	null	null	43.3	29.4	Back	Defensive|Direct
+1	20	56	151873	1395	Pass	1	middle	back	58.4	72.4	Back	Direct|Free kick
+1	20	59	26894	1395	Pass	1	short	left	44.8	57.8	Back	null
+1	21	4	204727	1395	Pass	1	short	forward	45.7	80.8	Left	null
+1	21	7	153649	1395	Pass	1	short	forward	52.9	93.3	Left	null
+1	21	10	212752	1395	Pass	1	middle	back	58.5	94.5	Back	null
+1	21	11	151873	1395	Pass	0	short	right	45.9	79.3	Back	null
+1	21	11	73494	149	Blocked Pass	1	null	null	47.8	24.9	Back	null
+1	21	14	37971	149	Ball recovery	1	null	null	41.6	62.3	null	null
+1	21	15	37971	149	Pass	1	middle	back	41.6	62.3	Back	null
+1	21	16	89068	149	Pass	1	middle	right	29.4	72.7	Back	null
+1	21	18	61170	149	Pass	1	short	forward	34.3	50.0	Back	null
+1	21	18	11527	149	Pass	1	short	back	38.8	51.5	Back	Lay-off
+1	21	20	61170	149	Pass	1	short	back	33.0	51.9	Back	null
+1	21	21	51090	149	Pass	1	short	right	26.7	60.0	Back	null
+1	21	24	61170	149	Pass	1	long	right	33.4	48.4	Right	null
+1	21	29	80226	149	Pass	1	middle	forward	65.0	5.3	Right	null
+1	21	34	46497	149	Pass	0	middle	left	94.0	25.5	Center	null
+1	21	36	115851	1395	Keeper pick-up	1	null	null	2.7	52.2	null	null
+1	21	52	115851	1395	Pass	1	long	forward	12.3	41.0	Center	Gk kick from hands
+1	21	54	108168	1395	Aerial	1	null	null	56.3	53.3	Center	Offensive
+1	21	54	116406	149	Aerial	0	null	null	43.7	46.7	Back	Defensive
+1	21	55	108168	1395	Pass	0	short	back	56.3	51.8	Back	Lay-off
+1	21	56	73494	149	Ball recovery	1	null	null	51.8	45.4	null	null
+1	21	56	73494	149	Pass	1	short	left	51.8	45.4	Back	null
+1	21	58	66959	1395	Foul	0	null	null	52.6	49.1	Center	Defensive|Direct
+1	21	58	61170	149	Foul	1	null	null	47.4	50.9	Back	Direct|Offensive
+1	22	4	73494	149	Pass	1	middle	right	44.2	52.7	Back	Direct|Free kick
+1	22	5	80226	149	Pass	1	middle	left	45.9	25.5	Back	null
+1	22	7	116406	149	Pass	1	middle	left	35.9	42.4	Back	null
+1	22	8	51090	149	Pass	1	middle	left	36.7	65.2	Back	null
+1	22	13	89068	149	Pass	1	short	right	53.9	97.4	Back	null
+1	22	15	11527	149	Pass	1	middle	forward	48.8	83.5	Left	null
+1	22	16	89068	149	Pass	1	short	back	57.9	95.9	Left	null
+1	22	21	11527	149	Pass	1	middle	right	54.5	68.4	Back	null
+1	22	24	116406	149	Pass	1	short	right	46.5	34.9	Center	null
+1	22	27	61170	149	Pass	1	middle	left	52.8	21.0	Back	null
+1	22	28	73494	149	Pass	1	short	right	48.2	39.5	Back	null
+1	22	31	116406	149	Pass	1	middle	right	45.5	30.1	Right	null
+1	22	34	61170	149	Pass	1	short	left	54.4	16.7	Center	null
+1	22	35	11527	149	Pass	1	short	back	54.5	28.0	Back	null
+1	22	36	61170	149	Pass	1	short	left	48.5	24.4	Center	null
+1	22	37	11527	149	Pass	1	short	right	53.5	33.7	Center	null
+1	22	41	46497	149	Pass	1	middle	forward	76.2	20.7	Right	null
+1	22	44	80226	149	Pass	0	short	left	96.5	18.8	Right	Cross
+1	22	46	212752	1395	Clearance	1	short	null	7.8	82.1	null	Blocked cross
+1	22	48	212752	1395	Corner Awarded	0	null	null	6.1	80.6	Back	null
+1	22	48	80226	149	Corner Awarded	1	null	null	94.6	19.4	Right	null
+1	23	15	46497	149	Pass	1	middle	left	99.6	0.5	Center	Assist|Chipped|Corner taken|Cross
+1	23	17	51090	149	Miss	1	null	null	95.3	42.1	Center	Assisted|From corner|Head|inside box
+1	23	18	37971	149	Ball touch	1	null	null	95.3	45.4	Center	null
+1	23	20	212752	1395	Out	1	null	null	-1.0	59.8	Back	null
+1	23	20	51090	149	Out	0	null	null	101.0	38.9	Center	null
+1	23	50	115851	1395	Pass	0	long	forward	4.8	58.4	Center	Goal Kick
+1	23	53	116406	149	Pass	0	middle	forward	45.0	34.3	Center	null
+1	23	55	204727	1395	Pass	0	middle	right	33.8	58.7	Back	null
+1	23	57	111931	1395	Aerial	0	null	null	42.0	36.4	Back	Defensive
+1	23	57	37971	149	Aerial	1	null	null	58.0	63.6	Center	Offensive
+1	23	58	37971	149	Pass	1	short	back	57.1	64.2	Back	null
+1	23	59	73494	149	Ball recovery	1	null	null	48.1	61.4	null	null
+1	23	59	73494	149	Pass	1	middle	left	48.1	61.4	Left	null
+1	24	1	89068	149	Pass	1	short	right	56.3	83.0	Center	null
+1	24	2	37971	149	Pass	1	short	left	57.9	70.2	Left	null
+1	24	4	89068	149	Pass	1	short	back	54.6	84.7	Back	null
+1	24	5	73494	149	Pass	1	short	forward	44.6	84.5	Left	null
+1	24	6	89068	149	Pass	1	middle	back	53.4	93.3	Back	null
+1	24	10	73494	149	Pass	1	long	right	31.6	80.8	Back	null
+1	24	20	84182	149	Pass	0	long	forward	13.4	38.9	Back	Chipped
+1	24	21	80226	149	Aerial	0	null	null	41.8	2.9	Back	Defensive
+1	24	21	212752	1395	Aerial	1	null	null	59.9	97.0	Left	Offensive
+1	24	22	212752	1395	Pass	0	middle	forward	61.6	96.9	Left	null
+1	24	23	212752	1395	Out	0	null	null	72.3	101.6	Left	null
+1	24	23	80226	149	Out	1	null	null	27.7	-1.6	Back	null
+1	24	32	80226	149	Pass	0	short	forward	33.2	0.0	Back	Throw-in
+1	24	34	170271	1395	Interception	1	null	null	59.6	86.6	Left	null
+1	24	36	212752	1395	Pass	0	short	forward	54.6	93.1	Left	null
+1	24	36	153649	1395	Out	0	null	null	61.4	101.6	Left	null
+1	24	36	80226	149	Out	1	null	null	38.6	-1.6	Back	null
+1	24	40	61170	149	Pass	1	short	left	36.2	0.0	Back	Throw-in
+1	24	42	73494	149	Pass	0	short	right	35.1	7.3	Back	null
+1	24	43	153649	1395	Out	1	null	null	69.0	101.5	Left	null
+1	24	43	73494	149	Out	0	null	null	31.0	-1.5	Back	null
+1	24	55	212752	1395	Pass	1	middle	right	69.4	100.0	Left	Throw-in
+1	24	57	153649	1395	Pass	0	middle	forward	77.1	88.3	Left	null
+1	24	58	153649	1395	Out	0	null	null	86.7	101.5	Left	null
+1	24	58	73494	149	Out	1	null	null	13.3	-1.5	Back	null
+1	25	4	80226	149	Pass	1	short	forward	14.8	0.0	Back	Throw-in
+1	25	6	46497	149	Pass	1	short	back	22.8	2.3	Back	null
+1	25	7	80226	149	Pass	0	short	forward	19.5	2.5	Back	null
+1	25	8	153649	1395	Interception	1	null	null	80.7	95.6	Left	null
+1	25	9	80226	149	Dispossessed	1	null	null	20.4	3.0	Back	null
+1	25	9	153649	1395	Tackle	1	null	null	79.6	97.0	Left	null
+1	25	11	108168	1395	Ball recovery	1	null	null	87.4	96.8	null	null
+1	25	12	108168	1395	Pass	0	short	back	87.4	96.8	Left	null
+1	25	13	46497	149	Ball recovery	1	null	null	17.3	3.2	null	null
+1	25	13	46497	149	Pass	1	middle	left	17.3	3.2	Back	null
+1	25	15	11527	149	Pass	0	short	forward	32.7	41.8	Back	null
+1	25	16	151873	1395	Pass	1	short	back	67.1	66.1	Center	null
+1	25	18	111931	1395	Ball recovery	1	null	null	65.7	56.3	null	null
+1	25	20	111931	1395	Pass	0	middle	right	66.6	51.6	Center	null
+1	25	21	89068	149	Ball recovery	1	null	null	28.5	82.3	null	null
+1	25	27	89068	149	Pass	1	short	left	62.8	85.9	Left	null
+1	25	29	37971	149	Pass	1	short	forward	63.6	96.9	Left	null
+1	25	33	111931	1395	Challenge	0	null	null	24.4	6.6	Back	null
+1	25	33	89068	149	Take On	1	null	null	75.6	93.4	Left	null
+1	25	35	78275	1395	Challenge	0	null	null	19.9	14.4	Back	null
+1	25	35	89068	149	Take On	1	null	null	80.1	85.6	Left	null
+1	25	37	89068	149	Pass	0	middle	right	93.4	77.3	Center	Cross
+1	25	39	115851	1395	Keeper pick-up	1	null	null	3.2	44.9	null	null
+1	26	15		1395	Start delay	1	null	null	0.0	0.0	null	null
+1	26	15		149	Start delay	1	null	null	0.0	0.0	null	null
+1	27	4		1395	End delay	1	null	null	0.0	0.0	null	null
+1	27	4		149	End delay	1	null	null	0.0	0.0	null	null
+1	27	15		149	Referee Drop Ball	1	null	null	0.0	0.0	null	null
+1	27	15		1395	Referee Drop Ball	1	null	null	0.0	0.0	null	null
+1	27	17	115851	1395	Pass	1	long	left	14.0	44.2	Back	Keeper Throw|Over-arm
+1	27	19	212752	1395	Ball touch	0	null	null	35.0	94.8	Back	null
+1	27	20	46497	149	Ball recovery	1	null	null	66.3	7.0	null	null
+1	27	21	46497	149	Dispossessed	1	null	null	68.3	16.4	Right	null
+1	27	21	212752	1395	Tackle	1	null	null	31.7	83.6	Back	null
+1	27	24	170271	1395	Ball recovery	1	null	null	28.6	68.1	null	null
+1	27	24	170271	1395	Pass	1	middle	right	28.5	68.1	Back	null
+1	27	27	78275	1395	Pass	0	middle	forward	26.8	35.8	Back	Launch
+1	27	28	89068	149	Pass	1	short	back	71.2	75.1	Center	null
+1	27	30	11527	149	Ball recovery	1	null	null	65.1	76.7	null	null
+1	27	34	11527	149	Pass	1	short	left	67.7	87.7	Left	null
+1	27	37	37971	149	Pass	1	short	right	73.9	97.1	Left	null
+1	27	39	89068	149	Pass	0	short	forward	74.4	89.9	Left	null
+1	27	41	153649	1395	Ball touch	1	null	null	24.1	13.5	Back	null
+1	27	43	78275	1395	Ball touch	1	null	null	29.1	16.7	Back	null
+1	27	46	153649	1395	Foul	0	null	null	23.6	13.2	Back	Defensive|Direct
+1	27	46	89068	149	Foul	1	null	null	76.4	86.8	Left	Direct|Offensive
+1	28	41	46497	149	Pass	0	middle	right	79.2	89.4	Center	Chipped|Cross|Direct|Free kick
+1	28	43	78275	1395	Clearance	1	long	null	7.8	46.4	null	null
+1	28	49	46497	149	Pass	0	short	right	91.3	96.3	Left	Cross
+1	28	50	170271	1395	Clearance	1	short	null	11.5	10.9	null	Blocked cross|Out of play
+1	28	51	170271	1395	Corner Awarded	0	null	null	9.8	8.6	Back	null
+1	28	51	46497	149	Corner Awarded	1	null	null	90.2	91.4	Left	null
+1	29	8	46497	149	Pass	1	middle	right	99.5	99.5	Center	Assist|Chipped|Corner taken|Cross
+1	29	9	78275	1395	Aerial	0	null	null	6.6	44.1	Back	Defensive
+1	29	9	37971	149	Aerial	1	null	null	93.4	55.9	Center	Offensive
+1	29	10	37971	149	Miss	1	null	null	92.9	58.8	Center	Assisted|From corner|Head|inside box
+1	29	12	170271	1395	Out	1	null	null	-1.3	55.6	Back	null
+1	29	12	37971	149	Out	0	null	null	101.0	40.4	Center	null
+1	29	37	115851	1395	Pass	0	long	forward	5.0	59.0	Left	Goal Kick
+1	29	39	108168	1395	Aerial	0	null	null	53.5	91.8	Left	Offensive
+1	29	39	80226	149	Aerial	1	null	null	46.5	8.2	Back	Defensive
+1	29	39	80226	149	Clearance	1	short	null	47.4	8.5	null	Out of play
+1	29	40	108168	1395	Out	1	null	null	55.8	101.6	Left	null
+1	29	40	80226	149	Out	0	null	null	44.2	-1.6	Back	null
+1	29	46	108168	1395	Pass	0	long	forward	56.5	100.0	Left	Throw-in
+1	29	49	80226	149	Interception	1	null	null	19.0	2.6	Back	null
+1	29	52	108168	1395	Take On	0	null	null	89.1	98.0	Left	null
+1	29	52	80226	149	Tackle	1	null	null	10.9	2.0	Back	Out of play
+1	29	52	108168	1395	Out	1	null	null	90.2	101.5	Left	null
+1	29	52	80226	149	Out	0	null	null	9.8	-1.5	Back	null
+1	30	6	212752	1395	Pass	0	middle	right	91.2	100.0	Center	Throw-in
+1	30	9	116406	149	Clearance	1	middle	null	8.6	39.7	null	null
+1	30	11	153649	1395	Pass	1	middle	right	74.9	64.0	Center	null
+1	30	16	111931	1395	Foul	1	null	null	75.4	42.8	Center	Direct|Offensive
+1	30	16	11527	149	Foul	0	null	null	24.7	58.2	Back	Defensive|Direct
+1	31	25	151873	1395	Goal	1	null	null	75.5	45.5	Center	Free kick|footed|out of box
+1	32	23	40720	149	Pass	1	short	back	49.9	49.7	Back	Kick Off
+1	32	27	11527	149	Pass	1	middle	right	47.7	59.3	Back	null
+1	32	29	116406	149	Pass	1	middle	right	40.5	36.0	Back	null
+1	32	31	80226	149	Pass	1	middle	forward	45.8	8.0	Right	Assist
+1	32	34	204727	1395	Challenge	0	null	null	15.9	81.8	Back	null
+1	32	34	46497	149	Take On	1	null	null	84.1	18.2	Right	null
+1	32	36	46497	149	Attempt Saved	1	null	null	86.9	27.0	Center	Assisted|footed|inside box
+1	32	36	26894	1395	Save	1	null	null	10.9	62.3	Back	Def block
+1	32	39	204727	1395	Corner Awarded	0	null	null	12.0	67.6	Back	null
+1	32	39	46497	149	Corner Awarded	1	null	null	88.0	32.4	Center	null
+1	32	59	46497	149	Pass	0	long	right	99.5	99.5	Center	Chipped|Corner taken|Cross
+1	33	2	151873	1395	Aerial	1	null	null	9.9	55.0	Back	Defensive
+1	33	2	89068	149	Aerial	0	null	null	90.1	45.0	Center	Offensive
+1	33	4	151873	1395	Clearance	1	middle	null	11.1	55.7	null	null
+1	33	7	80226	149	Ball touch	0	null	null	87.6	17.9	Right	null
+1	33	8	212752	1395	Ball recovery	1	null	null	15.7	83.6	null	null
+1	33	8	212752	1395	Pass	1	short	forward	15.7	83.6	Back	null
+1	33	11	153649	1395	Pass	0	middle	forward	32.6	94.8	Left	null
+1	33	15	61170	149	Ball recovery	1	null	null	39.4	2.8	null	null
+1	33	15	61170	149	Pass	1	middle	left	39.4	2.8	Back	null
+1	33	17	116406	149	Pass	1	short	forward	35.3	34.8	Back	null
+1	33	20	11527	149	Pass	1	long	left	47.3	40.3	Left	null
+1	33	25	89068	149	Pass	0	long	right	71.9	88.9	Center	Cross
+1	33	27	204727	1395	Clearance	1	short	null	13.8	52.5	null	null
+1	33	28	204727	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	33	30	151873	1395	Clearance	1	long	null	15.9	46.1	null	null
+1	33	33	116406	149	Pass	1	short	forward	55.2	4.4	Right	null
+1	33	36	80226	149	Pass	0	middle	left	71.7	3.7	Center	Chipped|Cross
+1	33	37	204727	1395	Clearance	1	middle	null	13.8	62.0	null	null
+1	33	41	108168	1395	Pass	1	middle	left	32.0	62.6	Back	null
+1	33	42	66959	1395	Ball recovery	1	null	null	39.3	88.6	null	null
+1	33	44	66959	1395	Dispossessed	1	null	null	40.0	93.3	Back	null
+1	33	44	61170	149	Tackle	1	null	null	60.0	6.7	Right	null
+1	33	47	116406	149	Ball recovery	1	null	null	43.1	6.7	null	null
+1	33	47	116406	149	Pass	1	middle	left	42.3	9.1	Back	null
+1	33	50	51090	149	Pass	1	long	left	38.2	43.9	Back	null
+1	33	55	89068	149	Pass	1	short	left	55.5	89.7	Left	null
+1	33	56	37971	149	Pass	1	short	right	60.9	98.1	Left	null
+1	34	2	11527	149	Pass	1	short	back	67.8	94.5	Left	null
+1	34	6	89068	149	Pass	1	middle	right	63.6	89.1	Center	null
+1	34	11	51090	149	Pass	1	middle	left	54.2	59.1	Left	null
+1	34	13	11527	149	Pass	1	middle	right	65.9	81.2	Center	null
+1	34	15	73494	149	Pass	1	middle	right	63.5	58.5	Center	null
+1	34	19	61170	149	Pass	1	short	forward	69.6	23.3	Center	null
+1	34	23	46497	149	Pass	1	short	left	74.6	28.0	Center	null
+1	34	24	73494	149	Pass	1	middle	left	72.3	40.4	Center	null
+1	34	26	11527	149	Pass	1	middle	left	72.7	62.1	Left	null
+1	34	29	89068	149	Pass	1	middle	right	91.2	92.1	Center	Assist|Cross
+1	34	31	40720	149	Miss	1	null	null	92.6	58.8	Center	Assisted|footed|inside box
+1	34	32	89068	149	Deleted event	1	null	null	0.0	0.0	null	null
+1	34	33	66959	1395	Out	1	null	null	-1.2	40.4	Back	null
+1	34	33	40720	149	Out	0	null	null	100.9	57.9	Center	null
+1	34	56	115851	1395	Pass	0	long	forward	5.0	47.6	Center	Goal Kick
+1	34	57	51090	149	Pass	1	middle	left	48.9	41.3	Back	null
+1	34	59	89068	149	Ball recovery	1	null	null	41.1	63.1	null	null
+1	35	4	89068	149	Pass	1	short	right	41.6	68.8	Back	null
+1	35	4	51090	149	Pass	1	middle	left	41.8	64.6	Back	null
+1	35	6	89068	149	Pass	1	short	forward	48.8	86.2	Left	null
+1	35	9	37971	149	Pass	1	middle	back	56.1	94.5	Back	null
+1	35	14	51090	149	Pass	1	short	forward	44.8	70.2	Center	null
+1	35	15	11527	149	Pass	1	middle	right	53.1	57.5	Right	null
+1	35	20	61170	149	Pass	0	long	forward	53.5	21.5	Right	null
+1	35	23	115851	1395	Out	1	null	null	13.4	101.8	Back	null
+1	35	23	61170	149	Out	0	null	null	86.6	-1.8	Right	null
+1	35	32	212752	1395	Pass	1	middle	forward	19.3	100.0	Back	Throw-in
+1	35	35	108168	1395	Pass	0	short	forward	39.3	87.5	Back	Flick-on
+1	35	35	116406	149	Interception	1	null	null	53.6	23.7	Center	null
+1	35	36	73494	149	Ball touch	1	null	null	56.5	14.4	Right	null
+1	35	37	61170	149	Ball recovery	1	null	null	62.4	29.1	null	null
+1	35	38	61170	149	Pass	1	short	back	62.4	29.1	Center	null
+1	35	38	11527	149	Pass	1	middle	right	57.8	35.7	Right	null
+1	35	47	80226	149	Pass	1	short	back	83.4	3.4	Right	null
+1	35	49	46497	149	Pass	1	long	left	75.9	3.5	Center	Switch of play
+1	35	52	89068	149	Pass	1	short	right	66.6	71.5	Center	Assist
+1	35	55	11527	149	Attempt Saved	1	null	null	72.5	68.0	Center	Assisted|footed|out of box
+1	35	55	170271	1395	Save	1	null	null	24.3	33.3	Back	Def block
+1	35	57	115851	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	35	58	170271	1395	Corner Awarded	0	null	null	12.7	37.3	Back	null
+1	35	58	11527	149	Corner Awarded	1	null	null	87.3	62.7	Center	null
+1	36	23	46497	149	Pass	1	long	right	99.5	99.5	Center	Chipped|Corner taken|Cross
+1	36	26	212752	1395	Aerial	0	null	null	9.3	56.2	Back	Defensive
+1	36	26	73494	149	Aerial	1	null	null	90.7	43.8	Center	Offensive
+1	36	27	73494	149	Pass	0	short	forward	87.3	41.5	Center	null
+1	36	29	115851	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	36	29	11527	149	Deleted event	1	null	null	0.0	0.0	null	null
+1	36	29	115851	1395	Claim	0	null	null	3.8	51.9	Back	High claim
+1	36	31	26894	1395	Clearance	1	middle	null	10.2	51.2	null	null
+1	36	32	66959	1395	Ball touch	0	null	null	24.9	52.7	Back	null
+1	36	33	61170	149	Pass	1	middle	right	63.7	48.4	Right	null
+1	36	35	80226	149	Pass	0	long	left	70.3	6.7	Center	Chipped|Cross
+1	36	40	111931	1395	Clearance	1	middle	null	10.3	42.1	null	Out of play
+1	36	40	111931	1395	Corner Awarded	0	null	null	3.9	44.4	Back	null
+1	36	40	80226	149	Corner Awarded	1	null	null	96.1	55.6	Center	null
+1	36	54	46497	149	Pass	0	middle	right	99.5	99.5	Center	Chipped|Corner taken|Cross
+1	36	56	108168	1395	Clearance	1	middle	null	4.6	33.6	null	null
+1	36	59	89068	149	Pass	1	middle	right	63.7	57.2	Center	null
+1	37	3	80226	149	Pass	0	long	left	69.2	28.9	Center	Chipped
+1	37	6	108168	1395	Out	1	null	null	-1.0	24.6	Back	null
+1	37	6	80226	149	Out	0	null	null	101.1	75.1	Center	null
+1	37	36	115851	1395	Pass	0	long	forward	5.2	45.2	Center	Goal Kick
+1	37	38	108168	1395	Aerial	0	null	null	53.8	28.7	Center	Offensive
+1	37	38	51090	149	Aerial	1	null	null	46.2	71.3	Back	Defensive
+1	37	39	51090	149	Clearance	1	short	null	46.3	70.0	null	null
+1	37	42	111931	1395	Foul	1	null	null	45.4	19.6	Back	Direct|Offensive
+1	37	42	37971	149	Foul	0	null	null	54.1	81.2	Left	Defensive|Direct
+1	37	54	170271	1395	Pass	1	middle	right	44.7	19.2	Back	Direct|Free kick
+1	37	56	111931	1395	Pass	1	short	back	49.1	2.6	Back	null
+1	37	57	170271	1395	Pass	1	middle	forward	42.5	8.0	Right	null
+1	38	0	111931	1395	Pass	1	middle	back	55.2	3.7	Back	null
+1	38	2	170271	1395	Pass	1	middle	left	41.3	5.0	Back	null
+1	38	4	26894	1395	Pass	1	middle	back	31.2	34.3	Back	null
+1	38	7	115851	1395	Pass	1	middle	forward	8.3	52.2	Back	null
+1	38	9	26894	1395	Pass	1	middle	right	23.7	43.3	Back	null
+1	38	11	78275	1395	Pass	0	middle	forward	27.6	7.0	Back	null
+1	38	14	78275	1395	Out	0	null	null	40.2	-2.0	Back	null
+1	38	14	73494	149	Out	1	null	null	59.8	102.0	Left	null
+1	38	18	89068	149	Pass	1	short	forward	58.9	100.0	Left	Throw-in
+1	38	19	11527	149	Pass	0	short	left	67.0	94.2	Left	Lay-off
+1	38	21	170271	1395	Interception	1	null	null	34.5	2.9	Back	null
+1	38	22	170271	1395	Out	0	null	null	34.7	-1.0	Back	null
+1	38	22	11527	149	Out	1	null	null	65.3	101.0	Left	null
+1	38	25	89068	149	Pass	1	short	right	65.3	100.0	Left	Throw-in
+1	38	26	11527	149	Pass	0	short	forward	60.8	94.4	Left	null
+1	38	26	170271	1395	Interception	1	null	null	37.2	9.2	Back	null
+1	38	27	170271	1395	Ball recovery	1	null	null	39.1	7.9	null	null
+1	38	28	170271	1395	Pass	0	middle	forward	39.1	7.9	Right	null
+1	38	29	73494	149	Ball recovery	1	null	null	40.7	94.6	null	null
+1	38	30	73494	149	Pass	1	long	back	46.1	93.6	Back	null
+1	38	35	84182	149	Pass	1	middle	right	18.3	50.4	Back	null
+1	38	40	116406	149	Pass	1	long	left	25.5	31.8	Back	Chipped|Switch of play
+1	38	46	51090	149	Pass	1	middle	forward	34.6	90.6	Back	null
+1	38	47	37971	149	Pass	1	short	back	47.4	90.5	Back	null
+1	38	51	51090	149	Pass	1	short	right	44.3	73.8	Back	null
+1	38	51	11527	149	Pass	1	short	left	46.2	66.1	Back	null
+1	38	52	51090	149	Pass	1	middle	left	44.4	78.5	Left	null
+1	38	56	37971	149	Dispossessed	1	null	null	54.3	87.1	Left	null
+1	38	56	108168	1395	Tackle	0	null	null	44.7	12.1	Back	null
+1	38	57	37971	149	Ball touch	1	null	null	52.7	79.8	Left	null
+1	38	58	170271	1395	Ball touch	1	null	null	47.3	20.2	Back	null
+1	39	0	11527	149	Ball touch	1	null	null	46.4	78.7	Back	null
+1	39	1	111931	1395	Take On	1	null	null	58.2	18.3	Right	null
+1	39	1	11527	149	Challenge	0	null	null	41.8	81.7	Back	null
+1	39	3	111931	1395	Ball recovery	1	null	null	64.7	7.7	null	null
+1	39	6	111931	1395	Pass	1	middle	back	58.0	4.3	Back	null
+1	39	10	78275	1395	Pass	1	middle	left	36.1	5.9	Back	null
+1	39	18	26894	1395	Pass	1	middle	forward	27.9	57.3	Back	null
+1	39	21	151873	1395	Dispossessed	1	null	null	40.8	60.1	Back	null
+1	39	21	73494	149	Tackle	0	null	null	59.2	39.9	Center	null
+1	39	22	153649	1395	Dispossessed	1	null	null	37.2	65.0	Back	null
+1	39	22	61170	149	Tackle	1	null	null	62.8	35.0	Center	null
+1	39	24	46497	149	Ball recovery	1	null	null	62.4	32.2	null	null
+1	39	24	46497	149	Pass	1	middle	forward	62.4	32.2	Center	null
+1	39	27	61170	149	Pass	0	short	forward	81.7	26.5	Center	null
+1	39	28	153649	1395	Ball touch	1	null	null	12.8	66.6	Back	null
+1	39	29	26894	1395	Clearance	1	middle	null	11.0	62.9	null	null
+1	39	31	73494	149	Pass	1	middle	left	63.7	37.1	Center	null
+1	39	34	11527	149	Pass	1	middle	left	74.4	60.6	Left	null
+1	39	36	89068	149	Pass	0	middle	right	77.1	87.2	Center	Cross
+1	39	37	78275	1395	Clearance	1	middle	null	12.9	37.9	null	null
+1	39	44	89068	149	Pass	1	short	forward	65.9	96.2	Left	null
+1	39	45	37971	149	Pass	1	short	left	73.9	95.1	Left	null
+1	39	46	89068	149	Pass	1	short	right	74.6	98.9	Left	null
+1	39	47	37971	149	Pass	1	short	left	74.5	91.8	Left	null
+1	39	49	89068	149	Pass	1	short	right	77.8	97.5	Left	null
+1	39	53	61170	149	Pass	1	middle	right	78.2	75.1	Center	Assist|Chipped
+1	39	56	40720	149	Attempt Saved	1	null	null	91.2	54.9	Center	Assisted|Big Chance|footed|inside box
+1	39	56	115851	1395	Save	1	null	null	3.8	47.0	Back	Diving
+1	39	58	115851	1395	Keeper pick-up	1	null	null	7.4	51.9	null	null
+1	40	6	115851	1395	Pass	1	middle	right	10.7	51.9	Back	Keeper Throw
+1	40	8	151873	1395	Foul	1	null	null	29.2	14.8	Back	Defensive|Direct
+1	40	8	89068	149	Foul	0	null	null	70.8	85.2	Left	Direct|Offensive
+1	40	21	89068	149	Card	1	null	null	0.0	0.0	null	Yellow Card
+1	41	2	111931	1395	Pass	0	long	left	27.4	16.2	Center	Chipped|Direct|Free kick|Switch of play
+1	41	3	212752	1395	Aerial	1	null	null	53.9	85.4	Center	Offensive
+1	41	3	80226	149	Aerial	0	null	null	46.1	14.6	Back	Defensive
+1	41	4	212752	1395	Ball touch	1	null	null	54.2	87.9	Left	null
+1	41	4	80226	149	Deleted event	1	null	null	0.0	0.0	null	null
+1	41	24		1395	Start delay	1	null	null	0.0	0.0	null	null
+1	41	24		149	Start delay	1	null	null	0.0	0.0	null	null
+1	42	38		1395	End delay	1	null	null	0.0	0.0	null	null
+1	42	38		149	End delay	1	null	null	0.0	0.0	null	null
+1	42	43		149	Referee Drop Ball	1	null	null	0.0	0.0	null	null
+1	42	44		1395	Referee Drop Ball	1	null	null	0.0	0.0	null	null
+1	42	45	61170	149	Ball touch	1	null	null	51.8	19.8	Right	null
+1	42	47	212752	1395	Out	1	null	null	31.2	101.4	Back	null
+1	42	47	61170	149	Out	0	null	null	68.8	-1.4	Right	null
+1	43	7	204727	1395	Pass	1	middle	forward	32.1	100.0	Back	Throw-in
+1	43	9	66959	1395	Pass	0	middle	forward	48.3	93.2	Left	Flick-on
+1	43	11	66959	1395	Out	0	null	null	58.8	101.2	Left	null
+1	43	11	61170	149	Out	1	null	null	41.2	-1.2	Back	null
+1	43	21	80226	149	Pass	1	short	left	43.3	0.0	Back	Throw-in
+1	43	23	61170	149	Pass	1	middle	left	44.2	8.6	Back	Chipped
+1	43	26	51090	149	Pass	1	middle	left	33.6	50.9	Back	null
+1	43	30	11527	149	Pass	0	middle	forward	43.8	94.5	Left	Chipped
+1	43	34	78275	1395	Clearance	1	short	null	22.4	2.9	null	Out of play
+1	43	34	78275	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	43	34	37971	149	Deleted event	1	null	null	0.0	0.0	null	null
+1	43	34	78275	1395	Out	0	null	null	23.8	-1.5	Back	null
+1	43	34	37971	149	Out	1	null	null	76.2	101.5	Left	null
+1	43	39	37971	149	Pass	1	short	back	73.9	100.0	Left	Throw-in
+1	43	40	89068	149	Pass	1	short	forward	65.7	97.4	Left	null
+1	43	41	37971	149	Pass	1	short	right	71.2	98.0	Left	Lay-off
+1	43	43	11527	149	Pass	1	short	left	71.5	87.6	Left	null
+1	43	49	89068	149	Take On	0	null	null	90.8	95.9	Left	null
+1	43	49	111931	1395	Tackle	1	null	null	9.5	4.4	Back	Out of play
+1	43	51	111931	1395	Corner Awarded	0	null	null	9.5	4.4	Back	null
+1	43	51	89068	149	Corner Awarded	1	null	null	90.5	95.6	Left	null
+1	44	11	46497	149	Pass	1	middle	right	99.5	99.5	Center	Assist|Chipped|Corner taken|Cross
+1	44	13	151873	1395	Aerial	0	null	null	7.7	44.0	Back	Defensive
+1	44	13	51090	149	Aerial	1	null	null	92.3	56.0	Center	Offensive
+1	44	14	51090	149	Miss	1	null	null	92.2	55.1	Center	Assisted|From corner|Head|inside box
+1	44	18	73494	149	Dispossessed	1	null	null	94.6	9.6	Right	null
+1	44	18	153649	1395	Tackle	1	null	null	5.4	90.4	Back	null
+1	44	20	204727	1395	Ball recovery	1	null	null	13.6	95.3	null	null
+1	44	20	204727	1395	Pass	1	short	forward	13.6	95.3	Back	Chipped
+1	44	23	66959	1395	Pass	1	short	right	24.8	94.5	Back	null
+1	44	25	212752	1395	Pass	1	short	back	23.9	76.9	Back	Chipped
+1	44	31	26894	1395	Ball touch	1	null	null	14.1	72.9	Back	null
+1	44	33	26894	1395	Out	0	null	null	18.0	101.6	Back	null
+1	44	33	73494	149	Out	1	null	null	82.0	-1.6	Right	null
+1	44	45	61170	149	Pass	0	short	forward	70.1	0.0	Right	Fair Play|Throw-in
+1	44	46		1395	Out	1	null	null	19.5	101.5	Back	null
+1	44	46	80226	149	Out	0	null	null	77.4	-1.6	Right	null
+1	45	4	204727	1395	Pass	1	middle	forward	21.8	100.0	Back	Throw-in
+1	45	7	151873	1395	Pass	1	middle	forward	31.7	87.4	Left	Flick-on
+1	45	10	108168	1395	Pass	1	middle	right	55.5	67.0	Center	null
+1	45	14	89068	149	Interception	1	null	null	34.9	81.0	Back	null
+1	45	15	89068	149	Ball recovery	1	null	null	31.6	89.4	null	null
+1	45	16	111931	1395	Deleted event	1	null	null	0.0	0.0	null	null
+1	45	16	89068	149	Pass	0	middle	forward	30.3	89.9	Back	null
+1	45	19	111931	1395	Out	1	null	null	55.2	-1.4	Right	null
+1	45	19	89068	149	Out	0	null	null	44.8	101.4	Back	null
+1	45	21		149	Injury Time Announcement	1	null	null	0.0	0.0	null	null
+1	45	32	111931	1395	Pass	1	middle	left	57.7	0.0	Right	Throw-in
+1	45	34	66959	1395	Ball touch	0	null	null	69.6	24.8	Center	null
+1	45	35	51090	149	Pass	1	middle	right	28.9	74.0	Back	null
+1	45	38	80226	149	Ball recovery	1	null	null	33.2	33.3	null	null
+1	45	39	80226	149	Pass	1	middle	forward	33.5	32.8	Back	null
+1	45	40	61170	149	Pass	0	middle	right	45.6	36.6	Right	null
+1	45	42	212752	1395	Interception	1	null	null	47.7	85.9	Back	null
+1	45	43	212752	1395	Ball recovery	1	null	null	58.9	87.7	null	null
+1	45	46	66959	1395	Pass	1	short	right	75.7	75.1	Center	null
+1	45	48	212752	1395	Pass	1	short	back	73.2	65.1	Center	null
+1	45	50	170271	1395	Pass	1	short	right	71.0	59.9	Center	null
+1	45	53	151873	1395	Pass	1	short	left	68.2	56.9	Center	null
+1	45	55	153649	1395	Pass	1	middle	left	63.2	69.6	Left	null
+1	45	57	66959	1395	Pass	1	short	right	72.1	83.0	Center	null
+1	45	59	170271	1395	Pass	1	short	right	70.3	72.4	Center	Assist
+1	46	2	151873	1395	Miss	1	null	null	72.5	49.9	Center	Assisted|footed|out of box
+1	46	5	151873	1395	Out	0	null	null	100.8	42.0	Center	null
+1	46	5	61170	149	Out	1	null	null	-0.8	58.0	Back	null
+1	46	19	84182	149	Pass	1	middle	forward	5.0	63.0	Back	Goal Kick|Low
+1	46	20	51090	149	Pass	1	short	forward	26.5	57.5	Back	null
+1	46	21	73494	149	Pass	1	middle	right	33.9	45.7	Back	null
+1	46	25	61170	149	Pass	1	middle	left	46.1	18.6	Back	null
+1	46	26	11527	149	Pass	1	middle	right	49.4	44.0	Back	Lay-off
+1	46	28	61170	149	Pass	1	middle	left	45.1	23.1	Center	null
+1	46	31	11527	149	Pass	0	middle	forward	63.3	50.7	Center	Through ball
+1	46	34	115851	1395	Keeper pick-up	1	null	null	5.9	33.9	null	null
+1	46	46	115851	1395	Pass	1	middle	forward	11.7	42.1	Back	Keeper Throw
+1	46	49	46497	149	Deleted event	1	null	null	0.0	0.0	null	null
+1	46	51	26894	1395	Foul	1	null	null	27.2	63.1	Back	Defensive|Direct
+1	46	51	40720	149	Foul	0	null	null	72.8	36.9	Center	Direct|Offensive
+1	47	12	204727	1395	Pass	1	middle	right	28.0	63.1	Back	Direct|Free kick
+1	47	14	37971	149	Challenge	0	null	null	65.2	68.1	Center	null
+1	47	14	78275	1395	Take On	1	null	null	35.2	36.3	Back	null
+1	47	15	78275	1395	Pass	1	short	left	34.1	43.1	Back	null
+1	47	16	170271	1395	Pass	0	short	left	37.1	55.2	Back	null
+1	47	17	61170	149	Ball touch	1	null	null	62.0	39.7	Center	null
+1	47	18	153649	1395	Pass	1	middle	left	45.3	67.9	Left	null
+1	47	22	212752	1395	Pass	1	long	right	62.2	91.8	Center	Assist|Chipped
+1	47	25	108168	1395	Goal	1	null	null	88.5	56.5	Center	Assisted|Big Chance|footed|inside box
+1	48	21	40720	149	Pass	1	short	back	49.8	49.7	Back	Kick Off
+1	48	33		1395	End	1	null	null	0.0	0.0	null	null
+1	48	33		149	End	1	null	null	0.0	0.0	null	null
+2	45	0	73494	149	Player Off	1	null	null	0.0	0.0	null	null
+2	45	0	95715	149	Player on	1	null	null	0.0	0.0	null	null
+2	45	0		149	Formation change	1	null	null	0.0	0.0	null	null
+2	45	0		1395	Start	1	null	null	0.0	0.0	null	null
+2	45	0		149	Start	1	null	null	0.0	0.0	null	null
+2	45	0	108168	1395	Pass	1	short	back	49.9	50.1	Back	Kick Off|Tap
+2	45	1	153649	1395	Pass	1	middle	right	44.4	55.0	Back	null
+2	45	2	40720	149	Challenge	0	null	null	62.7	60.9	Center	null
+2	45	2	170271	1395	Take On	1	null	null	37.6	36.7	Back	null
+2	45	3	170271	1395	Pass	1	middle	left	38.5	38.6	Back	null
+2	45	7	204727	1395	Pass	1	middle	right	31.3	73.8	Back	null
+2	45	9	170271	1395	Pass	1	middle	right	32.2	52.7	Back	null
+2	45	14	78275	1395	Pass	1	middle	forward	43.3	12.3	Right	Chipped
+2	45	17	66959	1395	Ball touch	0	null	null	72.6	10.4	Right	null
+2	45	20	51090	149	Ball recovery	1	null	null	12.6	96.0	null	null
+2	45	20	51090	149	Pass	1	middle	right	10.8	94.2	Back	null
+2	45	24	84182	149	Pass	1	long	right	3.8	51.6	Back	null
+2	45	26	80226	149	Pass	1	short	left	22.1	7.4	Back	null
+2	45	28	61170	149	Pass	1	middle	left	20.3	17.6	Back	null
+2	45	31	84182	149	Pass	1	middle	forward	4.6	45.1	Back	null
+2	45	33	11527	149	Pass	0	short	forward	23.8	50.3	Back	null
+2	45	33	153649	1395	Ball recovery	1	null	null	66.2	59.3	null	null
+2	45	34	153649	1395	Pass	0	short	right	67.0	56.7	Center	null
+2	45	37	37971	149	Interception	1	null	null	28.9	50.1	Back	null
+2	45	37	37971	149	Pass	1	short	back	28.4	50.3	Back	null
+2	45	39	11527	149	Ball recovery	1	null	null	26.6	49.7	null	null
+2	45	40	11527	149	Pass	1	middle	forward	31.7	51.9	Back	null
+2	45	45	95715	149	Pass	1	middle	right	60.2	50.9	Right	null
+2	45	46	80226	149	Pass	1	short	left	62.6	11.4	Center	null
+2	45	49	61170	149	Pass	1	middle	forward	62.5	20.1	Center	2nd assist
+2	45	52	80226	149	Pass	1	middle	left	92.0	24.2	Center	Assist|Chipped|Cross
+2	45	55	40720	149	Goal	1	null	null	97.3	50.9	Center	Assisted|Big Chance|footed|inside box
+2	46	56	108168	1395	Pass	1	short	back	49.9	50.1	Back	Kick Off
+2	46	58	151873	1395	Pass	1	middle	right	38.4	50.7	Back	null
+2	47	0	111931	1395	Pass	1	middle	left	36.2	18.8	Back	null
+2	47	3	78275	1395	Pass	1	middle	left	22.3	41.2	Back	null
+2	47	5	26894	1395	Pass	1	middle	back	22.8	65.8	Back	null
+2	47	8	115851	1395	Pass	1	long	forward	8.2	46.6	Back	Launch
+2	47	11	204727	1395	Pass	0	middle	forward	41.5	88.0	Center	null
+2	47	14	51090	149	Ball recovery	1	null	null	40.5	39.2	null	null
+2	47	14	51090	149	Pass	1	middle	right	40.5	39.2	Back	null
+2	47	17	116406	149	Pass	1	middle	forward	33.0	18.8	Right	Chipped
+2	47	20	46497	149	Ball touch	0	null	null	60.1	4.6	Right	null
+2	47	21	204727	1395	Ball recovery	1	null	null	38.4	80.1	null	null
+2	47	22	204727	1395	Pass	0	middle	right	42.0	83.6	Back	null
+2	47	23	11527	149	Ball recovery	1	null	null	53.0	36.6	null	null
+2	47	23	11527	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	47	24	11527	149	Pass	1	middle	left	52.7	34.0	Center	null
+2	47	25	37971	149	Pass	1	middle	left	57.1	52.5	Center	null
+2	47	28	95715	149	Pass	1	middle	forward	74.6	72.4	Center	null
+2	47	30	89068	149	Pass	0	middle	right	94.6	76.4	Center	Cross
+2	47	31	115851	1395	Clearance	1	short	null	1.6	43.7	null	null
+2	47	32	78275	1395	Clearance	1	short	null	1.4	34.0	null	Out of play
+2	47	33	78275	1395	Corner Awarded	0	null	null	0.2	40.6	Back	null
+2	47	33	89068	149	Corner Awarded	1	null	null	99.8	59.4	Center	null
+2	47	43	78275	1395	Deleted event	1	null	null	0.0	0.0	null	null
+2	48	5	212752	1395	Player Off	1	null	null	0.0	0.0	null	null
+2	48	5	204120	1395	Player on	1	null	null	0.0	0.0	null	null
+2	48	25	95715	149	Pass	1	middle	right	99.5	99.5	Center	Assist|Chipped|Corner taken|Cross
+2	48	28	115851	1395	Deleted event	1	null	null	0.0	0.0	null	null
+2	48	28	37971	149	Miss	1	null	null	96.7	56.0	Center	Assisted|From corner|Head|inside box
+2	48	30	115851	1395	Out	1	null	null	-1.0	65.4	Back	null
+2	48	30	37971	149	Out	0	null	null	101.0	34.6	Center	null
+2	48	51	115851	1395	Pass	1	long	forward	4.7	57.2	Center	Goal Kick
+2	48	52	108168	1395	Deleted event	1	null	null	0.0	0.0	null	null
+2	48	52	116406	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	48	53	108168	1395	Pass	0	short	forward	61.8	61.2	Center	null
+2	48	55	51090	149	Ball recovery	1	null	null	32.6	51.0	null	null
+2	48	55	51090	149	Pass	1	middle	left	32.6	51.0	Back	null
+2	48	59	89068	149	Pass	1	middle	right	37.0	76.3	Back	null
+2	49	1	51090	149	Pass	1	short	right	35.7	51.6	Back	null
+2	49	2	116406	149	Pass	1	short	forward	31.0	37.4	Back	null
+2	49	4	11527	149	Pass	1	middle	right	36.5	29.8	Back	null
+2	49	6	61170	149	Pass	1	middle	forward	43.5	7.1	Right	null
+2	49	9	80226	149	Pass	0	middle	left	63.0	4.1	Center	null
+2	49	9	170271	1395	Ball recovery	1	null	null	39.0	61.1	null	null
+2	49	10	170271	1395	Pass	1	short	left	39.0	61.1	Back	null
+2	49	10	66959	1395	Pass	1	short	back	42.9	67.2	Back	Lay-off
+2	49	14	61170	149	Challenge	0	null	null	67.0	34.0	Center	null
+2	49	14	151873	1395	Take On	1	null	null	33.8	63.2	Back	null
+2	49	15	151873	1395	Pass	1	short	forward	36.2	60.2	Back	null
+2	49	17	153649	1395	Pass	1	short	back	39.6	67.0	Back	null
+2	49	18	204727	1395	Pass	1	middle	right	30.4	70.5	Back	null
+2	49	23	151873	1395	Pass	1	middle	left	40.0	55.1	Back	Chipped
+2	49	25	66959	1395	Pass	1	short	left	47.8	79.4	Back	null
+2	49	26	204120	1395	Pass	1	short	forward	46.7	91.7	Left	null
+2	49	27	108168	1395	Pass	1	short	left	57.8	89.0	Left	null
+2	49	28	204120	1395	Pass	1	short	right	55.2	95.7	Left	null
+2	49	35	66959	1395	Foul	1	null	null	59.3	75.1	Center	Direct|Offensive
+2	49	35	37971	149	Foul	0	null	null	40.5	26.8	Back	Defensive|Direct
+2	49	58	151873	1395	Pass	1	short	back	59.1	76.9	Center	Direct|Free kick
+2	49	59	204727	1395	Pass	1	middle	right	51.2	69.6	Back	null
+2	50	1	78275	1395	Pass	1	middle	right	48.0	24.7	Right	null
+2	50	4	111931	1395	Take On	0	null	null	66.6	5.7	Right	null
+2	50	4	95715	149	Tackle	1	null	null	33.4	94.3	Back	null
+2	50	7	37971	149	Ball recovery	1	null	null	32.0	89.6	null	null
+2	50	7	37971	149	Pass	1	short	left	32.0	89.6	Back	null
+2	50	9	78275	1395	Foul	0	null	null	49.2	21.4	Center	Defensive|Direct
+2	50	9	95715	149	Foul	1	null	null	50.8	78.6	Left	Direct|Offensive
+2	50	19	11527	149	Pass	1	short	right	52.2	80.9	Center	Direct|Free kick
+2	50	23	61170	149	Ball touch	0	null	null	63.1	73.0	Center	null
+2	50	24	78275	1395	Ball recovery	1	null	null	38.8	12.5	null	null
+2	50	24	78275	1395	Pass	0	middle	forward	38.8	12.5	Right	null
+2	50	28	51090	149	Ball recovery	1	null	null	43.6	99.2	null	null
+2	50	28	51090	149	Pass	1	long	back	43.3	97.8	Back	null
+2	50	30	84182	149	Pass	1	middle	forward	15.6	62.6	Back	null
+2	50	33	116406	149	Pass	1	short	forward	25.7	49.3	Back	Chipped
+2	50	36	11527	149	Pass	1	middle	forward	32.8	53.0	Back	null
+2	50	38	153649	1395	Foul	0	null	null	55.0	54.5	Center	Defensive|Direct
+2	50	38	61170	149	Foul	1	null	null	45.0	45.5	Back	Direct|Offensive
+2	50	51	11527	149	Pass	1	short	forward	37.1	52.8	Back	Direct|Free kick
+2	50	53	61170	149	Pass	1	middle	forward	52.1	33.7	Center	null
+2	50	54	46497	149	Dispossessed	1	null	null	71.8	26.0	Center	null
+2	50	54	204727	1395	Tackle	1	null	null	28.2	74.0	Back	null
+2	50	57	151873	1395	Ball recovery	1	null	null	29.3	74.5	null	null
+2	50	57	151873	1395	Pass	1	short	forward	29.3	74.5	Back	null
+2	50	58	153649	1395	Pass	1	middle	left	33.8	73.8	Back	null
+2	51	0	151873	1395	Pass	0	short	right	35.6	95.8	Back	null
+2	51	0	80226	149	Ball touch	1	null	null	62.6	5.4	Right	null
+2	51	5	61170	149	Ball recovery	1	null	null	61.7	3.5	null	null
+2	51	6	61170	149	Pass	0	short	left	63.0	3.8	Right	null
+2	51	7	204120	1395	Interception	1	null	null	37.8	87.0	Back	null
+2	51	8	170271	1395	Ball recovery	1	null	null	32.9	75.3	null	null
+2	51	9	170271	1395	Pass	1	short	back	32.9	75.3	Back	null
+2	51	14	26894	1395	Pass	0	middle	forward	29.3	71.5	Left	null
+2	51	21	116406	149	Ball recovery	1	null	null	41.4	12.8	null	null
+2	51	22	116406	149	Pass	1	short	left	41.5	12.8	Back	null
+2	51	26	11527	149	Pass	1	long	left	38.0	32.4	Back	Switch of play
+2	51	33	89068	149	Pass	1	short	left	68.8	94.8	Left	null
+2	51	37	95715	149	Pass	1	middle	back	68.3	93.3	Left	null
+2	51	39	51090	149	Pass	1	long	right	47.7	88.9	Center	null
+2	51	43	61170	149	Pass	1	middle	right	54.9	29.4	Right	null
+2	51	46	80226	149	Pass	1	short	forward	63.4	7.0	Right	null
+2	51	51	46497	149	Pass	0	short	forward	71.5	21.6	Center	null
+2	51	52	204120	1395	Interception	1	null	null	26.2	73.9	Back	null
+2	51	52	204120	1395	Ball recovery	1	null	null	26.2	73.9	null	null
+2	51	53	204120	1395	Pass	1	short	forward	26.2	73.9	Back	null
+2	51	54	151873	1395	Take On	0	null	null	33.2	79.4	Back	null
+2	51	54	61170	149	Tackle	1	null	null	66.8	20.6	Right	null
+2	51	56	80226	149	Ball recovery	1	null	null	70.2	18.3	null	null
+2	51	56	204120	1395	Challenge	0	null	null	30.7	82.4	Back	null
+2	51	56	80226	149	Take On	1	null	null	69.3	17.6	Right	null
+2	51	59	80226	149	Dispossessed	1	null	null	82.0	11.4	Right	null
+2	51	59	153649	1395	Tackle	0	null	null	16.7	88.6	Back	null
+2	52	4	80226	149	Dispossessed	1	null	null	93.8	0.8	Right	null
+2	52	4	204120	1395	Tackle	1	null	null	7.4	98.1	Back	Out of play
+2	52	5	204120	1395	Out	0	null	null	7.2	101.7	Back	null
+2	52	5	80226	149	Out	1	null	null	92.8	-1.7	Right	null
+2	52	13	80226	149	Pass	1	middle	back	93.7	0.0	Right	Throw-in
+2	52	16	204727	1395	Offside provoked	1	null	null	10.7	77.1	null	null
+2	52	16	61170	149	Offside	1	null	null	78.7	2.5	Right	null
+2	52	39	204120	1395	Pass	0	long	forward	12.5	97.1	Left	Chipped|Free kick|Indirect
+2	52	41	116406	149	Pass	0	middle	forward	45.7	11.7	Right	null
+2	52	43	151873	1395	Pass	1	short	back	32.8	72.0	Back	null
+2	52	45	26894	1395	Pass	1	short	forward	26.0	66.6	Back	null
+2	52	46	151873	1395	Pass	1	middle	left	33.6	69.4	Back	null
+2	52	50	204120	1395	Pass	1	short	right	41.5	96.9	Back	null
+2	52	53	153649	1395	Pass	0	short	right	51.7	94.2	Left	null
+2	52	56	11527	149	Ball recovery	1	null	null	44.5	18.0	null	null
+2	52	58	11527	149	Pass	1	short	right	47.4	22.7	Back	null
+2	52	59	61170	149	Pass	1	short	left	46.8	15.6	Back	null
+2	53	0	11527	149	Pass	1	middle	right	47.9	21.6	Right	null
+2	53	4	80226	149	Dispossessed	1	null	null	56.0	5.6	Right	null
+2	53	4	153649	1395	Tackle	1	null	null	44.0	94.4	Back	Out of play
+2	53	6	153649	1395	Out	0	null	null	50.4	101.6	Left	null
+2	53	6	80226	149	Out	1	null	null	49.6	-1.6	Back	null
+2	53	12	61170	149	Pass	1	short	left	43.0	0.0	Back	Throw-in
+2	53	15	11527	149	Pass	1	long	back	41.5	6.2	Back	Chipped
+2	53	18	116406	149	Pass	1	short	back	14.5	38.8	Back	null
+2	53	20	84182	149	Keeper pick-up	1	null	null	11.2	39.2	null	null
+2	53	20	84182	149	Pass	1	middle	left	11.2	39.2	Back	Keeper Throw|Over-arm
+2	53	23	51090	149	Pass	1	short	forward	27.8	66.6	Back	null
+2	53	25	37971	149	Pass	1	short	right	37.2	59.0	Back	null
+2	53	28	11527	149	Pass	1	middle	left	35.4	52.1	Back	null
+2	53	29	95715	149	Pass	1	short	right	47.5	82.3	Back	null
+2	53	31	37971	149	Pass	1	middle	left	45.6	73.0	Left	null
+2	53	33	89068	149	Pass	1	middle	back	55.4	96.3	Back	null
+2	53	36	51090	149	Pass	1	long	forward	46.5	82.0	Center	Chipped
+2	53	39	78275	1395	Aerial	0	null	null	16.4	26.8	Back	Defensive
+2	53	39	37971	149	Aerial	1	null	null	83.6	73.2	Center	Offensive
+2	53	40	37971	149	Pass	0	middle	forward	84.5	77.0	Center	Flick-on
+2	53	41	115851	1395	Keeper pick-up	1	null	null	5.0	32.4	null	null
+2	53	50	115851	1395	Pass	1	long	left	7.3	29.2	Back	Keeper Throw|Over-arm
+2	53	53	204120	1395	Pass	1	middle	right	33.5	91.8	Back	null
+2	53	53	170271	1395	Pass	1	short	right	33.6	67.8	Back	null
+2	53	55	66959	1395	Dispossessed	1	null	null	32.0	50.8	Back	null
+2	53	55	51090	149	Tackle	1	null	null	68.0	49.2	Center	null
+2	53	59	37971	149	Ball recovery	1	null	null	75.6	55.1	null	null
+2	54	0	37971	149	Attempt Saved	1	null	null	77.0	58.4	Center	Assisted|footed|out of box
+2	54	0	115851	1395	Save	1	null	null	1.9	49.3	Back	Collected|Diving
+2	54	2	115851	1395	Keeper pick-up	1	null	null	1.9	49.3	null	null
+2	54	16	115851	1395	Pass	1	middle	forward	3.7	50.1	Back	Keeper Throw
+2	54	18	170271	1395	Pass	1	short	forward	25.1	39.5	Back	null
+2	54	19	153649	1395	Dispossessed	1	null	null	35.0	50.8	Back	null
+2	54	19	11527	149	Tackle	0	null	null	65.0	49.2	Center	null
+2	54	20	153649	1395	Pass	1	short	back	32.7	50.7	Back	null
+2	54	26	170271	1395	Foul	1	null	null	29.0	57.8	Back	Defensive|Direct
+2	54	26	61170	149	Foul	0	null	null	71.6	41.3	Center	Direct|Offensive
+2	54	29	170271	1395	Pass	0	middle	forward	29.7	57.0	Back	Direct|Free kick
+2	54	32	37971	149	Interception	1	null	null	55.7	56.1	Center	null
+2	54	33	51090	149	Ball recovery	1	null	null	53.2	49.6	null	null
+2	54	33	51090	149	Pass	1	middle	back	53.2	49.6	Back	null
+2	54	35	116406	149	Pass	1	middle	left	36.9	56.1	Back	null
+2	54	38	89068	149	Pass	1	short	right	51.0	76.6	Center	null
+2	54	40	37971	149	Pass	1	short	back	52.7	68.8	Back	null
+2	54	43	51090	149	Pass	1	short	right	47.4	64.5	Back	null
+2	54	45	11527	149	Pass	1	middle	right	47.1	53.1	Back	null
+2	54	49	116406	149	Pass	1	short	left	37.2	24.3	Back	null
+2	54	52	11527	149	Pass	1	middle	left	38.7	45.7	Back	null
+2	54	54	51090	149	Pass	1	middle	left	47.9	70.9	Left	null
+2	54	59	37971	149	Pass	1	short	right	58.1	94.2	Left	null
+2	55	3	51090	149	Pass	1	short	right	53.5	78.4	Back	null
+2	55	6	11527	149	Pass	1	middle	right	51.7	60.3	Back	null
+2	55	8	61170	149	Pass	1	short	forward	51.5	25.2	Center	null
+2	55	9	46497	149	Pass	1	short	back	59.3	29.4	Center	null
+2	55	13	61170	149	Pass	1	middle	forward	57.2	33.0	Center	null
+2	55	14	11527	149	Pass	1	short	right	70.1	48.4	Center	null
+2	55	16	46497	149	Pass	1	middle	right	70.5	36.4	Right	null
+2	55	18	80226	149	Take On	0	null	null	79.2	14.6	Right	null
+2	55	18	204120	1395	Tackle	1	null	null	20.8	85.4	Back	Out of play
+2	55	21	204120	1395	Out	0	null	null	10.4	102.0	Back	null
+2	55	21	80226	149	Out	1	null	null	89.6	-2.0	Right	null
+2	55	24	80226	149	Pass	1	middle	back	86.8	0.0	Right	Throw-in
+2	55	26	61170	149	Pass	1	middle	left	73.4	5.3	Center	null
+2	55	29	11527	149	Pass	1	middle	left	63.3	37.6	Center	null
+2	55	33	51090	149	Pass	1	short	back	67.1	57.3	Center	null
+2	55	34	11527	149	Pass	1	short	right	60.0	49.3	Center	null
+2	55	36	95715	149	Pass	1	middle	right	64.3	41.9	Right	null
+2	55	39	61170	149	Pass	0	middle	forward	70.0	14.6	Center	null
+2	55	40	204727	1395	Interception	1	null	null	11.8	70.0	Back	null
+2	55	41	204120	1395	Ball recovery	1	null	null	14.2	69.3	null	null
+2	55	42	204120	1395	Pass	0	short	forward	13.7	68.8	Back	null
+2	55	42	80226	149	Blocked Pass	1	null	null	85.3	33.1	Center	null
+2	55	44	95715	149	Ball recovery	1	null	null	77.8	36.4	null	null
+2	55	44	95715	149	Pass	0	middle	forward	77.8	36.4	Center	null
+2	55	46	115851	1395	Keeper pick-up	1	null	null	7.4	59.4	null	null
+2	55	51	115851	1395	Pass	1	middle	forward	7.4	59.4	Back	Keeper Throw
+2	55	55	170271	1395	Pass	1	middle	right	26.4	46.4	Back	null
+2	55	57	78275	1395	Pass	1	long	forward	22.3	5.5	Right	Chipped
+2	56	6	108168	1395	Pass	1	middle	left	79.9	10.6	Center	null
+2	56	12	66959	1395	Pass	1	short	right	81.3	25.6	Right	null
+2	56	16	111931	1395	Pass	1	short	left	85.2	11.4	Center	null
+2	56	19	66959	1395	Pass	1	short	right	91.0	24.6	Right	null
+2	56	22	111931	1395	Pass	1	middle	left	92.8	19.1	Center	Assist
+2	56	25	151873	1395	Miss	1	null	null	84.7	52.4	Center	Assisted|footed|inside box
+2	56	26	151873	1395	Out	0	null	null	101.6	47.8	Center	null
+2	56	26	95715	149	Out	1	null	null	-1.6	52.2	Back	null
+2	56	45	84182	149	Pass	1	middle	forward	4.6	51.1	Back	Goal Kick|Low
+2	56	47	61170	149	Pass	1	short	back	23.2	46.1	Back	null
+2	56	51	11527	149	Pass	1	middle	left	15.2	50.4	Back	null
+2	56	53	51090	149	Pass	1	middle	forward	20.8	92.0	Back	Chipped
+2	56	55	40720	149	Pass	1	middle	left	48.6	73.9	Left	null
+2	56	57	95715	149	Pass	0	middle	right	63.9	88.7	Center	null
+2	56	58	204727	1395	Pass	1	short	forward	26.4	38.2	Back	null
+2	57	0	153649	1395	Ball recovery	1	null	null	34.8	36.7	null	null
+2	57	0	153649	1395	Pass	1	short	forward	34.8	36.7	Back	null
+2	57	1	170271	1395	Pass	1	short	back	41.6	27.6	Back	null
+2	57	2	111931	1395	Pass	1	short	back	34.4	17.3	Back	null
+2	57	6	78275	1395	Pass	1	middle	back	25.7	28.9	Back	null
+2	57	10	115851	1395	Pass	1	middle	right	4.6	49.4	Back	null
+2	57	12	78275	1395	Pass	1	short	forward	21.3	10.1	Back	null
+2	57	14	111931	1395	Pass	1	short	back	25.6	3.2	Back	null
+2	57	17	78275	1395	Pass	1	middle	left	18.7	10.7	Back	null
+2	57	18	170271	1395	Pass	1	middle	left	26.6	31.3	Back	null
+2	57	22	204727	1395	Pass	1	middle	forward	14.9	70.6	Back	null
+2	57	25	170271	1395	Pass	1	middle	forward	30.1	56.1	Back	null
+2	57	27	66959	1395	Pass	1	middle	right	46.5	34.9	Center	null
+2	57	31	151873	1395	Pass	1	middle	left	54.9	24.4	Center	null
+2	57	37	108168	1395	Dispossessed	1	null	null	64.4	38.7	Center	null
+2	57	37	95715	149	Tackle	1	null	null	35.6	61.3	Back	null
+2	57	39	61170	149	Ball recovery	1	null	null	37.2	51.2	null	null
+2	57	41	61170	149	Pass	1	middle	right	44.6	47.8	Back	null
+2	57	45	80226	149	Pass	1	middle	right	63.8	19.1	Right	null
+2	57	51	46497	149	Pass	1	middle	left	72.3	12.5	Center	null
+2	57	54	37971	149	Pass	1	short	left	70.1	61.8	Center	null
+2	57	57	95715	149	Pass	1	middle	right	74.1	76.6	Center	null
+2	57	59	11527	149	Pass	1	middle	right	66.0	56.9	Center	null
+2	58	1	61170	149	Pass	0	middle	forward	68.5	36.0	Center	Chipped|Through ball
+2	58	3	115851	1395	Smother	1	null	null	7.3	59.3	null	null
+2	58	4	115851	1395	Keeper pick-up	1	null	null	7.3	59.3	null	null
+2	58	19	115851	1395	Pass	1	long	right	7.3	64.6	Back	Keeper Throw
+2	58	22	78275	1395	Foul	1	null	null	28.4	8.2	Back	Defensive|Direct
+2	58	22	40720	149	Foul	0	null	null	71.6	91.8	Left	Direct|Offensive
+2	58	31	78275	1395	Pass	0	middle	left	27.9	9.7	Back	Direct|Free kick
+2	58	35	116406	149	Pass	1	short	forward	54.7	54.2	Center	null
+2	58	37	61170	149	Ball recovery	1	null	null	66.0	55.7	null	null
+2	58	37	61170	149	Pass	1	short	left	68.2	57.5	Center	null
+2	58	39	40720	149	Pass	1	middle	left	73.2	69.7	Left	null
+2	58	44	95715	149	Pass	1	middle	right	75.0	81.2	Center	null
+2	58	47	61170	149	Pass	1	middle	right	70.8	53.0	Center	null
+2	58	52	46497	149	Pass	0	short	left	73.5	37.4	Center	Chipped
+2	58	52	153649	1395	Blocked Pass	1	null	null	21.9	55.5	Back	null
+2	58	53	78275	1395	Clearance	1	middle	null	13.1	36.1	null	null
+2	58	58	89068	149	Pass	0	middle	right	97.7	85.7	Center	Chipped|Cross
+2	59	0	115851	1395	Clearance	1	short	null	2.1	47.4	null	null
+2	59	1	26894	1395	Ball touch	1	null	null	4.2	49.0	Back	null
+2	59	1	115851	1395	Error	1	null	null	3.1	49.1	null	Leading to goal
+2	59	2	40720	149	Goal	1	null	null	98.4	51.8	Center	Big Chance|footed|inside box
+2	59	40	108168	1395	Pass	1	middle	back	49.8	50.0	Back	Kick Off
+2	59	42	78275	1395	Pass	0	long	forward	32.8	28.3	Center	null
+2	59	46	51090	149	Ball recovery	1	null	null	41.8	59.3	null	null
+2	59	47	51090	149	Pass	1	middle	forward	43.3	58.5	Center	Chipped
+2	59	48	46497	149	Pass	0	short	forward	66.2	45.8	Center	Flick-on
+2	59	49	78275	1395	Ball recovery	1	null	null	30.1	39.4	null	null
+2	59	50	78275	1395	Pass	1	short	right	31.3	37.3	Back	null
+2	59	52	111931	1395	Pass	1	short	left	34.2	21.0	Back	null
+2	59	55	78275	1395	Pass	1	short	forward	31.1	28.2	Back	null
+2	59	57	151873	1395	Pass	1	middle	right	35.9	35.1	Back	null
+2	60	0	111931	1395	Take On	0	null	null	34.4	5.1	Back	null
+2	60	0	95715	149	Tackle	1	null	null	65.6	94.9	Left	Out of play
+2	60	1	111931	1395	Deleted event	1	null	null	0.0	0.0	null	null
+2	60	2	95715	149	Ball touch	1	null	null	73.3	95.4	Left	null
+2	60	6	111931	1395	Out	1	null	null	11.2	-1.3	Back	null
+2	60	6	95715	149	Out	0	null	null	88.8	101.3	Left	null
+2	60	16	111931	1395	Pass	1	middle	forward	11.4	0.0	Back	Throw-in
+2	60	19	151873	1395	Pass	1	short	right	23.6	9.2	Back	null
+2	60	20	111931	1395	Pass	0	short	forward	25.1	5.3	Back	null
+2	60	20	111931	1395	Out	0	null	null	31.8	-2.0	Back	null
+2	60	20	95715	149	Out	1	null	null	68.2	102.0	Left	null
+2	60	22	89068	149	Pass	1	middle	right	68.5	100.0	Center	Throw-in
+2	60	24	61170	149	Pass	1	middle	right	53.9	62.7	Center	null
+2	60	29	80226	149	Pass	1	short	left	70.1	23.9	Center	null
+2	60	30	61170	149	Pass	0	middle	forward	70.4	34.0	Center	Chipped
+2	60	31	78275	1395	Clearance	1	middle	null	14.2	45.0	null	null
+2	60	35	204120	1395	Pass	1	short	forward	29.1	81.7	Back	null
+2	60	37	66959	1395	Ball touch	1	null	null	32.9	82.0	Back	null
+2	60	38	61170	149	Pass	1	middle	right	63.2	19.4	Right	null
+2	60	44	46497	149	Take On	0	null	null	83.9	5.7	Right	null
+2	60	44	153649	1395	Tackle	1	null	null	16.1	94.3	Back	Out of play
+2	60	45	153649	1395	Corner Awarded	0	null	null	16.1	94.3	Back	null
+2	60	45	46497	149	Corner Awarded	1	null	null	83.9	5.7	Right	null
+2	61	7	46497	149	Pass	0	middle	left	99.2	0.3	Center	Chipped|Corner taken|Cross
+2	61	9	108168	1395	Ball touch	0	null	null	2.2	57.3	Back	null
+2	61	10	108168	1395	Error	1	null	null	3.6	57.6	null	Leading to attempt
+2	61	11	40720	149	Miss	1	null	null	95.6	42.1	Center	From corner|footed|inside box
+2	61	12	151873	1395	Out	1	null	null	-1.0	57.1	Back	null
+2	61	12	40720	149	Out	0	null	null	100.6	42.8	Center	null
+2	61	35	115851	1395	Pass	0	long	forward	4.7	59.7	Center	Goal Kick
+2	61	41	51090	149	Pass	1	short	left	43.1	48.1	Back	null
+2	61	43	89068	149	Ball touch	0	null	null	44.6	67.0	Back	null
+2	61	43	170271	1395	Deleted event	1	null	null	0.0	0.0	null	null
+2	61	44	170271	1395	Pass	1	short	right	42.8	18.5	Back	null
+2	61	45	111931	1395	Pass	1	middle	forward	41.4	10.0	Right	Chipped
+2	61	46	37971	149	Aerial	0	null	null	44.5	83.2	Back	Defensive
+2	61	46	66959	1395	Aerial	1	null	null	54.4	18.0	Right	Offensive
+2	61	46	66959	1395	Pass	1	short	back	53.2	19.2	Center	Lay-off
+2	61	48	170271	1395	Pass	1	short	forward	51.4	21.3	Center	null
+2	61	49	108168	1395	Foul	1	null	null	56.2	25.4	Center	Direct|Offensive
+2	61	49	11527	149	Foul	0	null	null	43.8	74.6	Back	Defensive|Direct
+2	62	2	170271	1395	Pass	1	middle	right	56.0	23.9	Right	Direct|Free kick
+2	62	4	111931	1395	Pass	1	short	left	64.2	4.7	Right	null
+2	62	5	170271	1395	Pass	1	short	right	60.1	13.4	Right	null
+2	62	5	111931	1395	Pass	1	middle	back	61.9	5.5	Back	null
+2	62	8	78275	1395	Pass	1	middle	left	45.1	20.9	Back	null
+2	62	9	153649	1395	Pass	1	short	back	47.7	50.9	Back	Lay-off
+2	62	11	26894	1395	Pass	1	short	forward	38.4	44.0	Back	null
+2	62	13	151873	1395	Pass	1	middle	right	47.2	39.2	Back	null
+2	62	16	78275	1395	Pass	1	short	forward	45.1	19.8	Right	null
+2	62	18	66959	1395	Pass	1	short	left	56.2	20.0	Center	Lay-off
+2	62	20	151873	1395	Pass	1	short	back	53.3	26.4	Back	null
+2	62	21	170271	1395	Pass	1	long	left	46.7	22.1	Back	Chipped
+2	62	25	204727	1395	Pass	1	middle	left	39.1	82.6	Back	null
+2	62	28	204120	1395	Pass	1	short	forward	51.1	93.8	Left	null
+2	62	30	153649	1395	Pass	1	short	right	62.2	93.6	Left	null
+2	62	34	204120	1395	Take On	0	null	null	71.5	73.8	Center	null
+2	62	34	61170	149	Tackle	1	null	null	28.5	26.2	Back	null
+2	62	37	116406	149	Ball recovery	1	null	null	21.4	23.9	null	null
+2	62	37	116406	149	Pass	1	middle	back	21.4	23.9	Back	null
+2	62	39	84182	149	Pass	0	long	forward	7.2	33.3	Back	Launch
+2	62	43	204120	1395	Out	1	null	null	56.6	101.7	Left	null
+2	62	43	84182	149	Out	0	null	null	43.4	-1.7	Back	null
+2	62	46	204727	1395	Pass	1	middle	back	55.2	100.0	Back	Throw-in
+2	62	51	26894	1395	Pass	1	middle	right	36.6	72.4	Back	null
+2	62	53	78275	1395	Pass	1	middle	right	36.3	30.9	Back	null
+2	62	55	111931	1395	Pass	1	middle	forward	44.2	10.0	Center	null
+2	62	57	170271	1395	Pass	1	middle	left	54.7	24.3	Back	null
+2	63	0	151873	1395	Pass	1	long	left	45.7	43.1	Left	Chipped
+2	63	2	204120	1395	Pass	1	short	forward	65.3	96.6	Left	null
+2	63	4	108168	1395	Pass	1	short	back	70.1	88.6	Left	Lay-off
+2	63	5	204120	1395	Pass	1	short	right	68.0	88.0	Center	null
+2	63	6	66959	1395	Pass	1	short	back	75.5	73.2	Center	Lay-off
+2	63	8	204120	1395	Take On	0	null	null	74.6	63.0	Center	null
+2	63	8	116406	149	Tackle	1	null	null	25.4	37.0	Back	null
+2	63	10	89068	149	Pass	0	middle	right	18.1	49.6	Back	null
+2	63	10	153649	1395	Pass	1	middle	forward	70.2	82.4	Left	null
+2	63	14	108168	1395	Pass	1	short	right	80.3	88.0	Center	null
+2	63	15	66959	1395	Pass	0	short	forward	77.5	71.8	Center	null
+2	63	15	11527	149	Blocked Pass	1	null	null	22.2	29.2	Back	null
+2	63	18	11527	149	Ball recovery	1	null	null	22.5	29.2	null	null
+2	63	19	11527	149	Pass	1	short	right	24.5	29.3	Back	null
+2	63	20	46497	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	63	21	80226	149	Pass	0	short	left	33.9	19.8	Back	null
+2	63	22	170271	1395	Interception	1	null	null	62.8	76.1	Center	null
+2	63	22	170271	1395	Ball recovery	1	null	null	63.2	75.3	null	null
+2	63	23	170271	1395	Pass	1	middle	forward	63.2	75.3	Left	null
+2	63	27	108168	1395	Take On	0	null	null	90.8	80.3	Left	null
+2	63	27	61170	149	Tackle	1	null	null	9.2	19.7	Back	null
+2	63	28	108168	1395	Foul	0	null	null	91.1	81.0	Left	Direct|Offensive
+2	63	28	61170	149	Foul	1	null	null	8.9	19.0	Back	Defensive|Direct
+2	63	34	61170	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	63	50	116406	149	Pass	1	middle	forward	9.8	18.5	Back	Direct|Free kick
+2	63	51	61170	149	Pass	1	middle	left	23.1	21.3	Back	null
+2	63	52	11527	149	Pass	1	middle	left	26.2	53.1	Back	null
+2	63	54	89068	149	Take On	0	null	null	36.8	95.2	Back	null
+2	63	54	111931	1395	Tackle	1	null	null	63.2	4.8	Right	Out of play
+2	63	56	111931	1395	Out	0	null	null	63.2	-1.6	Right	null
+2	63	56	89068	149	Out	1	null	null	36.8	101.6	Back	null
+2	64	2	89068	149	Pass	1	middle	right	35.6	100.0	Back	Throw-in
+2	64	5	11527	149	Pass	1	long	right	34.7	77.8	Back	Chipped
+2	64	10	61170	149	Pass	1	short	left	53.4	16.1	Center	null
+2	64	12	46497	149	Pass	0	short	forward	57.2	27.7	Center	null
+2	64	12	204727	1395	Blocked Pass	1	null	null	35.1	72.7	Back	null
+2	64	17	40720	149	Pass	0	short	back	84.7	19.8	Center	null
+2	64	18	153649	1395	Ball recovery	1	null	null	20.8	76.4	null	null
+2	64	18	153649	1395	Pass	1	short	back	18.1	79.7	Back	null
+2	64	20	26894	1395	Pass	1	middle	left	11.8	74.8	Back	Chipped
+2	64	22	204120	1395	Pass	0	middle	forward	19.1	98.0	Back	Launch
+2	64	25	61170	149	Ball recovery	1	null	null	60.3	5.2	null	null
+2	64	28	61170	149	Pass	1	middle	left	68.3	20.7	Center	null
+2	64	34	89068	149	Pass	1	short	left	69.6	71.4	Center	null
+2	64	36	95715	149	Pass	1	long	right	72.7	75.1	Center	Assist|Chipped
+2	64	40	46497	149	Attempt Saved	1	null	null	86.1	27.6	Center	Assisted|footed|inside box
+2	64	40	115851	1395	Save	1	null	null	2.2	49.7	Back	Collected|Stooping
+2	64	42	115851	1395	Keeper pick-up	1	null	null	2.2	49.7	null	null
+2	64	58	115851	1395	Pass	0	long	forward	3.2	49.6	Left	Gk kick from hands
+2	65	2	116406	149	Ball recovery	1	null	null	30.0	3.7	null	null
+2	65	3	116406	149	Pass	1	middle	back	30.0	3.7	Back	null
+2	65	6	84182	149	Pass	1	long	left	7.8	30.3	Back	null
+2	65	13	51090	149	Pass	1	middle	right	34.4	77.2	Back	null
+2	65	15	11527	149	Pass	1	middle	right	33.3	53.4	Back	null
+2	65	19	61170	149	Pass	1	short	forward	45.5	19.5	Back	null
+2	65	21	46497	149	Pass	1	short	back	49.1	21.3	Back	null
+2	65	22	61170	149	Pass	1	middle	right	44.1	21.3	Right	null
+2	65	27	46497	149	Pass	1	short	back	66.8	2.2	Right	null
+2	65	29	80226	149	Pass	1	short	back	62.9	2.3	Right	null
+2	65	31	61170	149	Pass	1	long	left	57.7	6.5	Back	Chipped
+2	65	36	51090	149	Pass	1	middle	left	51.6	70.5	Left	null
+2	65	38	89068	149	Pass	1	short	forward	65.8	95.9	Left	null
+2	65	40	95715	149	Pass	1	short	back	68.5	96.8	Left	null
+2	65	42	37971	149	Pass	1	middle	right	58.9	95.7	Center	null
+2	65	45	11527	149	Pass	1	middle	right	53.4	63.7	Right	null
+2	65	50	61170	149	Pass	1	short	left	61.3	24.3	Center	null
+2	65	51	46497	149	Pass	1	short	back	63.8	28.5	Center	null
+2	65	53	61170	149	Pass	1	middle	forward	59.9	20.0	Right	null
+2	65	57	80226	149	Pass	0	short	left	90.2	21.6	Center	Cross
+2	65	57	204727	1395	Clearance	1	short	null	7.2	72.9	null	Blocked cross
+2	65	58	80226	149	Ball touch	1	null	null	91.6	26.5	Center	null
+2	65	58	204120	1395	Ball recovery	1	null	null	8.6	75.7	null	null
+2	65	59	204120	1395	Pass	1	short	forward	8.6	75.7	Back	null
+2	66	0	153649	1395	Pass	1	short	forward	19.4	72.4	Back	null
+2	66	2	151873	1395	Pass	0	middle	right	27.9	61.5	Back	null
+2	66	6	89068	149	Ball recovery	1	null	null	63.7	90.9	null	null
+2	66	9	89068	149	Pass	1	short	right	64.0	84.1	Center	null
+2	66	11	37971	149	Pass	1	short	right	64.6	68.1	Center	null
+2	66	13	61170	149	Pass	0	long	forward	64.3	57.0	Center	Chipped
+2	66	15	151873	1395	Out	1	null	null	-1.4	32.7	Back	null
+2	66	15	61170	149	Out	0	null	null	101.2	67.6	Center	null
+2	66	38	115851	1395	Pass	1	long	forward	5.0	57.2	Left	Goal Kick
+2	66	43	108168	1395	Aerial	1	null	null	52.6	86.2	Left	Offensive
+2	66	43	80226	149	Aerial	0	null	null	47.4	13.8	Back	Defensive
+2	66	43	108168	1395	Pass	0	middle	left	53.1	82.9	Back	null
+2	66	45	108168	1395	Out	0	null	null	44.0	101.8	Back	null
+2	66	45	80226	149	Out	1	null	null	56.0	-1.8	Right	null
+2	66	50	80226	149	Pass	1	short	left	56.9	0.0	Right	Throw-in
+2	66	52	11527	149	Pass	1	short	right	54.6	8.2	Right	null
+2	66	53	80226	149	Pass	1	short	left	57.4	2.3	Right	null
+2	66	55	11527	149	Pass	1	middle	left	54.6	8.8	Back	null
+2	66	57	61170	149	Pass	1	middle	left	45.5	36.9	Center	null
+2	67	0	37971	149	Pass	1	middle	left	58.0	71.2	Left	null
+2	67	4	95715	149	Pass	1	middle	back	63.0	82.0	Center	null
+2	67	6	61170	149	Pass	1	short	right	52.9	66.7	Center	null
+2	67	7	11527	149	Pass	1	middle	left	55.4	50.6	Back	Lay-off
+2	67	9	61170	149	Pass	1	middle	left	50.6	65.1	Left	null
+2	67	12	37971	149	Pass	1	short	forward	61.1	93.3	Left	null
+2	67	13	89068	149	Pass	1	short	back	67.5	97.7	Left	null
+2	67	15	37971	149	Pass	1	middle	right	60.1	96.2	Center	null
+2	67	19	61170	149	Pass	1	middle	right	55.5	54.5	Right	null
+2	67	23	46497	149	Pass	1	short	left	66.5	22.5	Center	null
+2	67	25	61170	149	Pass	1	short	forward	68.3	30.0	Center	null
+2	67	26	46497	149	Pass	1	short	forward	73.9	24.0	Right	null
+2	67	28	80226	149	Pass	0	middle	left	85.6	10.9	Center	Chipped|Cross
+2	67	29	26894	1395	Clearance	1	short	null	5.5	57.8	null	null
+2	67	30	153649	1395	Ball recovery	1	null	null	14.4	69.1	null	null
+2	67	33	153649	1395	Pass	1	middle	back	15.0	70.3	Back	null
+2	67	36	204120	1395	Pass	1	middle	forward	3.3	87.2	Back	null
+2	67	38	153649	1395	Pass	1	middle	forward	14.1	97.8	Back	Launch
+2	67	40	108168	1395	Pass	1	short	back	36.3	92.9	Back	null
+2	67	42	61170	149	Challenge	0	null	null	70.5	17.9	Right	null
+2	67	42	170271	1395	Take On	1	null	null	30.0	79.2	Back	null
+2	67	43	170271	1395	Pass	0	short	forward	31.9	71.5	Back	null
+2	67	46	11527	149	Interception	1	null	null	65.3	28.9	Center	null
+2	67	47	11527	149	Ball recovery	1	null	null	66.1	28.6	null	null
+2	67	47	11527	149	Pass	0	middle	right	66.5	28.6	Right	null
+2	67	48	204120	1395	Out	1	null	null	17.8	101.4	Back	null
+2	67	48	11527	149	Out	0	null	null	82.2	-1.4	Right	null
+2	68	1	204120	1395	Pass	1	short	right	15.6	100.0	Back	Throw-in
+2	68	2	170271	1395	Pass	1	short	left	19.4	91.2	Back	null
+2	68	5	204120	1395	Pass	1	middle	right	27.1	96.8	Back	null
+2	68	7	66959	1395	Pass	1	short	back	32.4	78.4	Back	null
+2	68	9	170271	1395	Pass	1	short	left	29.3	76.4	Back	null
+2	68	11	204120	1395	Pass	1	short	forward	27.5	92.1	Back	null
+2	68	13	153649	1395	Pass	1	short	forward	38.3	89.4	Back	null
+2	68	18	151873	1395	Foul	1	null	null	44.4	82.2	Back	Direct|Offensive
+2	68	18	80226	149	Foul	0	null	null	53.1	16.4	Right	Defensive|Direct
+2	68	44	204727	1395	Pass	1	middle	forward	35.0	73.9	Back	Direct|Free kick
+2	68	46	151873	1395	Pass	1	middle	right	46.7	50.6	Back	null
+2	68	47	78275	1395	Pass	1	middle	left	39.1	25.3	Back	null
+2	68	48	26894	1395	Pass	1	short	forward	36.5	46.6	Back	null
+2	68	50	151873	1395	Pass	1	short	back	45.5	44.8	Back	null
+2	68	52	26894	1395	Pass	1	short	forward	36.8	44.9	Back	null
+2	68	53	153649	1395	Pass	1	short	right	43.9	54.8	Back	null
+2	68	54	151873	1395	Dispossessed	1	null	null	44.9	49.6	Back	null
+2	68	54	11527	149	Tackle	1	null	null	55.1	50.4	Center	null
+2	68	55	46497	149	Ball recovery	1	null	null	61.1	43.4	null	null
+2	68	56	46497	149	Pass	1	short	forward	66.3	43.7	Center	null
+2	68	58	40720	149	Pass	1	short	left	72.0	48.8	Center	Assist
+2	68	59	46497	149	Attempt Saved	1	null	null	78.1	63.7	Center	Assisted|footed|out of box
+2	68	59	115851	1395	Save	1	null	null	4.6	48.4	Back	Collected|Diving
+2	69	1	115851	1395	Keeper pick-up	1	null	null	4.6	48.4	null	null
+2	69	3	115851	1395	Pass	1	long	left	4.6	48.4	Back	Keeper Throw
+2	69	4	204120	1395	Pass	1	short	right	29.7	88.6	Back	null
+2	69	6	153649	1395	Pass	1	short	right	30.1	68.8	Back	null
+2	69	8	170271	1395	Pass	1	short	forward	30.8	57.3	Back	null
+2	69	10	153649	1395	Pass	1	short	right	34.1	61.5	Back	null
+2	69	11	151873	1395	Pass	1	short	back	37.2	52.8	Back	Lay-off
+2	69	13	170271	1395	Pass	1	short	left	34.2	52.5	Back	null
+2	69	13	153649	1395	Pass	1	short	back	34.4	67.2	Back	null
+2	69	15	204727	1395	Pass	1	middle	left	30.6	70.2	Back	null
+2	69	17	204120	1395	Pass	1	middle	forward	38.7	96.8	Left	null
+2	69	19	66959	1395	Pass	1	short	back	52.5	95.4	Back	null
+2	69	20	204120	1395	Pass	1	middle	right	48.5	96.0	Left	null
+2	69	22	66959	1395	Pass	1	middle	right	58.7	75.4	Center	null
+2	69	24	108168	1395	Pass	1	short	forward	62.2	57.6	Center	null
+2	69	30	66959	1395	Pass	1	short	back	72.5	56.3	Center	null
+2	69	32	170271	1395	Pass	1	middle	right	66.5	50.4	Right	Chipped
+2	69	35	111931	1395	Pass	1	short	back	68.8	8.5	Right	null
+2	69	38	78275	1395	Pass	1	middle	back	58.0	14.4	Back	null
+2	69	41	26894	1395	Pass	1	middle	left	42.4	33.1	Back	null
+2	69	44	204727	1395	Pass	1	middle	left	43.8	74.2	Left	null
+2	69	47	204120	1395	Pass	1	middle	back	58.3	97.2	Back	null
+2	69	51	204727	1395	Pass	1	middle	right	42.4	82.7	Back	null
+2	69	53	26894	1395	Pass	1	middle	right	33.9	40.4	Back	null
+2	69	57	78275	1395	Pass	1	short	left	44.7	15.3	Back	null
+2	70	0	170271	1395	Pass	1	short	right	54.5	32.5	Center	null
+2	70	2	151873	1395	Pass	1	short	left	53.8	27.0	Center	null
+2	70	3	170271	1395	Pass	1	short	forward	55.1	32.2	Center	null
+2	70	5	108168	1395	Pass	0	middle	right	60.5	29.8	Right	null
+2	70	7	108168	1395	Out	0	null	null	52.7	-1.8	Right	null
+2	70	7	89068	149	Out	1	null	null	47.3	101.8	Back	null
+2	70	13	89068	149	Pass	1	short	right	47.8	100.0	Back	Throw-in
+2	70	14	95715	149	Pass	1	short	left	48.2	91.4	Back	null
+2	70	16	89068	149	Pass	1	middle	back	46.9	97.1	Back	null
+2	70	19	51090	149	Pass	1	middle	right	31.8	86.6	Back	null
+2	70	22	116406	149	Pass	1	short	left	31.7	46.0	Back	null
+2	70	25	11527	149	Pass	1	short	left	40.7	62.9	Back	null
+2	70	29	37971	149	Pass	1	short	back	46.3	82.0	Back	null
+2	70	35	51090	149	Pass	1	long	right	39.7	66.7	Right	Chipped|Switch of play
+2	70	41	80226	149	Pass	1	short	left	61.2	19.2	Center	null
+2	70	43	61170	149	Pass	1	middle	left	56.2	32.4	Center	null
+2	70	46	11527	149	Pass	1	middle	left	61.8	54.9	Center	null
+2	70	48	37971	149	Pass	1	middle	left	67.6	81.4	Left	null
+2	70	51	89068	149	Pass	1	middle	back	71.1	96.9	Back	null
+2	70	54	51090	149	Pass	1	short	forward	49.2	79.1	Left	null
+2	70	57	95715	149	Pass	1	middle	right	59.9	74.2	Center	null
+2	70	58	11527	149	Pass	1	short	left	63.1	54.9	Center	null
+2	70	59	95715	149	Pass	1	short	right	63.8	61.5	Center	null
+2	71	0	11527	149	Pass	1	middle	left	61.2	55.5	Center	null
+2	71	4	37971	149	Pass	1	middle	right	69.0	79.6	Center	null
+2	71	5	11527	149	Pass	1	short	forward	69.4	58.2	Center	null
+2	71	6	95715	149	Pass	0	short	forward	75.1	56.7	Center	null
+2	71	6	26894	1395	Blocked Pass	1	null	null	26.2	44.8	Back	null
+2	71	7	95715	149	Ball touch	1	null	null	75.8	56.0	Center	null
+2	71	7	153649	1395	Pass	1	short	right	27.0	46.6	Back	null
+2	71	8	170271	1395	Ball recovery	1	null	null	27.1	40.7	null	null
+2	71	8	170271	1395	Pass	1	short	forward	27.1	40.7	Back	null
+2	71	9	108168	1395	Pass	1	middle	right	34.5	36.0	Back	null
+2	71	12	151873	1395	Pass	1	middle	left	35.2	10.9	Back	null
+2	71	17	170271	1395	Pass	1	middle	left	31.6	36.7	Back	null
+2	71	20	204727	1395	Pass	1	short	forward	29.8	78.5	Back	null
+2	71	22	153649	1395	Pass	1	middle	left	38.3	77.0	Back	null
+2	71	24	204120	1395	Pass	1	short	right	41.3	96.2	Back	null
+2	71	25	153649	1395	Pass	1	short	back	42.6	90.8	Back	Lay-off
+2	71	26	204120	1395	Pass	1	middle	back	34.7	92.1	Back	null
+2	71	32	204727	1395	Pass	1	middle	right	29.3	63.6	Back	null
+2	71	36	78275	1395	Pass	1	short	right	32.3	17.0	Back	null
+2	71	37	111931	1395	Pass	1	short	left	35.9	4.7	Back	null
+2	71	39	78275	1395	Pass	1	middle	left	30.3	15.8	Back	null
+2	71	42	170271	1395	Pass	1	middle	left	33.5	37.7	Back	null
+2	71	44	204727	1395	Pass	1	middle	left	29.5	71.8	Back	null
+2	71	47	204120	1395	Pass	1	short	forward	46.7	90.5	Left	null
+2	71	53	66959	1395	Pass	1	middle	right	69.9	51.8	Center	null
+2	71	56	108168	1395	Pass	1	short	left	75.8	39.5	Center	null
+2	71	57	170271	1395	Pass	0	middle	forward	76.0	49.1	Center	Through ball
+2	72	0	51090	149	Clearance	1	middle	null	14.6	56.4	null	null
+2	72	4	170271	1395	Pass	1	middle	right	69.7	37.9	Right	null
+2	72	7	111931	1395	Pass	1	middle	back	75.1	6.1	Right	null
+2	72	9	78275	1395	Pass	1	middle	left	56.0	21.0	Center	null
+2	72	13	153649	1395	Pass	1	short	left	55.9	50.3	Center	null
+2	72	18	204727	1395	Pass	1	middle	right	51.7	64.8	Center	null
+2	72	19	151873	1395	Pass	1	middle	back	59.8	36.1	Back	null
+2	72	24	78275	1395	Pass	1	middle	back	53.3	17.3	Back	null
+2	72	27	26894	1395	Pass	1	middle	left	38.4	35.8	Back	null
+2	72	29	153649	1395	Pass	1	short	right	42.3	53.9	Back	null
+2	72	31	26894	1395	Pass	1	middle	right	36.5	39.7	Back	null
+2	72	35	78275	1395	Pass	1	short	left	43.6	13.1	Back	null
+2	72	40	170271	1395	Pass	1	middle	forward	44.6	22.2	Center	null
+2	72	43	108168	1395	Pass	1	middle	forward	69.9	21.3	Right	null
+2	72	48	111931	1395	Pass	0	middle	left	88.5	11.1	Center	null
+2	72	51	51090	149	Clearance	1	middle	null	12.9	63.1	null	null
+2	72	52	95715	149	Ball recovery	1	null	null	20.3	77.9	null	null
+2	72	52	95715	149	Pass	1	middle	forward	20.3	77.9	Back	null
+2	72	53	11527	149	Pass	1	middle	right	33.2	70.3	Back	null
+2	72	54	61170	149	Pass	1	middle	right	26.7	54.6	Back	null
+2	73	1	80226	149	Pass	1	short	back	36.2	27.4	Back	null
+2	73	2	61170	149	Pass	1	short	left	32.1	34.3	Back	null
+2	73	4	11527	149	Pass	1	short	back	36.9	44.6	Back	null
+2	73	5	61170	149	Pass	1	long	left	30.3	43.6	Back	null
+2	73	9	37971	149	Pass	1	short	left	48.2	83.5	Left	null
+2	73	12	95715	149	Pass	1	middle	right	54.1	93.9	Back	null
+2	73	16	61170	149	Pass	1	short	left	52.3	70.6	Left	null
+2	73	18	37971	149	Pass	1	short	forward	55.9	91.7	Left	null
+2	73	23	95715	149	Pass	1	middle	back	61.6	92.7	Left	null
+2	73	26	61170	149	Pass	1	middle	right	53.3	77.5	Center	null
+2	73	29	11527	149	Pass	1	short	forward	63.4	51.8	Center	null
+2	73	30	95715	149	Pass	1	short	back	70.3	56.6	Center	Lay-off
+2	73	32	11527	149	Pass	1	middle	left	68.5	61.4	Left	null
+2	73	36	89068	149	Pass	1	short	forward	72.8	93.0	Left	null
+2	73	37	11527	149	Pass	1	short	forward	79.4	84.5	Left	null
+2	73	38	37971	149	Pass	1	short	right	88.3	89.0	Center	null
+2	73	39	78275	1395	Offside provoked	1	null	null	9.1	13.1	null	null
+2	73	39	11527	149	Offside	1	null	null	87.2	75.9	Center	null
+2	74	27	108168	1395	Player Off	1	null	null	0.0	0.0	null	null
+2	74	27	42493	1395	Player on	1	null	null	0.0	0.0	null	null
+2	74	36	61170	149	Player Off	1	null	null	0.0	0.0	null	null
+2	74	36	18753	149	Player on	1	null	null	0.0	0.0	null	null
+2	74	37		149	Formation change	1	null	null	0.0	0.0	null	null
+2	74	40	115851	1395	Pass	1	long	forward	9.7	11.3	Right	Free kick|Indirect|Launch
+2	74	43	42493	1395	Ball touch	0	null	null	55.6	21.8	Center	null
+2	74	46	37971	149	Ball touch	1	null	null	46.7	75.7	Back	null
+2	74	47	18753	149	Pass	1	middle	right	41.7	62.4	Back	null
+2	74	51	116406	149	Ball recovery	1	null	null	26.9	34.9	null	null
+2	74	51	116406	149	Pass	1	middle	back	26.9	34.9	Back	null
+2	74	53	84182	149	Pass	1	middle	left	7.3	46.6	Back	null
+2	74	56	51090	149	Pass	1	middle	right	23.5	77.0	Back	null
+2	75	1	11527	149	Pass	1	short	left	30.0	60.5	Back	null
+2	75	2	51090	149	Pass	1	middle	right	26.7	73.2	Back	null
+2	75	6	116406	149	Pass	1	short	forward	38.5	31.3	Back	null
+2	75	9	11527	149	Pass	1	middle	forward	48.4	46.3	Center	null
+2	75	11	95715	149	Pass	1	short	right	62.4	53.7	Center	null
+2	75	12	18753	149	Pass	1	short	back	63.4	46.1	Center	Lay-off
+2	75	14	11527	149	Pass	1	long	right	57.9	44.2	Right	null
+2	75	18	80226	149	Pass	0	middle	left	81.8	5.3	Center	Cross
+2	75	19	26894	1395	Clearance	1	long	null	6.1	54.0	null	Out of play
+2	75	24	26894	1395	Out	0	null	null	33.0	101.8	Back	null
+2	75	24	80226	149	Out	1	null	null	67.0	-1.8	Right	null
+2	75	30	80226	149	Pass	1	middle	back	66.0	0.0	Right	Throw-in
+2	75	31	116406	149	Pass	1	middle	left	51.0	7.0	Center	null
+2	75	35	11527	149	Pass	1	short	left	53.2	35.4	Center	null
+2	75	38	37971	149	Pass	1	short	forward	61.2	46.7	Center	null
+2	75	41	18753	149	Pass	1	middle	left	69.2	51.0	Left	null
+2	75	47	89068	149	Pass	1	short	back	79.8	84.2	Left	null
+2	75	49	37971	149	Pass	1	middle	right	72.2	83.5	Center	null
+2	75	51	11527	149	Pass	1	short	forward	68.1	49.0	Center	null
+2	75	52	95715	149	Pass	1	short	right	74.7	50.4	Center	null
+2	75	54	46497	149	Pass	1	short	right	74.0	36.3	Center	null
+2	75	55	18753	149	Pass	1	short	right	75.2	26.7	Right	null
+2	75	59	80226	149	Take On	0	null	null	78.9	12.9	Right	Overrun
+2	76	0	66959	1395	Ball recovery	1	null	null	7.1	75.9	null	null
+2	76	1	66959	1395	Pass	1	short	forward	7.1	75.9	Back	null
+2	76	2	153649	1395	Pass	1	short	left	11.4	75.6	Back	null
+2	76	8	204120	1395	Pass	1	middle	right	10.6	94.8	Back	null
+2	76	10	204727	1395	Pass	0	short	forward	6.8	75.7	Back	null
+2	76	13	46497	149	Ball touch	1	null	null	92.2	21.7	Center	null
+2	76	13	170271	1395	Pass	1	short	forward	25.0	68.8	Back	null
+2	76	15	42493	1395	Pass	1	middle	right	32.8	62.4	Back	null
+2	76	17	78275	1395	Pass	1	middle	right	26.5	34.3	Back	null
+2	76	23	111931	1395	Pass	1	short	left	62.8	5.3	Right	null
+2	76	28	151873	1395	Foul	1	null	null	62.2	12.4	Right	Direct|Offensive
+2	76	28	11527	149	Foul	0	null	null	37.8	87.6	Back	Defensive|Direct
+2	76	31	11527	149	Card	1	null	null	0.0	0.0	null	Yellow Card
+2	77	1	170271	1395	Pass	1	middle	forward	63.2	15.9	Center	Chipped|Cross|Direct|Free kick
+2	77	3	78275	1395	Pass	0	middle	forward	85.4	45.4	Center	null
+2	77	6	84182	149	Claim	1	null	null	3.9	43.6	Back	High claim
+2	77	10	84182	149	Pass	1	long	left	7.5	45.5	Back	Keeper Throw|Over-arm
+2	77	14	89068	149	Pass	1	middle	forward	28.3	96.5	Back	null
+2	77	15	95715	149	Pass	1	short	back	44.1	94.8	Back	Lay-off
+2	77	16	89068	149	Pass	1	middle	right	35.8	96.2	Back	null
+2	77	18	95715	149	Pass	1	long	right	38.6	77.6	Back	null
+2	77	21	37971	149	Pass	1	middle	right	37.1	28.5	Back	null
+2	77	24	80226	149	Pass	1	short	left	49.1	5.3	Back	null
+2	77	26	37971	149	Pass	1	middle	left	46.9	17.1	Back	null
+2	77	29	18753	149	Pass	1	short	left	49.0	38.0	Back	null
+2	77	29	11527	149	Pass	1	middle	right	46.6	42.7	Right	null
+2	77	31	37971	149	Pass	1	middle	left	52.0	20.7	Back	null
+2	77	34	11527	149	Pass	1	short	right	53.9	35.8	Center	null
+2	77	35	46497	149	Pass	0	middle	forward	59.1	25.0	Center	null
+2	77	38	204727	1395	Ball recovery	1	null	null	18.9	71.1	null	null
+2	77	38	204727	1395	Pass	1	middle	right	18.9	71.1	Back	null
+2	77	40	115851	1395	Pass	1	middle	forward	7.4	50.7	Back	null
+2	77	43	170271	1395	Pass	1	short	left	28.9	57.3	Back	null
+2	77	45	153649	1395	Pass	1	middle	left	37.1	72.3	Back	null
+2	77	50	204120	1395	Pass	1	middle	right	37.4	95.0	Back	null
+2	77	52	204727	1395	Pass	1	middle	right	27.3	78.1	Back	null
+2	77	55	151873	1395	Pass	1	long	left	37.7	49.7	Left	Chipped
+2	77	58	66959	1395	Ball touch	0	null	null	67.5	98.0	Left	null
+2	77	59	66959	1395	Out	0	null	null	67.2	102.0	Left	null
+2	77	59	46497	149	Out	1	null	null	32.8	-2.0	Back	null
+2	78	14	80226	149	Pass	1	short	forward	41.3	0.0	Back	Throw-in
+2	78	17	18753	149	Pass	1	short	back	47.1	3.4	Back	null
+2	78	18	80226	149	Pass	1	short	left	42.6	2.6	Back	null
+2	78	18	37971	149	Pass	1	short	right	41.5	6.8	Back	null
+2	78	21	153649	1395	Challenge	0	null	null	57.4	96.3	Left	null
+2	78	21	80226	149	Take On	1	null	null	42.6	3.7	Back	null
+2	78	22	80226	149	Take On	0	null	null	46.7	3.5	Back	null
+2	78	22	204120	1395	Tackle	1	null	null	53.3	96.5	Left	null
+2	78	23	66959	1395	Ball recovery	1	null	null	60.8	96.2	null	null
+2	78	24	66959	1395	Pass	1	short	back	60.8	96.2	Left	null
+2	78	25	204120	1395	Pass	1	middle	right	56.2	95.9	Center	null
+2	78	30	151873	1395	Pass	1	short	left	63.2	79.4	Left	null
+2	78	35	66959	1395	Pass	1	short	back	73.4	83.6	Left	null
+2	78	37	151873	1395	Pass	1	middle	right	66.6	87.1	Center	null
+2	78	39	170271	1395	Pass	1	short	left	58.4	72.9	Left	null
+2	78	40	153649	1395	Pass	1	middle	back	56.3	80.0	Back	null
+2	78	44	204727	1395	Pass	1	short	right	46.4	69.1	Back	null
+2	78	45	26894	1395	Pass	1	middle	right	39.9	55.5	Back	null
+2	78	46	78275	1395	Pass	0	middle	left	57.6	20.7	Center	null
+2	78	49	11527	149	Interception	1	null	null	42.5	62.1	Back	null
+2	78	50	11527	149	Ball recovery	1	null	null	50.2	64.0	null	null
+2	78	50	11527	149	Pass	0	middle	forward	52.7	64.9	Center	null
+2	78	51	78275	1395	Interception	1	null	null	35.1	25.5	Back	null
+2	78	52	26894	1395	Ball recovery	1	null	null	33.7	32.4	null	null
+2	78	53	26894	1395	Pass	1	short	forward	35.6	32.8	Back	null
+2	78	55	170271	1395	Pass	1	middle	forward	41.8	39.7	Center	null
+2	78	56	42493	1395	Pass	1	short	back	54.6	43.9	Back	Lay-off
+2	78	57	170271	1395	Pass	1	middle	left	47.5	45.7	Center	null
+2	79	1	151873	1395	Take On	1	null	null	58.0	70.6	Center	null
+2	79	1	37971	149	Challenge	0	null	null	42.0	29.4	Back	null
+2	79	4	151873	1395	Pass	0	short	left	70.5	70.8	Left	null
+2	79	7	80226	149	Interception	1	null	null	21.3	11.0	Back	null
+2	79	10	42493	1395	Attempt Saved	1	null	null	63.7	62.7	Center	35+|footed
+2	79	10	84182	149	Save	1	null	null	4.5	51.5	Back	Collected|Standing
+2	79	14	84182	149	Keeper pick-up	1	null	null	4.5	51.5	null	null
+2	79	23	84182	149	Pass	1	middle	forward	15.5	62.1	Back	Keeper Throw
+2	79	27	11527	149	Pass	1	short	left	47.9	67.0	Back	null
+2	79	30	95715	149	Pass	1	short	right	49.9	75.1	Center	null
+2	79	32	11527	149	Pass	1	middle	right	57.1	64.5	Center	null
+2	79	37	18753	149	Pass	1	short	back	62.6	47.8	Center	null
+2	79	38	11527	149	Pass	1	short	right	57.8	51.8	Center	null
+2	79	39	37971	149	Pass	1	middle	right	54.7	37.1	Right	null
+2	79	42	80226	149	Pass	1	middle	left	66.8	4.6	Center	null
+2	79	46	37971	149	Pass	0	long	forward	59.0	28.5	Center	Chipped
+2	79	51	115851	1395	Keeper pick-up	1	null	null	4.6	59.4	null	null
+2	79	54	115851	1395	Pass	1	middle	forward	7.5	54.8	Back	Keeper Throw
+2	79	56	170271	1395	Pass	1	short	forward	26.8	41.0	Back	null
+2	79	58	153649	1395	Pass	1	short	forward	35.9	48.5	Back	null
+2	80	0	151873	1395	Pass	0	short	right	43.3	35.5	Back	null
+2	80	0	95715	149	Blocked Pass	1	null	null	58.1	61.7	Center	null
+2	80	4	40720	149	Ball recovery	1	null	null	68.3	75.9	null	null
+2	80	5	40720	149	Pass	1	middle	back	68.3	75.9	Back	null
+2	80	7	89068	149	Pass	1	middle	right	39.6	86.0	Back	null
+2	80	9	51090	149	Pass	1	short	forward	41.2	63.6	Back	null
+2	80	13	11527	149	Pass	1	middle	forward	49.4	61.8	Center	null
+2	80	13	95715	149	Dispossessed	1	null	null	64.2	70.3	Center	null
+2	80	13	78275	1395	Tackle	1	null	null	35.8	29.7	Back	null
+2	80	15	151873	1395	Ball recovery	1	null	null	45.5	27.0	null	null
+2	80	17	151873	1395	Pass	1	short	left	47.3	25.5	Back	null
+2	80	18	170271	1395	Pass	0	middle	left	43.2	33.0	Back	null
+2	80	21	46497	149	Pass	1	short	left	58.9	40.3	Center	null
+2	80	23	37971	149	Pass	0	short	forward	54.9	46.1	Center	null
+2	80	25	42493	1395	Foul	1	null	null	44.3	52.8	Back	Direct|Offensive
+2	80	25	37971	149	Foul	0	null	null	55.7	47.2	Center	Defensive|Direct
+2	80	34	170271	1395	Pass	1	middle	left	45.6	55.4	Left	Direct|Free kick
+2	80	37	204120	1395	Pass	1	middle	forward	57.7	94.8	Left	null
+2	80	41	66959	1395	Pass	0	long	right	68.4	65.5	Right	Chipped
+2	80	45	95715	149	Ball recovery	1	null	null	26.9	91.4	null	null
+2	80	46	95715	149	Pass	1	middle	right	24.0	87.4	Back	null
+2	80	48	51090	149	Pass	1	short	forward	14.0	59.9	Back	null
+2	80	49	11527	149	Pass	1	middle	left	24.0	55.1	Back	null
+2	80	53	95715	149	Pass	0	middle	forward	22.3	76.7	Back	null
+2	80	54	153649	1395	Ball recovery	1	null	null	61.4	31.6	null	null
+2	80	54	153649	1395	Pass	1	short	right	61.4	31.6	Center	null
+2	80	56	170271	1395	Pass	1	middle	forward	61.2	21.8	Right	null
+2	80	58	151873	1395	Pass	0	middle	forward	78.5	12.9	Center	null
+2	81	2	84182	149	Keeper pick-up	1	null	null	3.0	63.6	null	null
+2	81	6	84182	149	Pass	1	long	right	13.8	51.6	Back	Keeper Throw|Over-arm
+2	81	10	37971	149	Pass	1	short	forward	41.9	7.3	Right	null
+2	81	13	46497	149	Pass	1	short	back	48.2	4.4	Back	null
+2	81	16	80226	149	Pass	1	middle	left	42.4	16.1	Back	null
+2	81	20	11527	149	Pass	1	middle	left	53.5	64.0	Left	null
+2	81	24	89068	149	Pass	1	middle	right	63.1	95.7	Center	null
+2	81	27	11527	149	Pass	1	short	right	57.2	73.6	Center	null
+2	81	28	37971	149	Pass	1	short	back	57.5	61.4	Center	null
+2	81	29	11527	149	Pass	1	middle	right	53.2	64.9	Center	null
+2	81	33	18753	149	Pass	0	long	forward	68.5	41.2	Right	null
+2	81	35	151873	1395	Out	1	null	null	3.9	102.0	Back	null
+2	81	35	18753	149	Out	0	null	null	96.1	-2.0	Right	null
+2	81	58	46497	149	Player Off	1	null	null	0.0	0.0	null	null
+2	81	58	93605	149	Player on	1	null	null	0.0	0.0	null	null
+2	82	7	204120	1395	Pass	0	short	forward	5.1	100.0	Back	Throw-in
+2	82	8	37971	149	Interception	1	null	null	84.9	6.6	Right	null
+2	82	10	66959	1395	Tackle	1	null	null	11.1	94.5	Back	null
+2	82	10	37971	149	Dispossessed	1	null	null	88.9	5.5	Right	null
+2	82	13	66959	1395	Take On	0	null	null	20.5	95.6	Back	null
+2	82	13	80226	149	Tackle	1	null	null	79.5	4.4	Right	null
+2	82	14	37971	149	Ball touch	1	null	null	79.5	10.4	Right	null
+2	82	15	37971	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	82	15	153649	1395	Pass	1	short	forward	18.9	91.7	Back	null
+2	82	20	42493	1395	Ball touch	0	null	null	28.4	96.9	Back	null
+2	82	21	42493	1395	Out	0	null	null	27.2	101.8	Back	null
+2	82	21	116406	149	Out	1	null	null	72.8	-1.8	Right	null
+2	82	37	42493	1395	Card	1	null	null	0.0	0.0	null	Yellow Card
+2	82	54	80226	149	Pass	1	middle	forward	73.4	0.0	Right	Throw-in
+2	82	58	18753	149	Take On	0	null	null	91.0	2.6	Right	null
+2	82	58	204120	1395	Tackle	1	null	null	9.4	96.7	Back	Out of play
+2	82	59	204120	1395	Out	0	null	null	8.0	102.0	Back	null
+2	82	59	18753	149	Out	1	null	null	92.0	-2.0	Right	null
+2	83	6	80226	149	Pass	1	short	left	92.0	0.0	Right	Throw-in
+2	83	7	18753	149	Pass	0	short	right	95.9	5.8	Right	Lay-off
+2	83	9	204120	1395	Out	1	null	null	7.0	102.0	Back	null
+2	83	9	80226	149	Out	0	null	null	93.0	-2.0	Right	null
+2	83	9	80226	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	83	17	204120	1395	Pass	1	short	forward	7.6	100.0	Back	Throw-in
+2	83	19	66959	1395	Pass	1	short	back	14.8	96.8	Back	null
+2	83	20	204120	1395	Pass	0	long	forward	8.2	96.5	Back	Launch
+2	83	24	204120	1395	Out	0	null	null	46.7	101.6	Back	null
+2	83	24	80226	149	Out	1	null	null	53.3	-1.6	Right	null
+2	83	35	80226	149	Pass	0	middle	forward	55.2	0.0	Right	Throw-in
+2	83	35	204120	1395	Pass	1	short	forward	28.9	88.1	Back	null
+2	83	37	170271	1395	Ball recovery	1	null	null	36.3	77.0	null	null
+2	83	37	170271	1395	Pass	1	short	forward	36.8	76.0	Back	Chipped
+2	83	38	151873	1395	Pass	1	short	back	42.8	68.4	Back	Lay-off
+2	83	41	170271	1395	Pass	1	short	back	33.5	68.2	Back	null
+2	83	42	26894	1395	Pass	1	short	left	23.8	67.6	Back	null
+2	83	44	204727	1395	Pass	1	short	forward	24.8	74.8	Back	null
+2	83	46	153649	1395	Pass	1	middle	right	34.7	71.4	Back	null
+2	83	49	170271	1395	Ball touch	0	null	null	28.9	55.1	Back	null
+2	83	52	18753	149	Ball recovery	1	null	null	65.2	32.7	null	null
+2	83	53	18753	149	Pass	0	middle	left	62.2	41.9	Center	null
+2	83	54	111931	1395	Interception	1	null	null	29.3	38.2	Back	null
+2	83	54	111931	1395	Ball recovery	1	null	null	31.3	41.9	null	null
+2	83	55	111931	1395	Take On	1	null	null	32.4	42.6	Back	null
+2	83	55	18753	149	Challenge	0	null	null	67.6	57.4	Center	null
+2	84	0	111931	1395	Ball touch	0	null	null	36.2	36.4	Back	null
+2	84	1	80226	149	Ball recovery	1	null	null	66.3	63.7	null	null
+2	84	1	80226	149	Pass	1	short	forward	67.5	65.4	Center	null
+2	84	3	95715	149	Pass	0	middle	right	73.6	66.4	Center	null
+2	84	4	66959	1395	Ball recovery	1	null	null	28.6	44.8	null	null
+2	84	7	66959	1395	Take On	1	null	null	20.0	33.2	Back	null
+2	84	7	95715	149	Challenge	0	null	null	80.0	66.8	Center	null
+2	84	11	66959	1395	Dispossessed	1	null	null	21.5	28.5	Back	null
+2	84	11	40720	149	Tackle	1	null	null	78.5	71.5	Center	null
+2	84	11	66959	1395	Deleted event	1	null	null	0.0	0.0	null	null
+2	84	11	80226	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	84	12	80226	149	Ball touch	1	null	null	75.9	74.3	Center	null
+2	84	13	66959	1395	Foul	1	null	null	23.8	28.9	Back	Defensive|Direct
+2	84	13	80226	149	Foul	0	null	null	76.2	71.1	Center	Direct|Offensive
+2	84	31	78275	1395	Pass	1	long	left	25.1	24.4	Back	Direct|Free kick
+2	84	33	204727	1395	Pass	1	middle	left	23.9	77.8	Back	null
+2	84	36	204120	1395	Pass	1	middle	back	42.0	90.6	Back	null
+2	84	38	204727	1395	Pass	1	middle	right	31.7	80.9	Back	null
+2	84	39	170271	1395	Pass	0	middle	forward	38.7	64.5	Center	null
+2	84	44	116406	149	Pass	1	middle	left	49.6	45.8	Back	null
+2	84	45	89068	149	Ball recovery	1	null	null	48.7	63.7	null	null
+2	84	50	89068	149	Pass	1	short	forward	73.1	94.1	Left	null
+2	84	53	95715	149	Pass	1	middle	right	76.3	92.9	Center	null
+2	84	58	11527	149	Pass	1	long	right	68.4	56.9	Right	Chipped
+2	85	2	80226	149	Pass	0	long	left	72.4	10.0	Center	Chipped|Cross
+2	85	4	78275	1395	Clearance	1	short	null	6.3	48.8	null	null
+2	85	5	26894	1395	Ball recovery	1	null	null	9.7	53.6	null	null
+2	85	5	26894	1395	Pass	1	middle	forward	9.7	53.6	Back	null
+2	85	7	153649	1395	Pass	0	short	forward	24.4	61.4	Back	null
+2	85	9	37971	149	Ball recovery	1	null	null	66.8	48.2	null	null
+2	85	10	37971	149	Pass	1	middle	right	68.2	48.2	Center	null
+2	85	13	93605	149	Pass	1	middle	right	65.6	21.8	Right	null
+2	85	15	80226	149	Pass	1	short	forward	70.9	3.7	Right	null
+2	85	16	93605	149	Take On	0	null	null	81.8	3.4	Right	null
+2	85	16	204120	1395	Tackle	0	null	null	16.6	96.8	Back	null
+2	85	19	93605	149	Pass	1	short	left	81.9	3.4	Right	Assist
+2	85	22	18753	149	Miss	1	null	null	76.3	21.3	Center	Assisted|footed|out of box
+2	85	23	204120	1395	Out	1	null	null	5.8	-1.5	Back	null
+2	85	23	18753	149	Out	0	null	null	94.2	101.5	Left	null
+2	85	46	78275	1395	Pass	0	middle	forward	7.8	0.0	Back	Throw-in
+2	85	49	89068	149	Pass	0	short	forward	65.0	93.6	Left	null
+2	85	50	111931	1395	Foul	1	null	null	24.2	4.5	Back	Defensive|Direct
+2	85	50	95715	149	Foul	0	null	null	76.1	96.9	Left	Direct|Offensive
+2	86	10	78275	1395	Pass	1	long	forward	24.6	5.9	Center	Chipped|Direct|Free kick
+2	86	15	42493	1395	Foul	0	null	null	62.8	23.5	Center	Defensive|Direct
+2	86	15	51090	149	Foul	1	null	null	37.2	76.5	Back	Direct|Offensive
+2	86	24	51090	149	Pass	1	middle	right	38.7	77.6	Back	Direct|Free kick
+2	86	25	11527	149	Pass	1	middle	left	53.4	56.3	Left	null
+2	86	26	37971	149	Pass	1	middle	forward	53.9	83.3	Left	null
+2	86	30	89068	149	Pass	1	short	back	71.7	96.5	Left	null
+2	86	32	37971	149	Pass	1	middle	right	64.4	92.1	Center	null
+2	86	34	11527	149	Pass	1	middle	back	59.2	60.6	Back	null
+2	86	36	51090	149	Pass	1	middle	right	48.6	71.1	Back	null
+2	86	39	116406	149	Pass	1	middle	left	51.5	40.4	Center	null
+2	86	44	37971	149	Pass	1	middle	left	64.1	81.1	Left	null
+2	86	44	89068	149	Pass	1	short	right	72.7	98.0	Left	null
+2	86	46	37971	149	Pass	1	middle	forward	70.4	87.8	Left	null
+2	86	49	95715	149	Pass	0	short	forward	75.3	74.2	Center	null
+2	86	50	111931	1395	Interception	1	null	null	22.1	27.3	Back	null
+2	86	52	170271	1395	Ball touch	1	null	null	25.0	27.6	Back	null
+2	86	54	153649	1395	Clearance	1	short	null	25.3	36.1	null	null
+2	86	55	51090	149	Interception	1	null	null	58.3	70.6	Center	null
+2	86	57	11527	149	Pass	1	middle	right	62.4	63.6	Center	Assist
+2	87	2	18753	149	Miss	1	null	null	78.1	72.0	Center	Assisted|footed|out of box
+2	87	3	40720	149	Miss	1	null	null	89.9	50.5	Center	Assisted|Big Chance|footed|inside box
+2	87	4	204727	1395	Out	1	null	null	-1.4	31.8	Back	null
+2	87	4	89068	149	Out	0	null	null	101.4	68.2	Center	null
+2	87	4	18753	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	87	5	18753	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	87	33	115851	1395	Pass	1	long	forward	4.9	39.7	Center	Goal Kick
+2	87	37	42493	1395	Dispossessed	1	null	null	57.6	23.5	Center	null
+2	87	37	89068	149	Tackle	1	null	null	42.4	76.5	Back	null
+2	87	40	51090	149	Ball recovery	1	null	null	39.1	72.1	null	null
+2	87	40	51090	149	Pass	1	middle	forward	39.1	72.1	Center	Chipped
+2	87	42	18753	149	Pass	1	middle	back	59.2	49.9	Back	null
+2	87	44	80226	149	Pass	0	short	left	45.7	36.1	Back	null
+2	87	45	170271	1395	Interception	1	null	null	53.7	55.7	Center	null
+2	87	48	11527	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	87	49	80226	149	Pass	1	middle	right	44.3	31.9	Right	null
+2	87	52	93605	149	Pass	1	middle	left	53.6	8.9	Back	null
+2	87	56	11527	149	Pass	1	middle	left	53.9	32.5	Center	null
+2	87	58	37971	149	Pass	1	middle	left	55.7	59.4	Center	null
+2	88	1	95715	149	Pass	1	middle	right	69.8	78.2	Center	null
+2	88	5	11527	149	Pass	1	middle	right	68.6	53.6	Right	Chipped
+2	88	9	80226	149	Pass	1	long	left	87.8	9.1	Left	Chipped|Cross
+2	88	16	89068	149	Pass	1	short	back	85.8	97.1	Left	null
+2	88	19	95715	149	Pass	0	middle	right	77.6	86.9	Center	null
+2	88	20	78275	1395	Clearance	1	short	null	18.1	33.3	null	null
+2	88	22	170271	1395	Ball recovery	1	null	null	22.3	32.8	null	null
+2	88	22	170271	1395	Pass	1	short	left	22.3	32.8	Back	null
+2	88	23	153649	1395	Pass	1	middle	forward	21.5	41.3	Back	null
+2	88	26	66959	1395	Pass	0	middle	right	30.6	60.2	Back	null
+2	88	27	95715	149	Pass	0	short	right	60.8	55.2	Center	null
+2	88	29	66959	1395	Dispossessed	1	null	null	34.8	47.2	Back	null
+2	88	29	95715	149	Tackle	0	null	null	65.2	52.8	Center	null
+2	88	32	66959	1395	Take On	1	null	null	33.7	31.7	Back	null
+2	88	32	37971	149	Challenge	0	null	null	66.3	68.3	Center	null
+2	88	33	66959	1395	Pass	1	short	right	36.2	41.6	Back	null
+2	88	34	170271	1395	Pass	1	middle	right	31.7	30.6	Back	null
+2	88	37	42493	1395	Pass	1	short	left	46.3	6.1	Back	null
+2	88	39	151873	1395	Pass	1	middle	left	46.0	15.8	Back	null
+2	88	42	153649	1395	Pass	1	short	back	40.8	32.4	Back	null
+2	88	45	170271	1395	Pass	0	long	left	39.2	26.5	Left	Chipped|Switch of play
+2	88	48	204120	1395	Ball touch	0	null	null	54.4	94.8	Left	null
+2	88	50	170271	1395	Out	0	null	null	54.4	101.7	Left	null
+2	88	50	95715	149	Out	1	null	null	45.6	-1.7	Back	null
+2	89	30	153649	1395	Player Off	1	null	null	0.0	0.0	null	null
+2	89	30	194141	1395	Player on	1	null	null	0.0	0.0	null	null
+2	89	35	80226	149	Pass	1	short	left	53.4	0.0	Right	Throw-in
+2	89	38	11527	149	Pass	1	long	left	53.4	34.2	Left	Switch of play
+2	89	42	89068	149	Pass	1	short	right	55.4	93.9	Left	null
+2	89	44	95715	149	Pass	1	middle	right	62.6	77.9	Center	null
+2	89	47	11527	149	Pass	1	middle	left	63.0	62.4	Left	null
+2	89	51	89068	149	Pass	1	middle	right	71.6	94.5	Center	null
+2	89	53	11527	149	Pass	1	middle	right	64.8	66.4	Center	null
+2	90	0	18753	149	Pass	1	middle	left	68.2	41.0	Center	null
+2	90	2	11527	149	Pass	1	middle	left	70.3	67.0	Left	null
+2	90	5	95715	149	Pass	1	middle	right	85.1	90.0	Center	Chipped|Cross
+2	90	7	26894	1395	Offside provoked	1	null	null	3.0	51.5	null	null
+2	90	7	89068	149	Offside	1	null	null	88.6	56.3	Center	null
+2	90	7	115851	1395	Deleted event	1	null	null	0.0	0.0	null	null
+2	90	11	89068	149	Deleted event	1	null	null	0.0	0.0	null	null
+2	90	39	115851	1395	Pass	0	long	forward	10.6	49.0	Center	Free kick|Indirect|Launch
+2	90	41	80226	149	Pass	1	short	back	42.5	28.6	Back	null
+2	90	42	116406	149	Ball recovery	1	null	null	36.4	27.7	null	null
+2	90	43	116406	149	Pass	1	middle	left	36.4	27.7	Back	null
+2	90	44	51090	149	Pass	1	middle	left	35.3	54.0	Left	null
+2	90	48	89068	149	Pass	1	short	forward	52.6	92.1	Left	null
+2	90	50	95715	149	Pass	1	middle	right	55.9	89.4	Center	null
+2	90	52		1395	Injury Time Announcement	1	null	null	0.0	0.0	null	null
+2	90	52	11527	149	Pass	1	long	forward	54.9	74.4	Left	Chipped
+2	90	56	89068	149	Ball touch	0	null	null	91.9	83.2	Left	null
+2	90	56	115851	1395	Out	1	null	null	-1.5	20.2	Back	null
+2	90	56	89068	149	Out	0	null	null	101.6	80.0	Left	null
+2	91	19	115851	1395	Pass	0	long	forward	5.1	41.5	Center	Goal Kick
+2	91	24	66959	1395	Foul	0	null	null	57.2	39.4	Center	Defensive|Direct
+2	91	24	116406	149	Foul	1	null	null	42.8	60.6	Back	Direct|Offensive
+2	91	28	66959	1395	Card	1	null	null	0.0	0.0	null	Yellow Card
+2	91	41	51090	149	Pass	1	middle	right	40.8	60.2	Back	Direct|Free kick
+2	91	44	11527	149	Pass	1	long	right	57.6	44.0	Right	Chipped
+2	91	47	93605	149	Dispossessed	1	null	null	79.8	4.2	Right	null
+2	91	47	204120	1395	Tackle	0	null	null	20.2	95.8	Back	null
+2	91	48	93605	149	Ball touch	1	null	null	78.5	5.2	Right	null
+2	91	50	115851	1395	Keeper pick-up	1	null	null	4.5	71.2	null	null
+2	92	2	115851	1395	Pass	1	long	forward	14.8	58.5	Center	Gk kick from hands
+2	92	7	42493	1395	Pass	1	short	right	60.6	27.3	Right	null
+2	92	10	111931	1395	Pass	1	middle	left	53.3	15.3	Back	null
+2	92	13	170271	1395	Pass	1	middle	right	46.9	30.7	Back	null
+2	92	14	111931	1395	Pass	1	short	forward	46.8	5.8	Right	null
+2	92	15	151873	1395	Pass	0	short	back	58.6	5.2	Right	Lay-off
+2	92	15	89068	149	Blocked Pass	1	null	null	43.4	94.2	Back	null
+2	92	18	95715	149	Ball recovery	1	null	null	54.1	96.6	null	null
+2	92	18	95715	149	Pass	1	short	right	54.0	96.2	Left	null
+2	92	21	11527	149	Pass	1	short	right	52.6	89.6	Back	null
+2	92	23	37971	149	Pass	1	middle	right	46.6	75.0	Center	null
+2	92	26	18753	149	Pass	1	middle	right	52.9	40.1	Right	null
+2	92	31	80226	149	Pass	0	short	left	72.5	11.1	Right	null
+2	92	31	194141	1395	Interception	1	null	null	24.4	84.1	Back	null
+2	92	33	204727	1395	Ball recovery	1	null	null	14.4	76.7	null	null
+2	92	33	204727	1395	Pass	1	middle	forward	14.4	76.7	Back	null
+2	92	34	66959	1395	Pass	1	short	back	27.7	71.7	Back	null
+2	92	36	151873	1395	Pass	1	middle	forward	20.8	68.7	Back	Chipped
+2	92	37	42493	1395	Pass	1	short	left	39.1	81.5	Back	null
+2	92	39	194141	1395	Ball touch	0	null	null	35.1	93.6	Back	null
+2	92	40	116406	149	Ball recovery	1	null	null	66.8	2.2	null	null
+2	92	40	116406	149	Pass	1	middle	back	66.8	2.2	Back	null
+2	92	43	37971	149	Pass	1	middle	left	45.1	20.3	Back	null
+2	92	50	51090	149	Pass	1	middle	left	65.2	58.8	Left	null
+2	92	52	89068	149	Pass	1	middle	forward	73.8	94.7	Left	null
+2	92	56	95715	149	Ball touch	0	null	null	76.4	93.1	Left	null
+2	92	56	111931	1395	Deleted event	1	null	null	0.0	0.0	null	null
+2	92	57	111931	1395	Foul	1	null	null	26.4	6.6	Back	Defensive|Direct
+2	92	57	95715	149	Foul	0	null	null	73.6	93.4	Left	Direct|Offensive
+2	93	5		1395	End	1	null	null	0.0	0.0	null	null
+2	93	6		149	End	1	null	null	0.0	0.0	null	null
+14	0	0		1395	End	1	null	null	0.0	0.0	null	null
+14	0	0		1395	Collection End	1	null	null	0.0	0.0	null	null
+14	0	0		149	End	1	null	null	0.0	0.0	null	null
+14	0	0		149	Collection End	1	null	null	0.0	0.0	null	null

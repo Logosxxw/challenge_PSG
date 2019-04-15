@@ -1,0 +1,319 @@
+id|type|description
+1|Long ball|Long pass over 32 metres
+2|Cross|A ball played in from wide areas into the box
+3|Head pass|Pass made with a players head
+4|Through ball|Ball played through for player making an attacking run to create a chance on goal
+5|Free kick|taken Any free kick; direct or indirect
+6|Corner taken|All corners. Short corners will feature qualifier 6 but be missing qualifier 2 (cross).
+7|Players caught offside|Player who was in an offside position when pass was made.
+8|Goal disallowed|Pass led to a goal disallowed for a foul or offside
+106|Attacking Pass|A pass in the opposition’s half of the pitch No longer collected as of June 2016
+107|Throw-in|Throw-in taken
+140|Pass End X|The x pitch coordinate for the end point of a pass - See Appendix 11
+141|Pass End Y|The y pitch coordinate for the end point of a pass - See Appendix 11
+152|Direct|A direct free kick.
+155|Chipped|Pass which was chipped into the air
+156|Lay-off|Pass where player laid the ball into the path of a teammates run
+157|Launch|Pass played from a player’s own half up towards front players. Aimed to hit a zone rather than a specific player
+168|Flick-on|Pass where a player has "flicked" the ball forward using their head
+193|Goal Measure|Essentially a Goal Rating from 1-5 but is only used for a limited about of comps. This was collected from 2013-2015 but is no longer used
+195|Pull Back|Player in opposition’s penalty box reaches the by-line and passes (cuts) the ball backwards to a teammate
+196|Switch of play|Any pass which crosses the centre zone of the pitch and in length is greater than 60 on the y axis of the pitch
+210|Assist|The pass was an assist for a shot. The type of shot then dictates whether it was a goal assist or just key pass.
+212|Length|The estimated length the ball has travelled during the associated event.
+213|Angle|The angle the ball travels at during an event relative to the direction of play. Shown in radians.
+218|2nd assist|Pass was deemed a 2nd assist - created the opportunity for another player to assist a goal
+219|Players on both posts|Assigned to a pass event with qualifier 6 indicating if there were defensive players on both posts when a corner was taken No longer collected as of June 2016
+220|Player on near post|Assigned to a pass event with qualifier 6 indicating if there was a defensive player on only the near post when a corner was taken No longer collected as of June 2016
+221|Player on far post|Assigned to a pass event with qualifier 6 indicating if there was a defensive player on only the far post when corner was taken No longer collected as of June 2016
+222|No players on posts|Assigned to a pass event with qualifier 6 indicating if there were no defensive players on either post when a corner was taken No longer collected as of June 2016
+223|In-swinger|Corner was crossed into the box swerving towards the goal
+224|Out-swinger|Corner was crossed into the box swerving away from the goal
+225|Straight|Corner was crossed into the box with a straight ball flight
+236|Blocked Pass|Similar to interception but player already very close to ball - instead of touch event in past. Or assigned to the pass to indicate it was blocked
+238|Fair Play|Ball kicked out of play for injury etc
+240|GK Start|Automated qualifier which appears on all GK passes after keeper collects ball with his hands and then puts it on the ground.
+241|Indirect|Shows if indirect freekick is taken
+279|Kick Off|Starting pass - to enable exclusion from passing
+278|Tap|Ball tapped to other player (i.e. for free-kick shot)
+287|Over-arm|Indicates over-arm throw out by the goalkeeper
+345|Overhit Cross|A cross which clearly went over the intended target area
+346|Next Event - Goal Kick|Used with Event 5. Indicates the next event will be a goal-kick
+347|Next Event - Throw-In|Used with Event 5. Indicates the next event will be a throw-in Offside Pass Events
+23|Fast Break|An offside pass which would have started a fast break
+297|Follows shot rebound|An offside pass that follwos a rebounded shot
+298|Follows shot blocked|An offside pass that follwos a blocked shot
+15|Head|Any event where the player used their head such as a shot or a clearance
+72|Left footed|Player shot with their left foot
+20|Right footed|Player shot with right footed
+21|Other body part|Shot was neither via a player’s head or foot for example knee or chest
+22|Regular play|Shot during open play as opposed to from a set play
+23|Fast break|Shot occurred following a fast break situation
+24|Set piece|Shot occurred from a crossed free kick
+25|From corner|Shot occurred from a corner
+26|Free kick|Shot occurred directly from a free kick
+29|Assisted|Indicates that there was a pass (assist) from another player to set up the goal opportunity
+55|Related event ID|This will appear for goals or shots, the related event_id will be that of the assist and thus show the assisting player ID
+96|Corner situation|Pass or shot event in corner situation. 25 is used when the goal is direct from corner, 96 relates to 2nd phase attack - NO LONGER USED
+97|Direct free|26 will be used for shot directly from a free kick. 97 only used with Opta GoalData (game system4) but not with full data.
+112|Scramble|Goal where there was a scramble for possession of the ball and the defence had an opportunity to clear No longer collected as of June 2016
+154|Intentional assist|Shot from an intentional assist i.e. The assisting player intended the pass, no deflection etc
+160|Throw-in set piece|Shot came from a throw-in set piece
+216|2nd related event ID|If there was a 2nd assist, i.e a pass to create the opportunity for the player making the assist. MLS and German Bundesliga 1 & 2.
+233|Opposite related event ID|Used for any event where there is the same event for both teams with outcome 1 or 0. This relates the 2 event together, for example aerial duels
+9|Penalty|When attempt on goal was a penalty kick. ALSO used on Event type 4 to indicate a penalty was awarded
+28|Own goal|Own goal . Note: Use the inverse coordinates of the goal location
+108|Volley|Shot on the volley (ball doesn't bounce before the shot)
+113|Strong|Shot was subjectively classed as strong
+114|Weak|Shot was subjectively classed as weak
+115|Rising|Shot was rising in the air No longer collected as of June 2016
+116|Dipping|Shot was dipping towards the ground No longer collected as of June 2016
+117|Lob|Shot was an attempt by the attacker to play the ball over the goalkeeper and into the goal
+120|Swerve Left|Shot which swerves to the left - from attackers perspective
+121|Swerve Right|Shot which swerves to the right - from attackers perspective
+122|Swerve Moving|Shot which swerves in several directions
+133|Deflection|Shot deflected off another player
+136|Keeper Touched|Goal where the goalkeeper got a touch on the ball as it went in
+137|Keeper Saved|Shot going wide or over the goal but still collected/saved by the goalkeeper with event type 15
+138|Hit Woodwork|Any shot which hits the post or crossbar
+153|Not past goal line|Shot missed which does not pass the goal line
+214|Big Chance|Shot was deemed by Opta analysts an excellent opportunity to score – clear cut chance eg one on one
+215|Individual Play|Player created the chance to shoot by himself, not assisted. For example he dribbled to create space for himself and shot.
+217|2nd assisted|Indicates that this shot had a significant pass to create the opportunity for the pass which led to a goal
+228|Own shot blocked|Player blocks an attacking shot unintentionally from their teammate
+230|GK X Coordinate|GK position when goal or shot hit post
+231|GK Y Coordinate|GK position when goal or shot hit post
+249|Temp_ShotOn|Shot has occurred but it is pending additional detail qualifiers from Opta.
+250|Temp_Blocked|Block has occurred but it is pending additional detail qualifiers from Opta.
+251|Temp_Post|Shot has hit the post but it is pending additional detail qualifiers from Opta.
+252|Temp_Missed|Shot has missed but it is pending additional detail qualifiers from Opta.
+253|Temp_Miss Not Passed Goal Line|Shot has missed but not gone past the end line but it is pending additional detail qualifiers from Opta.
+254|Follows a Dribble|A goal followed a dribble by the goalscorer
+261|1 on 1 Chip|Goal scored via a 1 on 1 chip over the goalkeeper
+262|Back Heel|Goal scored via a back heel
+263|Direct Corner|Shot or goal directly from a corner
+280|Fantasy Assist Type|Related Event to - PASS_LOST, BLOCKED_SHOT, ATTEMPT_SAVED, POST, FREE_KICK_WON, HANDBALL_WON, OWN_GOAL, PENALTY_WON
+281|Fantasy Assisted By|Player making assist
+282|Fantasy Assist Team|Team making assist
+96|Corner situation|Pass or shot event in corner situation. 25 is used when the goal is direct from corner, 96 relates to 2nd phase attack - NO LONGER USED
+110|Half Volley|Shot on the half volley (hit immediately after the ball bounces) - NO LONGER USED
+111|Diving Header|Shot where the player dives to head the ball - NO LONGER USED
+118|One Bounce|Shot where the ball bounced once on its way towards the goal - NO LONGER USED
+119|Few Bounces|Shot where the ball bounced several times on its way to the goal - NO LONGER USED
+316|Passed Penalty|Player elected to pass the ball to a team-mate when taking a penalty instead of trying a direct shot on goal
+328|First Touch|The shot was attempted by the player first time without another touch to control the ball
+16|Small boxcentre|Zone of the pitch - See appendix 13
+17|Box-centre|Zone of the pitch - See appendix 13
+18|Out of boxcentre|Zone of the pitch - See appendix 13
+19|35+ centre|Zone of the pitch - See appendix 13
+60|Small box-right|Zone of the pitch - See appendix 13
+61|Small box-left|Zone of the pitch - See appendix 13
+62|Box-deep right|Zone of the pitch - See appendix 13
+63|Box-right|Zone of the pitch - See appendix 13
+64|Box-left|Zone of the pitch - See appendix 13
+65|Box-deep left|Zone of the pitch - See appendix 13
+66|Out of box-deep right|Zone of the pitch - See appendix 13
+67|Out of box-right|Zone of the pitch - See appendix 13
+68|Out of box-left|Zone of the pitch - See appendix 13
+69|Out of box-deep left|Zone of the pitch - See appendix 13
+70|35+ right|Zone of the pitch - See appendix 13
+71|35+ left|Zone of the pitch - See appendix 13
+73|Left|Hit the left post or missed left
+74|High|Hit crossbar or missed over
+75|Right|Hit right post or missed right
+76|Low left|Zone of the goalmouth
+77|High left|Zone of the goalmouth
+78|Low centre|Zone of the goalmouth
+79|High centre|Zone of the goalmouth
+80|Low right|Zone of the goalmouth
+81|High Right|Zone of the goalmouth
+82|Blocked|Zone of the goalmouth
+83|Close left|Zone of the goalmouth
+84|Close right|Zone of the goalmouth
+85|Close high|Zone of the goalmouth
+86|Close left and high|Zone of the goalmouth
+87|Close right and high|Zone of the goalmouth
+100|Six yard blocked|Shot blocked on the 6 yard line
+101|Saved off line|Shot saved on the goal line
+102|Goal mouth y co-ordinate|Y Co-ordinate of where a shot crossed goal line - see Appendix 12
+103|Goal mouth z co-ordinate|Z Co-ordinate for height at which a shot crossed the goal line - see Appendix 12
+146|Blocked x coordinate|The x pitch coordinate for where a shot was blocked
+147|Blocked y coordinate|The y pitch coordinate for where a shot was blocked
+276|Out on sideline|Shot missed and went out on the sideline. Please note that in this context the accompanying Blocked qualifiers (q 147 and q 153) are where the ball goes out on the touchline.
+300|Solo run|Related to event 16 - to show the goal came from a solo run
+10|Hand|Handball
+11|6-seconds violation|Goalkeeper held onto the ball longer than 6 seconds resulting in a free kick
+12|Dangerous play|A foul due to dangerous play
+13|Foul|All fouls
+31|Yellow Card|Player shown a yellow card
+32|Second yellow|Player receives a 2nd yellow card which automatically results in a red card
+33|Red card|Player shown a straight red card
+34|Referee abuse|Card shown to player because of abuse to the referee
+35|Argument|Card shown to player because of an argument
+36|Violent conduct|Card shown to player because of violent conduct.
+37|Time wasting|Card shown to player for time wasting
+38|Excessive celebration|Card shown to player for excessively celebrating a goal
+39|Crowd interaction|Card shown to player because of contact or communication with the crowd
+40|Other reason|Card shown for unknown reason
+95|Back pass|Free kick given for an illegal pass to the goalkeeper which was collected by his hands or picked up
+132|Dive|Free kick or card event; player penalised for simulation
+158|Persistent infringement|Card shown to player for persistent fouls
+159|Foul and abusive language|Card shown for player using foul language
+161|Encroachment|Card shown for player who moves within 10 yards of an opponent’s free kick
+162|Leaving field|Card shown for player leaving the field without permission
+163|Entering field|Card shown for player entering the field during play without referee's permission
+164|Spitting|Card shown for spitting
+165|Professional foul last man|Card shown for a deliberate tactical foul
+166|Professional foul handball|Card shown to an outfield player for using their hand to keep the ball out of the goal
+171|Rescinded card|Referee rescind a card post match
+172|No impact on timing|Player booked on bench but who hasn't played any minutes in the match
+184|Dissent|Card shown when a player does not obey referee instructions
+191|Off the ball foul|Foul committed by and on a player who is not in possession of the ball
+192|Block by hand|Outfield player blocks a shot with their hand
+242|Obstruction|Foul committed is for obstruction
+243|Unsporting Behaviour|Card shown for unsporting behaviour
+244|Not Retreating|Card shown for player not retreating at a set- piece
+245|Serious Foul|Card shown for player committing a serious foul
+264|Aerial Foul|Foul committed aerially
+265|Attempted Tackle|Foul committed by an attempted tackle
+289|Denied goalscoring opp|Foul committed by a player denying a goal- scoring opportunity
+294|Shove/push|Foul given for a shove/push
+295|Shirt Pull/Holding|Foul given for shirt pull/holding
+296|Elbow/Violent Conduct|Foul given for elbow/violent conduct
+313|Illegal Restart|Foul given for an illegal restart
+314|End of offside|Foul given for shot hitting offside player
+228|Own Shot Blocked|Player blocks an attacking shot unintentionally from their teammate
+190|From shot off target|Used with Event 10. Indicates a shot was saved by the goalkeeper but in fact the shot was going wide and not on target
+88|High claim|Event 11 Claim - Goalkeeper claims possession of a crossed ball
+89|1 on 1|When attacker was clear with no defenders between him and the goalkeeper (can be associated with 10, 11, 12, 13, 14, 15 or 16)
+90|Deflected save|Event 10 Save; when goalkeeper saves a shot but does not catch the ball No longer collected as of June 2016
+91|Dive and deflect|Event 10 Save; when goalkeeper saves a shot while diving but does not catch the ball No longer collected as of June 2016
+92|Catch|Event 10 Save; when goalkeeper saves a shot and catches it No longer collected as of June 2016
+93|Dive and catch|Event 10 Save; when goalkeeper saves a shot while diving and catches it No longer collected as of June 2016
+123|Keeper Throw|Pass event - goalkeeper throws the ball out
+124|Goal Kick|Pass event – goal kick
+128|Punch|Clearance by goalkeeper where he punches the ball clear
+139|Own Player|Shot saved by goalkeeper that was deflected by a defender
+173|Parried safe|Goalkeeper save where shot is parried to safety
+174|Parried danger|Goalkeeper save where shot is parried but only to another opponent
+175|Fingertip|Goalkeeper save using his fingertips
+176|Caught|Goalkeeper catches the ball
+177|Collected|Goalkeeper save and collects possession of the ball
+178|Standing|Goalkeeper save while standing
+179|Diving|Goalkeeper save while diving
+180|Stooping|Goalkeeper saves while stooping
+181|Reaching|Goalkeeper save where goalkeeper reaches for the ball
+182|Hands|Goalkeeper saves with his hands
+183|Feet|Goalkeeper save using his feet –
+198|GK hoof|Goalkeeper drops the ball on the ground and kicks it long towards a position rather than a specific player
+199|Gk kick from hands|Goalkeeper kicks the ball forward straight out of his hands
+237|Low|Indicates a low goal kick
+267|Right Arm|Goalkeeper uses his right arm to make the save Collected during 2013/14 season only
+268|Left Arm|Goalkeeper uses his left arm to make the save Collected during 2013/14 season only
+269|Both Arms|Goalkeeper uses both of his arms to make the save Collected during 2013/14 season only
+270|Right Leg|Goalkeeper uses his right leg to make the save Collected during 2013/14 season only
+271|Left Leg|Goalkeeper uses his left leg to make the save Collected during 2013/14 season only
+272|Both Legs|Goalkeeper uses both legs to make the save Collected during 2013/14 season only
+273|Hit Right Post|Hit right post after save
+274|Hit Left Post|Hit left post after save
+275|Hit Bar|Hit bar after save
+232|Unchallenged|Goalkeeper smothers ball but is not under any challenge
+301|Shot from cross|Related to event type 15 to show it was an attempted save from a shot that came from a cross
+186|Scored|Goalkeeper event - shots faced and not saved resulting in goal
+187|Saved|Goalkeeper event - shots faced and saved
+188|Missed|Goalkeeper event - shot faced which went wide or over. Did not require a save 
+14|Last line|When a player makes a defensive action and they are the last person between the opponent and the goal
+94|Def block|Defender blocks an opposition shot. Shown with event 10.
+167|Out of play|Tackle or clearance event sent the ball out of play
+169|Leading to attempt|A player error, event 51, which leads to an opponent shot on goal
+170|Leading to goal|A player error, event 51, which lead to an opponent scoring a goal
+185|Blocked cross|Blocked cross
+239|By Wall|Freekick situation blocked by wall – need associated outfielder hit
+285|Defensive|Indicates a defensive duel
+286|Offensive|Indicates an offensive duel
+211|Overrun|Take on where the player attempting overhits the ball and it runs away from them out of play or to an opponent
+234|Home Team Possession|Possession % in last 5 mins
+235|Away Team Possession|Possession % in last 5 mins
+288|Out of Play Secs|Amount of time the ball was out of play in the last 5 minutes
+30|Involved|This will show all players in the starting line up and available as a substitute
+41|Injury|Substitution, event 18, because of injury
+42|Tactical|Substitution, event 18 for tactical reasons
+44|Player position|Goalkeeper, Defender, Midfielder, Forward or Substitute. These are the playing positions associated with each player for the specific match they are playing in.
+59|Jersey number|This will be shown for substitutions, line ups, line up changes
+130|Team formation|See appendix 14
+131|Team player formation|Player position within a formation - 'See appendix 14
+145|Formation slot|Formation position of a player coming on - see appendix 14
+194|Captain|ID of the player who is the team captain
+197|Team kit|Kit of the team
+283|Coach ID|ID of the team coach
+290|Coach Types|Shows Coaches and involved roles
+292|Detailed Position ID|
+293|Position Side ID|
+319|Captain change|An indicator to confirm that the team has changed their captain
+50|Official position|Referee, Linesman#1, Linesman#2, Forth official
+51|Official ID|Unique ID for the official
+200|Referee stop|Referee stops play
+201|Referee delay|Delay in play instructed by referee
+208|Referee Injury|Referee injured
+247|Offside|Contentious decision relating to offside
+248|Goal Line|Contentious decision relating to ball crossing the goal line
+53|Injured player id|ID of the player who is injured and causing a delay in the game
+202|Weather problem|Bad weather stops or interrupts play
+203|Crowd Trouble|Trouble within the crowd stops or delays play
+204|Fire|Fire with the stadium stops or delays play
+205|Object thrown on pitch|Object throw from the crowd lands on the pitch and delays play
+206|Spectator on pitch|Spectator comes onto the pitch and forces a delay in play
+207|Awaiting officials decision|Given to an event/delay where the referee still has to make a decision
+208|Referee injury|Referee sustained injury causing stoppage in play
+226|Suspended|Game is has not finished but is suspended
+227|Resume|Game has resumed after being suspended mid- way through on a previous date
+246|Drinks Break|Game delayed due to drinks break
+299|Clock affecting|Related to event types 27 and 28 to indicate the delay is affecting the match clock
+303|Floodlight failure|Related to event type 303 to show the delay is due to a floodlight failure
+344|Video Coverage Lost|Related to event type 79 (interuption event)
+54|End cause|The relating value that has caused the match to end early
+226|Match suspended|Match has been suspended
+227|Resume|Match has resumed
+57|End type|Related to event type 30, 1 indicates when it is the end of collection (the End event has a period_id = 14, 'Post Game')
+127|Direction of Play|Related to event type 32, this signifies the actual direction of play in relation to the TV cameras. X/Y coordinates however are ALWAYS normalized to Left to Right.
+144|Explanation of Deleted Event|Related to event type 34, this qualifier is used to inform you which match action action has been deleted - the number within the value tag will relate to Event Type
+189|Not visible|The event occurred off camera and was not seen by the analyst (usually due to a replay being shown)
+209|Game end|Related to event type 30, signifies End event is at the end of the match
+229|Post-match complete|Confirmation that the game has been reviewed and Opta post-match quality control has been completed No longer collected as of August 2016
+277|Minutes|Number of minutes of injury time given by the referee
+302|Checks complete|Collection of the game has been completed and initial post-match checks have been carried out by analyst
+308|Goes to extra time|Related to event type 30, match has went to extra time
+309|Goes to penalties|Related to event type 30, match has gone to penalties
+325|Abandonment To Follow|Attached to End event (type 30), this will flag when the game is about to be abandoned by Opta's collection system – rather than appearing as though the match has normally ended
+329|VAR - Goal|Video Assistant Referee is investigating a potential goal
+330|VAR - Penalty Awarded|Video Assistant Referee is investigating a potential penalty
+331|VAR - Penalty not awarded|Video Assistant Referee is investigating a potential penalty that was originally not awarded
+332|VAR - Card upgrade|Video Assistant Referee is investigating whether a yellow card should be upgraded to a red card
+333|VAR - Mistaken Identity|Video Assistant Referee is investigating a potential case of mistaken identity
+334|VAR - Other|Video Assistant Referee is investigating another matter
+335|Referee Decision Confirmed|The decision has been confirmed
+336|Referee Decision Cancelled|The decision has been cancelled
+341|VAR - Goal Not Awarded|Video Assistant Referee has been asked to look at an event/shot that was originally not awarded as a goal
+342|VAR - Red Card Given|Video Assistant Referee has been asked to look at an event where a red card was awarded
+343|Review|value = 1 “under review” value = 2 “reviewed"
+45|Temperature|Very cold, cold, pleasant, warm, hot - NO LONGER USED
+46|Conditions|Wind, rain, fog, snow/hail, clear
+47|Field Pitch|Water logged pitch, wet pitch, damp pitch, normal pitch, dry
+48|Lightings|Flood lights, bad visibility, natural lights
+49|Attendance Figure|Number of people in crowd
+255|Open Roof|Whether the roof is open
+256|Air Humidity|Dynamic
+257|Air Pressure|The air pressure
+258|Sold Out|Whether the game is sold out
+259|Celsius degrees|The temperature
+260|Floodlight|Whether the game is floodlit
+56|56|Back, Left, Center, Right
+233|Opposite related event ID|Used for any event where there is the same event for both teams with outcome 1 or 0. This relates the 2 event together, for example aerial duels
+41|Injury|Player off pitch due to injury
+304|Ball In Play|Player off pitch but ball in play
+305|Ball Out of Play|Ball out of play due to player being off pitch
+306|Kit change|Player off pitch for kit change
+310|Player goes out|Player goes out of pitch
+311|Player comes back|Player comes back onto pitch
+320|Extra flag for checker|Additional flag for checker (FOR INTERNAL USE ONLY)
+348|Penalty taker|ID of the player about to take a penalty - Associated with Event Type ID 4, Qualifier ID 9

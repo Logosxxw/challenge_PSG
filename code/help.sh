@@ -1,0 +1,3 @@
+# python3 make_sample_team.py --event_file '../resources/dim/event.txt' --qualifier_file '../resources/dim/qualifier.txt' --associate_file '../resources/dim/associate_use.tsv' --game_file $x --save_dir '../resources/samples/team'
+
+python3 make_sample_player.py --event_file '../resources/dim/event.txt' --qualifier_file '../resources/dim/qualifier.txt' --associate_file '../resources/dim/associate_use.tsv' --game_file '../resources/games_friendly/8_PSG_vs_Bordeaux.xml' --save_dir '../resources/samples/player' --player_file '../resources/dim/players.tsv' --use_player_file '../resources/dim/use_player'

@@ -1,0 +1,32 @@
+<!-- Copyright 2001-2016 Opta Sportsdata Ltd. All rights reserved. -->
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a01.nexus.opta.net
+     production time:    20161212T125616,607Z
+     production module:  Opta::Feed::XML::Soccer::F24
+-->
+<Games timestamp="2016-12-12T12:56:15">
+  <Game id="853304" away_team_id="1395" away_team_name="Nice" competition_id="24" competition_name="French Ligue 1" game_date="2016-12-11T19:45:00" home_team_id="149" home_team_name="Paris Saint-Germain" matchday="17" period_1_start="2016-12-11T19:48:57" period_2_start="2016-12-11T20:52:36" season_id="2016" season_name="Season 2016/2017">
+    <Event event_id="3" type_id="1" period_id="1" min="0" sec="0" player_id="40720" team_id="149" outcome="1" x="49.9" y="49.9" type="Pass" team="Paris Saint-Germain" player="Edinson Cavani, 9, Forward, Striker, Centre">
+      <Q qualifier_id="141" value="37.0" type="Pass End Y"/>
+      <Q qualifier_id="212" value="11.5" type="Length"/>
+      <Q qualifier_id="140" value="42.8" type="Pass End X"/>
+      <Q qualifier_id="56" value="Back" type="56"/>
+      <Q qualifier_id="213" value="4.0" type="Angle" degree="229.0"/>
+      <Q qualifier_id="279" value="S" type="Kick Off"/>
+    </Event>
+    <Event event_id="4" type_id="1" period_id="1" min="0" sec="2" player_id="61170" team_id="149" outcome="1" x="43.0" y="35.1" type="Pass" team="Paris Saint-Germain" player="Marco Verratti, 6, Midfielder, Central Midfielder, Centre">
+      <Q qualifier_id="56" value="Right" type="56"/>
+      <Q qualifier_id="140" value="51.9" type="Pass End X"/>
+      <Q qualifier_id="213" value="5.2" type="Angle" degree="298.0"/>
+      <Q qualifier_id="141" value="8.8" type="Pass End Y"/>
+      <Q qualifier_id="212" value="20.2" type="Length"/>
+    </Event>
+    <Event event_id="5" type_id="1" period_id="1" min="0" sec="6" player_id="46497" team_id="149" outcome="1" x="44.0" y="9.8" type="Pass" team="Paris Saint-Germain" player="Ángel Di María, 11, Midfielder, Attacking Midfielder, Left/Centre/Right">
+      <Q qualifier_id="141" value="7.6" type="Pass End Y"/>
+      <Q qualifier_id="140" value="53.3" type="Pass End X"/>
+      <Q qualifier_id="213" value="6.1" type="Angle" degree="350.0"/>
+      <Q qualifier_id="56" value="Right" type="56"/>
+      <Q qualifier_id="212" value="9.9" type="Length"/>
+    </Event>
+  </Game>
+</Games>

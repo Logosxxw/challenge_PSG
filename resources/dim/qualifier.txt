@@ -170,7 +170,6 @@ id|type|description
 184|Dissent|Card shown when a player does not obey referee instructions
 191|Off the ball foul|Foul committed by and on a player who is not in possession of the ball
 192|Block by hand|Outfield player blocks a shot with their hand
-241|Indirect|Shows if indirect foul is awarded
 242|Obstruction|Foul committed is for obstruction
 243|Unsporting Behaviour|Card shown for unsporting behaviour
 244|Not Retreating|Card shown for player not retreating at a set- piece
@@ -184,7 +183,6 @@ id|type|description
 313|Illegal Restart|Foul given for an illegal restart
 314|End of offside|Foul given for shot hitting offside player
 228|Own Shot Blocked|Player blocks an attacking shot unintentionally from their teammate
-238|Fair Play|Ball kicked out of play for injury etc
 190|From shot off target|Used with Event 10. Indicates a shot was saved by the goalkeeper but in fact the shot was going wide and not on target
 88|High claim|Event 11 Claim - Goalkeeper claims possession of a crossed ball
 89|1 on 1|When attacker was clear with no defenders between him and the goalkeeper (can be associated with 10, 11, 12, 13, 14, 15 or 16)
@@ -310,7 +308,6 @@ id|type|description
 259|Celsius degrees|The temperature
 260|Floodlight|Whether the game is floodlit
 56|56|Back, Left, Center, Right
-285|Defensive|Indicates a defensive duel
 233|Opposite related event ID|Used for any event where there is the same event for both teams with outcome 1 or 0. This relates the 2 event together, for example aerial duels
 41|Injury|Player off pitch due to injury
 304|Ball In Play|Player off pitch but ball in play

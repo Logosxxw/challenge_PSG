@@ -1,0 +1,692 @@
+jersey_num	player_id	player_name	position	real_position	real_position_side	position_use
+1	40511	Denis Petric	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+1	119744	Mathieu Michel	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	85577	Alexandre Letellier	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	174272	Anthony Mandrea	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	218123	Maxime Sivis	Defender	Unknown	Unknown	Defender-multi
+Unknown	180299	Gabriel Mutombo Kupa	Defender	Unknown	Unknown	Defender-multi
+3	58309	Yoann Andreu	Defender	Full Back	Left	Defender-side
+4	68545	Mateo Pavlovic	Defender	Central Defender	Centre	Defender-centre
+8	42416	Ismael Traoré	Defender	Central Defender	Unknown	Defender-multi
+21	93622	Pablo Martinez	Defender	Full Back	Left	Defender-side
+24	45505	Romain Thomas	Defender	Central Defender	Centre	Defender-centre
+25	57266	Abdoulaye Bamba	Defender	Full Back	Right	Defender-side
+26	213575	Mehdi Tahrat	Defender	Central Defender	Centre	Defender-centre
+28	96195	Issa Cissokho	Defender	Full Back	Right	Defender-side
+29	54518	Vincent Manceau	Defender	Full Back	Right	Defender-side
+Unknown	212600	Mathias Serin	Midfielder	Attacking Midfielder	Left/Right	Midfielder-side
+5	18574	Thomas Mangani	Midfielder	Central Midfielder	Left/Centre	Midfielder-multi
+6	15304	Grégory Bourillon	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+13	220994	Aissa Laidouni	Midfielder	Unknown	Unknown	Midfielder-multi
+15	112580	Pierrick Capelle	Midfielder	Attacking Midfielder	Left/Centre	Midfielder-multi
+17	168109	Cheikh N'Doye	Midfielder	Central Midfielder	Centre	Midfielder-centre
+18	168985	Baptiste Santamaría	Midfielder	Central Midfielder	Centre	Midfielder-centre
+20	154011	Flavien Tait	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+23	44485	Jamel Saihi	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+Unknown	52002	Goran Karanoviç	Forward	Striker	Unknown	Forward-multi
+7	193454	Karl Toko Ekambi	Forward	Striker	Centre	Forward-centre
+9	149535	Famara Diedhiou	Forward	Striker	Centre	Forward-centre
+10	66589	Gilles Sunu	Forward	Second Striker	Centre	Forward-centre
+11	66757	Dickson Nwakaeme	Forward	Striker	Centre	Forward-centre
+12	216646	Yoane Wissa	Forward	Striker	Centre	Forward-centre
+12	81118	Férébory Doré	Forward	Striker	Unknown	Forward-multi
+14	79870	Billy Ketkeophomphone	Forward	Winger	Left/Right	Forward-side
+19	195735	Nicolas Pepe	Forward	Winger	Right	Forward-side
+1	83542	Thomas Vincensini	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	44136	Jean-Louis Leca	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	110143	Paul Charruau	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	16718	Alexis Thébaux	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	218507	Fodé Camara	Defender	Full Back	Left	Defender-side
+Unknown	173242	Ismael Chester Diallo	Defender	Full Back	Left	Defender-side
+3	106884	Nicolas Saint-Ruf	Defender	Central Defender	Centre	Defender-centre
+4	50301	Abdelhamid El Kaoutari	Defender	Central Defender	Left/Centre	Defender-multi
+5	13439	Sébastien Squillaci	Defender	Central Defender	Centre	Defender-centre
+20	48469	Pierre Bengtsson	Defender	Full Back	Left	Defender-side
+23	143685	Alexander Djiku	Defender	Full Back	Left/Centre/Right	Defender-multi
+28	37755	Florian Marange	Defender	Full Back	Left	Defender-side
+29	44140	Gilles Cioni	Defender	Full Back	Right	Defender-side
+Unknown	243741	Hugo Magnetti	Midfielder	Central Midfielder	Unknown	Midfielder-multi
+Unknown	250588	Sami Ben Amar	Midfielder	Unknown	Unknown	Midfielder-multi
+2	81028	Sadio Diallo	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+7	85351	Jerson Cabral	Midfielder	Winger	Left/Right	Midfielder-side
+8	6751	Gaël Danic	Midfielder	Winger	Left	Midfielder-side
+10	176983	Lyes Houri	Midfielder	Central Midfielder	Centre	Midfielder-centre
+12	146668	Abdoulaye Keita	Midfielder	Central Midfielder	Centre	Midfielder-centre
+14	51498	Mehdi Mostefa	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+15	40808	Prince Oniangué	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+18	44138	Yannick Cahuzac	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+19	121596	Axel Ngando	Midfielder	Unknown	Unknown	Midfielder-multi
+22	114531	Farid Boulaya	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+25	215047	Lassana Coulibaly	Midfielder	Central Midfielder	Centre	Midfielder-centre
+Unknown	232170	Geoffrey Acheampong	Forward	Striker	Centre	Forward-centre
+9	102765	Florian Raspentino	Forward	Striker	Centre	Forward-centre
+27	200889	Julien Romain	Forward	Striker	Centre	Forward-centre
+Unknown	200848	Paul Bernardoni	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	6244	Cédric Carrasso	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	181439	Jerome Prior	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	433830	Over Mandanda	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+2	174892	Milan Gajic	Defender	Full Back	Right	Defender-side
+3	59340	Diego Contento	Defender	Full Back	Left	Defender-side
+4	210228	Vukasin Jovanovic	Defender	Central Defender	Centre	Defender-centre
+4	220325	Jules Koundé	Defender	Central Defender	Centre	Defender-centre
+5	82313	Nicolas Pallois	Defender	Central Defender	Left/Centre	Defender-multi
+6	71797	Igor Lewczuk	Defender	Central Defender	Left/Centre/Right	Defender-multi
+14	12488	Jérémy Toulalan	Defender	Central Defender	Centre	Defender-centre
+21	199375	Cédric Yambéré	Defender	Unknown	Unknown	Defender-multi
+21	176443	Théo Pellenard	Defender	Full Back	Left	Defender-side
+25	116504	Pablo	Defender	Central Defender	Unknown	Defender-multi
+26	424120	Olivier Verdon	Defender	Central Defender	Unknown	Defender-multi
+29	121524	Maxime Poundjé	Defender	Full Back	Left/Centre	Defender-multi
+Unknown	203151	Kevin Soni	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+8	171222	Mauro Arambarri	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+12	172870	Younes Kaabouni	Midfielder	Central Midfielder	Left/Centre/Right	Midfielder-multi
+13	48768	Younousse Sankharé	Midfielder	Central Midfielder	Centre	Midfielder-centre
+15	49878	Abdou Traoré	Midfielder	Winger	Right	Midfielder-side
+17	218005	Adam Ounas	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+18	12057	Jaroslav Plasil	Midfielder	Central Midfielder	Centre	Midfielder-centre
+23	195982	Valentín Vada	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+28	213247	Daniel Mancini	Midfielder	Central Midfielder	Unknown	Midfielder-multi
+28	244182	Zaydou Youssouf	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+Unknown	148011	Diego Rolan	Forward	Striker	Centre	Forward-centre
+Unknown	242768	Jorris Romil	Forward	Striker	Unknown	Forward-multi
+7	181092	Malcom	Forward	Winger	Left/Right	Forward-side
+7	19500	Jérémy Ménez	Forward	Second Striker	Left/Centre/Right	Forward-multi
+10	176441	Thomas Touré	Forward	Second Striker	Left/Centre/Right	Forward-multi
+11	193512	François Kamano	Forward	Winger	Left/Centre/Right	Forward-multi
+19	18575	Nicolas Maurice-Belay	Forward	Unknown	Unknown	Forward-multi
+24	167443	Gaetan Laborde	Forward	Striker	Centre	Forward-centre
+27	178492	Enzo Crivelli	Forward	Unknown	Unknown	Forward-multi
+1	9997	Rémy Vercoutre	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	218071	Louis Deschateaux	Goalkeeper	Unknown	Unknown	Goalkeeper-multi
+40	45032	Matthieu Dreyer	Goalkeeper	Unknown	Unknown	Goalkeeper-multi
+40	120770	Paul Reulet	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+3	205823	Florian Le Joncour	Defender	Central Defender	Unknown	Defender-multi
+5	12845	Alaeddine Yahia	Defender	Central Defender	Centre	Defender-centre
+13	83724	Syam Ben Youssef	Defender	Central Defender	Centre	Defender-centre
+15	50326	Emmanuel Imorou	Defender	Full Back	Left	Defender-side
+18	119691	Jordan Adeoti	Defender	Central Defender	Centre	Defender-centre
+23	37995	Mouhamadou Dabo	Defender	Full Back	Right	Defender-side
+24	203368	Frederic Guilbert	Defender	Central Defender	Centre	Defender-centre
+28	44287	Damien Da Silva	Defender	Central Defender	Unknown	Defender-multi
+29	44357	Romain Genevois	Defender	Central Defender	Right	Defender-side
+32	94181	Chaker Alhadhur	Defender	Unknown	Unknown	Defender-multi
+2	7103	Nicolas Seube	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+4	97443	Ismael Diomande	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+6	86281	Jonathan Delaplace	Midfielder	Central Midfielder	Centre/Right	Midfielder-multi
+10	6596	Steed Malbranque	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+11	42761	Vincent Bessat	Midfielder	Wing Back	Left	Midfielder-side
+17	199666	Jean-Victor Makengo	Midfielder	Unknown	Unknown	Midfielder-multi
+17	119628	Jordan N'Kololo	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+18	227763	Durel Avounou	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+19	213335	Jordan Leborgne	Midfielder	Wing Back	Right	Midfielder-side
+25	45082	Julien Féret	Midfielder	Central Midfielder	Left/Centre	Midfielder-multi
+33	215789	Valentin Voisin	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+34	89179	Jeff Louis	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+Unknown	420962	Jordan Tell	Forward	Striker	Unknown	Forward-multi
+Unknown	248687	Exauce Ngassaki	Forward	Unknown	Unknown	Forward-multi
+7	184095	Yann Karamoh	Forward	Striker	Centre	Forward-centre
+10	50996	Ronny Rodelin	Forward	Winger	Left/Right	Forward-side
+13	119768	Christian Kouakou	Forward	Striker	Centre	Forward-centre
+20	58616	Herve Bazile	Forward	Winger	Unknown	Forward-multi
+26	60319	Ivan Santini	Forward	Striker	Centre	Forward-centre
+35	154481	Pape Sane	Forward	Striker	Centre	Forward-centre
+1	75987	Benjamin Leroy	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	151065	Enzo Basilio	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	110369	Bobby Allain	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	93619	Baptiste Reynet	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+2	121111	Ádám Lang	Defender	Central Defender	Centre	Defender-centre
+3	44082	Arnold Bouka Moutou	Defender	Full Back	Left	Defender-side
+4	44312	Jordan Loties	Defender	Central Defender	Centre	Defender-centre
+5	241398	Oussama Haddadi	Defender	Full Back	Left	Defender-side
+19	228170	Valentin Rosier	Defender	Full Back	Right	Defender-side
+21	106263	Yunis Abdelhamid	Defender	Central Defender	Centre	Defender-centre
+23	100955	Vincent Rüfli	Defender	Full Back	Left/Right	Defender-side
+26	119679	Fouad Chafik	Defender	Full Back	Left/Right	Defender-side
+27	13939	Cedric Varrault	Defender	Central Defender	Left/Centre	Defender-multi
+Unknown	193425	Jessy Benet	Midfielder	Central Midfielder	Centre	Midfielder-centre
+Unknown	216702	Erwan Maury	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+3	120811	Anthony Belmonte	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+6	228169	Guillaume Sarrabayrouse	Midfielder	Unknown	Unknown	Midfielder-multi
+7	54413	Frederic Sammaritano	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+8	98746	Mehdi Abeid	Midfielder	Central Midfielder	Unknown	Midfielder-multi
+8	212325	Pierre Lees-Melou	Midfielder	Unknown	Unknown	Midfielder-multi
+10	135290	Jeremie Bela	Midfielder	Unknown	Unknown	Midfielder-multi
+14	153014	Jordan Marié	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+15	8747	Florent Balmont	Midfielder	Central Midfielder	Centre	Midfielder-centre
+20	86158	Romain Amalfitano	Midfielder	Attacking Midfielder	Centre/Right	Midfielder-multi
+22	154770	Kwon Chang-Hoon	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+24	192278	Dylan Bahamboula	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+Unknown	111911	Charly Dutournier	Forward	Striker	Centre	Forward-centre
+Unknown	208747	Mamadou Thiam	Forward	Unknown	Unknown	Forward-multi
+7	44406	Yohann Riviere	Forward	Unknown	Unknown	Forward-multi
+9	147577	Lois Diony	Forward	Striker	Centre	Forward-centre
+11	111265	Júlio Tavares	Forward	Winger	Left	Forward-side
+Unknown	44429	Johny Placide	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+1	61741	Karl-Johan Johnsson	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	212887	Theo Guivarch	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	37836	Romain Salin	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+2	129478	Jordan Ikoko	Defender	Full Back	Left/Right	Defender-side
+3	111291	Marçal	Defender	Full Back	Left	Defender-side
+4	67100	Benjamin Angoua	Defender	Central Defender	Centre	Defender-centre
+6	102744	Baissama Sankoh	Defender	Full Back	Right	Defender-side
+7	78319	Dorian Lévêque	Defender	Full Back	Left	Defender-side
+15	42714	Jérémy Sorbon	Defender	Central Defender	Centre	Defender-centre
+22	28140	Jonathan Martins Pereira	Defender	Central Defender	Centre	Defender-centre
+25	42722	Reynald Lemaître	Defender	Full Back	Left	Defender-side
+29	102739	Christophe Kerbrat	Defender	Central Defender	Centre	Defender-centre
+Unknown	249455	Yvan Inzoudine	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	423870	Matteo Ahlinvi	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+Unknown	206873	Jonathan Correia	Midfielder	Unknown	Unknown	Midfielder-multi
+5	39905	Moustapha Diallo	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+7	213940	Ludovic Blas	Midfielder	Winger	Unknown	Midfielder-multi
+8	45084	Lucas Deaux	Midfielder	Central Midfielder	Centre	Midfielder-centre
+10	89038	Nicolas Benezet	Midfielder	Winger	Left/Right	Midfielder-side
+19	55343	Yannis Salibur	Midfielder	Winger	Left	Midfielder-side
+22	12179	Étienne Didot	Midfielder	Central Midfielder	Centre	Midfielder-centre
+24	201562	Marcus Coco	Midfielder	Winger	Left/Right	Midfielder-side
+26	44100	Thibault Giresse	Midfielder	Central Midfielder	Unknown	Midfielder-multi
+27	26896	Mathieu Bodmer	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+31	220001	Jeremy Livolant	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+9	189542	Alexandre Mendy	Forward	Striker	Centre	Forward-centre
+11	49367	Sloan Privat	Forward	Striker	Centre	Forward-centre
+12	54533	Nill de Pauw	Forward	Striker	Centre	Forward-centre
+14	223169	Sullivan Martinet	Forward	Unknown	Unknown	Forward-multi
+14	172918	Karim Achahbar	Forward	Striker	Centre	Forward-centre
+23	27675	Jimmy Briand	Forward	Striker	Centre	Forward-centre
+Unknown	13262	Vincent Enyeama	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	129487	Mike Maignan	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	201559	Jean Butez	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	244753	Valentin Vanbaleghem	Defender	Unknown	Unknown	Defender-multi
+Unknown	209171	Carlens Arcus	Defender	Unknown	Unknown	Defender-multi
+Unknown	37439	Marko Basa	Defender	Central Defender	Centre	Defender-centre
+Unknown	39804	Julian Palmieri	Defender	Full Back	Left	Defender-side
+2	60121	Sébastien Corchia	Defender	Full Back	Right	Defender-side
+3	180124	Youssouf Kone	Defender	Full Back	Left	Defender-side
+3	168097	Júnior Alonso	Defender	Central Defender	Centre	Defender-centre
+4	226597	Gabriel	Defender	Central Defender	Centre	Defender-centre
+5	103155	Adama Soumaoro	Defender	Central Defender	Centre	Defender-centre
+13	80342	Stoppila Sunzu	Defender	Central Defender	Centre	Defender-centre
+18	12656	Franck Beria	Defender	Full Back	Right	Defender-side
+27	232174	Hamza Mendyl	Defender	Full Back	Left	Defender-side
+Unknown	161039	Fares Bahlouli	Midfielder	Central Midfielder	Centre	Midfielder-centre
+Unknown	213942	Alexis Araujo	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	51634	Marvin Martin	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+Unknown	83913	Éric Bautheac	Midfielder	Winger	Left/Right	Midfielder-side
+6	128348	Ibrahim Amadou	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+8	242600	Xeka	Midfielder	Central Midfielder	Centre	Midfielder-centre
+10	178003	Ricardo Kishna	Midfielder	Winger	Left/Right	Midfielder-side
+17	245634	Valere Pollet	Midfielder	Central Midfielder	Unknown	Midfielder-multi
+17	103119	Soualiho Meité	Midfielder	Central Midfielder	Centre	Midfielder-centre
+21	227127	Yves Bissouma	Midfielder	Central Midfielder	Centre	Midfielder-centre
+24	18787	Rio Mavuba	Midfielder	Central Midfielder	Centre	Midfielder-centre
+27	98788	Naim Sliti	Midfielder	Winger	Left	Midfielder-side
+29	232175	Rominigue Kouame	Midfielder	Full Back	Left	Midfielder-side
+Unknown	52635	Éder	Forward	Striker	Centre	Forward-centre
+Unknown	114534	Junior Tallo	Forward	Striker	Centre	Forward-centre
+Unknown	105718	Lenny Nangis	Forward	Unknown	Unknown	Forward-multi
+Unknown	157728	Baptiste Guillaume	Forward	Striker	Centre	Forward-centre
+7	193488	Anwar El Ghazi	Forward	Winger	Left/Right	Forward-side
+10	116628	Yassine Benzia	Forward	Attacking Midfielder	Centre	Forward-centre
+12	73879	Nicolas de Preville	Forward	Striker	Left/Centre/Right	Forward-multi
+18	230337	Lebo Mothiba	Forward	Striker	Centre	Forward-centre
+28	232176	Martin Terrier	Forward	Unknown	Unknown	Forward-multi
+Unknown	220059	Anthony Lamonge	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	54409	Paul Delecroix	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	86873	Benjamin Lecomte	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	168117	Yoann Wachter	Defender	Central Defender	Centre	Defender-centre
+2	198188	Erwin Koffi	Defender	Full Back	Right	Defender-side
+3	227217	Bradley Mazikou	Defender	Unknown	Unknown	Defender-multi
+5	54408	Zargo Toure	Defender	Central Defender	Centre	Defender-centre
+11	202967	Faiz Selemani	Defender	Full Back	Right	Defender-side
+13	37740	Michael Ciani	Defender	Central Defender	Centre	Defender-centre
+14	82725	Lindsay Rose	Defender	Central Defender	Centre	Defender-centre
+20	141017	Steven Moreira	Defender	Full Back	Right	Defender-side
+23	57129	Mathieu Peybernes	Defender	Central Defender	Centre	Defender-centre
+24	85565	Wesley Lautoa	Defender	Central Defender	Centre	Defender-centre
+25	67278	Vincent Le Goff	Defender	Full Back	Left	Defender-side
+29	57734	Pape Paye	Defender	Full Back	Right	Defender-side
+32	227300	Ibrahima Sory Conté	Defender	Central Defender	Centre	Defender-centre
+4	242166	Matteo Guendouzi	Midfielder	Central Midfielder	Centre	Midfielder-centre
+6	51524	Francois Bellugou	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+7	27674	Arnold Mvuemba	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+8	166325	Cafú	Midfielder	Central Midfielder	Centre	Midfielder-centre
+10	218357	Alexis Claude Maurice	Midfielder	Central Midfielder	Centre	Midfielder-centre
+11	202459	Marvin Gakpa	Midfielder	Unknown	Unknown	Midfielder-multi
+11	227326	Mohamed Mara	Midfielder	Winger	Left	Midfielder-side
+17	67346	Walid Mesloub	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+19	150172	Romain Philippoteaux	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+23	87215	Alhassan Wakaso	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+26	227218	Issam Ben Khemis	Midfielder	Unknown	Unknown	Midfielder-multi
+26	216227	Denis Bouanga	Midfielder	Attacking Midfielder	Left/Right	Midfielder-side
+27	151912	Jimmy Cabot	Midfielder	Winger	Right	Midfielder-side
+28	62226	Maxime Barthelme	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+31	37939	Sylvain Marveaux	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+9	82184	Majeed Waris	Forward	Striker	Centre	Forward-centre
+12	73678	Benjamin Moukandjo	Forward	Striker	Centre	Forward-centre
+14	11839	Jérémie Aliadière	Forward	Striker	Centre	Forward-centre
+22	73667	Benjamin Jeannot	Forward	Striker	Centre	Forward-centre
+28	193408	Valentin Lavigne	Forward	Striker	Centre	Forward-centre
+29	242167	Pierre-Yves Hamel	Forward	Striker	Centre	Forward-centre
+1	59957	Anthony Lopes	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	213402	Lucas Mocio	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	59956	Mathieu Gorgelin	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+2	44488	Mapou Yanga-Mbiwa	Defender	Central Defender	Centre	Defender-centre
+3	52775	Nicolas Nkoulou	Defender	Central Defender	Centre	Defender-centre
+4	54772	Rafael	Defender	Full Back	Right	Defender-side
+5	208135	Mouctar Diakhaby	Defender	Central Defender	Centre	Defender-centre
+13	38265	Christophe Jallet	Defender	Full Back	Right	Defender-side
+15	37832	Jérémy Morel	Defender	Full Back	Left	Defender-side
+23	234458	Jordy Gaspar	Defender	Full Back	Left	Defender-side
+24	173211	Emanuel Mammana	Defender	Central Defender	Centre	Defender-centre
+Unknown	202888	Dylan Mboumbouni	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	165572	Olivier Kemen	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+7	55305	Clément Grenier	Midfielder	Attacking Midfielder	Right	Midfielder-side
+8	231961	Houssem Aouar	Midfielder	Central Midfielder	Unknown	Midfielder-multi
+8	168568	Corentin Tolisso	Midfielder	Central Midfielder	Centre	Midfielder-centre
+11	115858	Rachid Ghezzal	Midfielder	Winger	Left	Midfielder-side
+12	107641	Jordan Ferri	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+14	169007	Sergi Darder	Midfielder	Central Midfielder	Centre	Midfielder-centre
+21	59963	Maxime Gonalons	Midfielder	Central Midfielder	Centre	Midfielder-centre
+28	37852	Mathieu Valbuena	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+29	203349	Lucas Tousart	Midfielder	Central Midfielder	Centre	Midfielder-centre
+31	71389	Maciej Rybus	Midfielder	Wing Back	Left	Midfielder-side
+39	219873	Romain Del Castillo	Midfielder	Unknown	Unknown	Midfielder-multi
+10	59966	Alexandre Lacazette	Forward	Striker	Centre	Forward-centre
+11	106824	Memphis Depay	Forward	Winger	Left/Right	Forward-side
+17	208556	Myziane Maolida	Forward	Striker	Centre	Forward-centre
+18	166552	Nabil Fekir	Forward	Second Striker	Left/Centre/Right	Forward-multi
+19	231747	Jean-Philippe Mateta	Forward	Striker	Unknown	Forward-multi
+22	220560	Gaetan Perrin	Forward	Striker	Unknown	Forward-multi
+27	149519	Maxwel Cornet	Forward	Second Striker	Left/Centre/Right	Forward-multi
+46	240084	Alan Dzabana	Forward	Unknown	Unknown	Forward-multi
+Unknown	107254	Julien Fabri	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+1	102836	Brice Samba	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	37769	Yohann Pelé	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	208134	Florian Escales	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	216289	Brice Nlate	Defender	Unknown	Unknown	Defender-multi
+Unknown	107259	Baptiste Aloe	Defender	Central Defender	Centre	Defender-centre
+Unknown	194142	Stephane Sparagna	Defender	Unknown	Unknown	Defender-multi
+Unknown	132227	Gaël Andonian	Defender	Full Back	Left	Defender-side
+2	109404	Hiroki Sakai	Defender	Full Back	Right	Defender-side
+3	116736	Doria	Defender	Central Defender	Left/Centre	Defender-multi
+4	103040	Karim Rekik	Defender	Central Defender	Centre	Defender-centre
+6	39294	Rolando	Defender	Central Defender	Centre	Defender-centre
+12	44324	Henri Bedimo	Defender	Full Back	Left	Defender-side
+17	102760	Bouna Sarr	Defender	Full Back	Right	Defender-side
+21	14075	Patrice Evra	Defender	Full Back	Left	Defender-side
+24	13356	Rod Fanni	Defender	Full Back	Centre/Right	Defender-multi
+25	49181	Tomas Hubocan	Defender	Central Defender	Unknown	Defender-multi
+34	202416	Alphousseyni Sane	Defender	Central Defender	Centre	Defender-centre
+4	226944	Boubacar Kamara	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+5	121117	Lucas Ocampos	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+5	28566	Abou Diaby	Midfielder	Central Midfielder	Centre	Midfielder-centre
+7	66957	Rémy Cabella	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+8	122775	Morgan Sanson	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+10	37901	Dimitri Payet	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+19	40815	William Vainqueur	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+22	56995	Grégory Sertic	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+24	169427	Saif-Eddine Khaoui	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+25	175077	Bill Poni Tuiloma	Midfielder	Central Midfielder	Centre	Midfielder-centre
+26	95434	Florian Thauvin	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+27	213965	Maxime Lopez	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+29	203325	André-Frank Zambo Anguissa	Midfielder	Central Midfielder	Centre	Midfielder-centre
+14	145212	Clinton N'Jie	Forward	Second Striker	Left/Centre	Forward-multi
+18	37998	Bafétimbi Gomis	Forward	Striker	Centre	Forward-centre
+22	185727	Aaron Leya Iseka	Forward	Striker	Centre	Forward-centre
+28	221456	Antoine Rabillard	Forward	Unknown	Unknown	Forward-multi
+32	194300	Jérémie Porsan-Clemente	Forward	Striker	Centre	Forward-centre
+1	165457	Thomas Didillon	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	19739	Eiji Kawashima	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	83280	David Oberhauser	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	242205	Lemouya Goudiaby	Defender	Central Defender	Unknown	Defender-multi
+Unknown	423869	Theodore Efouba Ayissi	Defender	Central Defender	Unknown	Defender-multi
+Unknown	219145	Oumar Gonzalez	Defender	Central Defender	Centre	Defender-centre
+Unknown	193518	Mederic Deher	Defender	Unknown	Unknown	Defender-multi
+3	221987	Matthieu Udol	Defender	Full Back	Left	Defender-side
+3	61678	Fallou Diagne	Defender	Central Defender	Centre	Defender-centre
+5	133633	Guido Milán	Defender	Central Defender	Centre	Defender-centre
+6	39490	Milan Bisevac	Defender	Central Defender	Centre	Defender-centre
+6	108988	Simon Falette	Defender	Central Defender	Centre	Defender-centre
+13	12400	Franck Signorino	Defender	Full Back	Left	Defender-side
+15	232181	Vahid Selimovic	Defender	Central Defender	Centre	Defender-centre
+22	233469	Nicolas Basin	Defender	Full Back	Left	Defender-side
+23	116692	Chris Philipps	Defender	Central Defender	Centre	Defender-centre
+25	97624	Iván Balliu	Defender	Full Back	Right	Defender-side
+28	80800	Jonathan Rivierez	Defender	Full Back	Right	Defender-side
+32	28146	Benoit Assou-Ekotto	Defender	Full Back	Left	Defender-side
+Unknown	167454	Hamza Sakhi	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+Unknown	421128	Boris Mathis	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	158771	Janis Ikaunieks	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	214255	Lucas Toussaint	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+Unknown	244490	Youssef Maziz	Midfielder	Central Midfielder	Centre	Midfielder-centre
+8	44379	Yann Jouffre	Midfielder	Winger	Right	Midfielder-side
+8	232182	Gauthier Hein	Midfielder	Winger	Right	Midfielder-side
+10	78323	Cheick Doukouré	Midfielder	Central Midfielder	Centre	Midfielder-centre
+11	124148	Opa Nguette	Midfielder	Winger	Right	Midfielder-side
+14	43455	Georges Mandjeck	Midfielder	Central Midfielder	Centre	Midfielder-centre
+18	225190	Vincent Thill	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+19	116627	Florent Mollet	Midfielder	Central Midfielder	Centre	Midfielder-centre
+20	232184	Alexis Larriere	Midfielder	Unknown	Unknown	Midfielder-multi
+22	37743	Kévin Lejeune	Midfielder	Winger	Left/Centre	Midfielder-multi
+24	37765	Renaud Cohade	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+26	232185	Ismaila Sarr	Midfielder	Winger	Left	Midfielder-side
+9	19510	Mevlüt Erdinc	Forward	Striker	Centre	Forward-centre
+15	111315	Thibaut Vion	Forward	Striker	Centre	Forward-centre
+18	33103	Cheick Diabaté	Forward	Striker	Centre	Forward-centre
+20	214254	Habib Diallo	Forward	Striker	Centre	Forward-centre
+1	60582	Danijel Subasic	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	7446	Morgan De Sanctis	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	192291	Seydou Sy	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	218389	Loic Badiashile	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	209853	Dinis Almeida	Defender	Central Defender	Centre	Defender-centre
+Unknown	422230	Kouadio Dabila	Defender	Central Defender	Centre	Defender-centre
+Unknown	49272	Elderson Echiéjilé	Defender	Full Back	Left	Defender-side
+Unknown	240132	Safwan Mbae	Defender	Central Defender	Centre	Defender-centre
+Unknown	210133	Raphael Diarra	Defender	Unknown	Unknown	Defender-multi
+5	162654	Jemerson	Defender	Central Defender	Centre	Defender-centre
+6	218796	Kevin N'Doram	Defender	Central Defender	Right	Defender-side
+6	181978	Jorge	Defender	Full Back	Left	Defender-side
+19	102747	Djibril Sidibe	Defender	Full Back	Right	Defender-side
+23	102826	Benjamin Mendy	Defender	Full Back	Left	Defender-side
+23	232191	Pierre-Daniel N'Guinda N'Diffon	Defender	Full Back	Right	Defender-side
+24	15930	Andrea Raggi	Defender	Central Defender	Left/Centre/Right	Defender-multi
+25	71403	Kamil Glik	Defender	Central Defender	Centre	Defender-centre
+34	178478	Abdou Diallo	Defender	Unknown	Unknown	Defender-multi
+36	216925	Mehdi Beneddine	Defender	Full Back	Left	Defender-side
+38	192292	Almamy Touré	Defender	Full Back	Right	Defender-side
+Unknown	219422	Yhoan Andzouana	Midfielder	Central Midfielder	Centre/Right	Midfielder-multi
+Unknown	240136	Tristan Muyumba Nkita	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+Unknown	216054	Rúben Vinagre	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	247116	Dylan Beaulieu	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+Unknown	222438	Corentin Tirard	Midfielder	Winger	Left	Midfielder-side
+2	116643	Fabinho	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+7	54930	Nabil Dirar	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+7	170137	Allan Saint-Maximin	Midfielder	Winger	Left/Centre/Right	Midfielder-multi
+7	109653	Rony Lopes	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+8	19624	João Moutinho	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+10	165809	Bernardo Silva	Midfielder	Attacking Midfielder	Left/Centre	Midfielder-multi
+11	198065	Adama Traoré	Midfielder	Central Midfielder	Centre	Midfielder-centre
+14	169102	Tiemoué Bakayoko	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+26	172987	Gabriel Boschilia	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+27	167449	Thomas Lemar	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+31	219230	Gil Dias	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+44	213967	Jonathan Mexique	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	221652	Mohamed Ilyes Chaibi	Forward	Striker	Centre	Forward-centre
+Unknown	240146	Adrien Bongiovanni	Forward	Striker	Centre	Forward-centre
+Unknown	56345	Lacina Traoré	Forward	Striker	Centre	Forward-centre
+9	48847	Radamel Falcao	Forward	Striker	Centre	Forward-centre
+10	220160	Kylian Mbappé	Forward	Striker	Centre	Forward-centre
+11	98914	Guido Carrillo	Forward	Striker	Centre	Forward-centre
+18	97041	Valère Germain	Forward	Second Striker	Centre/Right	Forward-multi
+37	240145	Irvin Cardona	Forward	Unknown	Unknown	Forward-multi
+1	9999	Laurent Pionnier	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	209218	Dimitry Bertaud	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	44476	Geoffrey Jourdren	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	86598	Jonathan Ligali	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+2	185473	Mamadou N'Diaye	Defender	Unknown	Unknown	Defender-multi
+3	38002	Daniel Congré	Defender	Central Defender	Centre	Defender-centre
+4	28136	Hilton	Defender	Central Defender	Centre	Defender-centre
+12	170443	Lukas Pokorny	Defender	Central Defender	Unknown	Defender-multi
+15	245750	Bryan Passi	Defender	Central Defender	Centre	Defender-centre
+21	57263	William Remy	Defender	Central Defender	Unknown	Defender-multi
+23	200834	Nordi Mukiele	Defender	Central Defender	Centre	Defender-centre
+24	93289	Jérôme Roussillon	Defender	Full Back	Left	Defender-side
+25	89518	Mathieu Deplagne	Defender	Full Back	Left/Right	Defender-side
+26	235862	Morgan Poaty	Defender	Central Defender	Centre	Defender-centre
+27	40682	Cédric Mongongu	Defender	Central Defender	Centre	Defender-centre
+Unknown	244181	Alexandre Llovet	Midfielder	Unknown	Unknown	Midfielder-multi
+6	37831	Joris Marveaux	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+7	72177	Paul Lasne	Midfielder	Central Midfielder	Centre	Midfielder-centre
+10	55264	Ryad Boudebouz	Midfielder	Winger	Left/Centre/Right	Midfielder-multi
+10	204454	Isaac Mbenza	Midfielder	Winger	Left/Right	Midfielder-side
+13	195430	Ellyes Skhiri	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+17	219107	Pierrick Fito	Midfielder	Unknown	Unknown	Midfielder-multi
+20	228361	Keagan Dolly	Midfielder	Winger	Left	Midfielder-side
+22	219079	Killian Sanson	Midfielder	Central Midfielder	Unknown	Midfielder-multi
+28	34392	Stéphane Sessegnon	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+11	80485	Kévin Berigaud	Forward	Striker	Centre	Forward-centre
+15	169141	Steve Mounie	Forward	Striker	Centre	Forward-centre
+19	10955	Souleymane Camara	Forward	Striker	Centre	Forward-centre
+29	216438	Casimir Ninga	Forward	Winger	Left/Centre	Forward-multi
+1	63600	Sergey Chernik	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	38816	Guy NDy Assembe	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	174598	Alexandre Menay	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+3	152337	Tobias Badila	Defender	Full Back	Left	Defender-side
+4	170034	Modou Diagne	Defender	Central Defender	Centre	Defender-centre
+5	247120	Ryan Bidounga	Defender	Central Defender	Centre	Defender-centre
+14	80799	Joffrey Cuffaut	Defender	Full Back	Right	Defender-side
+20	49169	Michael Basser Chretien	Defender	Full Back	Left/Right	Defender-side
+24	169586	Erick Cabaco	Defender	Central Defender	Centre	Defender-centre
+26	43024	Vincent Muratori	Defender	Full Back	Left	Defender-side
+28	54911	Julien Cetout	Defender	Full Back	Right	Defender-side
+5	8742	Alou Diarra	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+6	214472	Youssef Aït Bennasser	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+7	38008	Antony Robic	Midfielder	Winger	Left/Right	Midfielder-side
+8	209874	Vincent Marchetti	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+10	422474	Amine Bassi	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+13	210460	Serge N'Guessan	Midfielder	Central Midfielder	Centre	Midfielder-centre
+17	214473	Faitout Maouassa	Midfielder	Unknown	Unknown	Midfielder-multi
+18	49275	Diallo Guidileye	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+19	93498	Loïc Puyo	Midfielder	Winger	Left/Centre	Midfielder-multi
+25	9980	Benoit Pedretti	Midfielder	Central Midfielder	Centre	Midfielder-centre
+27	162315	Alexis Busin	Midfielder	Winger	Left/Right	Midfielder-side
+9	51327	Junior Dalé	Forward	Striker	Unknown	Forward-multi
+10	39379	Issiar Dia	Forward	Winger	Right	Forward-side
+11	154022	Karim Coulibaly	Forward	Winger	Left/Centre/Right	Forward-multi
+12	44314	Christophe Mandanne	Forward	Striker	Centre	Forward-centre
+14	205551	Yann Mabella	Forward	Striker	Centre	Forward-centre
+15	27670	Youssouf Hadji	Forward	Striker	Centre	Forward-centre
+23	97290	Anthony Koura	Forward	Striker	Centre	Forward-centre
+1	37838	Rémy Riou	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+1	97288	Maxime Dupé	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	216610	Alexandre Olliero	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	220110	Quentin Braat	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+2	135285	David Alcibiade	Defender	Unknown	Unknown	Defender-multi
+3	165659	Diego Carlos	Defender	Central Defender	Centre	Defender-centre
+4	33946	Oswaldo Vizcarrondo	Defender	Central Defender	Centre	Defender-centre
+5	102766	Koffi Djidji	Defender	Full Back	Left	Defender-side
+6	116536	Lucas Lima	Defender	Full Back	Left	Defender-side
+13	49381	Wilfried Moimbé	Defender	Full Back	Left	Defender-side
+15	183779	Léo Dubois	Defender	Full Back	Right	Defender-side
+25	215046	Enock Kwateng	Defender	Full Back	Unknown	Defender-multi
+26	200722	Anthony Walongwa	Defender	Central Defender	Centre	Defender-centre
+7	119735	Jules Iloki	Midfielder	Winger	Right	Midfielder-side
+8	115961	Adrien Thomasson	Midfielder	Central Midfielder	Left/Centre/Right	Midfielder-multi
+11	42518	Alexander Kacaniklic	Midfielder	Winger	Left/Right	Midfielder-side
+14	229608	Amine Harit	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+15	247693	Randal Kolo Muani	Midfielder	Unknown	Unknown	Midfielder-multi
+19	158496	Abdoulaye Touré	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+23	78638	Sérgio Oliveira	Midfielder	Winger	Right	Midfielder-side
+24	218666	Alexis Alegue	Midfielder	Winger	Left/Right	Midfielder-side
+27	42586	Guillaume Gillet	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+28	193539	Valentin Rongier	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+9	103124	Emiliano Sala	Forward	Striker	Centre	Forward-centre
+10	193409	Yacine Bammou	Forward	Striker	Centre	Forward-centre
+18	108143	Mariusz Stepinski	Forward	Striker	Centre	Forward-centre
+20	149695	Felipe Pardo	Forward	Second Striker	Left/Centre/Right	Forward-multi
+22	85416	Prejuce Nakoulma	Forward	Winger	Left/Right	Forward-side
+31	83758	Kolbeinn Sigthorsson	Forward	Striker	Centre	Forward-centre
+1	115357	Mouez Hassen	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	27663	Simon Pouplin	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	115851	Yoan Cardinale	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	121709	Walter Benítez	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+2	78275	Arnaud Souquet	Defender	Full Back	Right	Defender-side
+3	141109	Gautier Lloris	Defender	Central Defender	Centre	Defender-centre
+4	37758	Paul Baysse	Defender	Central Defender	Centre	Defender-centre
+15	232197	Patrick Burner	Defender	Full Back	Unknown	Defender-multi
+20	61739	Maxime Le Marchand	Defender	Central Defender	Unknown	Defender-multi
+21	111931	Ricardo Pereira	Defender	Full Back	Right	Defender-side
+22	244560	Romain Perraud	Defender	Full Back	Left	Defender-side
+23	204727	Malang Sarr	Defender	Central Defender	Centre	Defender-centre
+28	204120	Olivier Boscagli	Defender	Full Back	Left	Defender-side
+29	212752	Dalbert	Defender	Full Back	Left	Defender-side
+31	26894	Dante	Defender	Central Defender	Centre	Defender-centre
+Unknown	208560	Hicham Mahou	Midfielder	Winger	Right	Midfielder-side
+Unknown	37974	Mounir Obbadi	Midfielder	Central Midfielder	Centre	Midfielder-centre
+5	66959	Younès Belhanda	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+6	153649	Remi Walter	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+6	170271	Jean Michael Seri	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+11	245496	Bassem Srarfi	Midfielder	Winger	Left/Right	Midfielder-side
+12	133747	Albert Rafetraniaina	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+13	91070	Valentin Eysseric	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+19	115370	Bryan Constant	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+19	233498	Vincent Marcel	Midfielder	Winger	Left/Right	Midfielder-side
+22	193417	Arnaud Lusamba	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+23	110903	Alexy Bosetti	Midfielder	Winger	Right	Midfielder-side
+25	151873	Wylan Cyprien	Midfielder	Central Midfielder	Centre	Midfielder-centre
+26	194141	Vincent Koziello	Midfielder	Central Midfielder	Centre	Midfielder-centre
+Unknown	172841	Said Benrahma	Forward	Unknown	Unknown	Forward-multi
+9	42493	Mario Balotelli	Forward	Striker	Centre	Forward-centre
+10	83279	Mickael Le Bihan	Forward	Striker	Centre/Right	Forward-multi
+14	108168	Alassane Pléa	Forward	Striker	Unknown	Forward-multi
+22	204184	Anastasios Donis	Forward	Second Striker	Left/Centre/Right	Forward-multi
+27	221626	Dorian Caddy	Forward	Unknown	Unknown	Forward-multi
+Unknown	213199	Remy Descamps	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	84182	Alphonse Areola	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	52482	Kevin Trapp	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	21155	Salvatore Sirigu	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	164474	Youssouf Sabaly	Defender	Full Back	Right	Defender-side
+2	51090	Thiago Silva	Defender	Central Defender	Centre	Defender-centre
+3	129479	Presnel Kimpembe	Defender	Central Defender	Centre	Defender-centre
+5	116406	Marquinhos	Defender	Central Defender	Centre	Defender-centre
+12	93605	Thomas Meunier	Defender	Full Back	Unknown	Defender-multi
+17	9809	Maxwell	Defender	Full Back	Left	Defender-side
+19	80226	Serge Aurier	Defender	Full Back	Right	Defender-side
+20	89068	Layvin Kurzawa	Defender	Full Back	Left	Defender-side
+32	102660	Kevin Rimane	Defender	Unknown	Unknown	Defender-multi
+39	199663	Alec Georgen	Defender	Unknown	Unknown	Defender-multi
+Unknown	423151	Gaëtan Robail	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	172984	Gustavo Hebling	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	199672	Jonathan Ikone	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	212950	Lorenzo Callegari	Midfielder	Unknown	Unknown	Midfielder-multi
+4	73494	Grzegorz Krychowiak	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+6	61170	Marco Verratti	Midfielder	Central Midfielder	Centre	Midfielder-centre
+7	95715	Lucas Moura	Midfielder	Winger	Left/Right	Midfielder-side
+8	11527	Thiago Motta	Midfielder	Central Midfielder	Centre	Midfielder-centre
+11	46497	Ángel Di María	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+14	37971	Blaise Matuidi	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+18	200826	Giovani Lo Celso	Midfielder	Attacking Midfielder	Left/Centre	Midfielder-multi
+21	18753	Hatem Ben Arfa	Midfielder	Attacking Midfielder	Left/Centre/Right	Midfielder-multi
+23	92985	Julian Draxler	Midfielder	Attacking Midfielder	Left/Centre	Midfielder-multi
+24	213198	Christopher Nkunku	Midfielder	Winger	Unknown	Midfielder-multi
+25	120743	Adrien Rabiot	Midfielder	Central Midfielder	Centre	Midfielder-centre
+27	54782	Javier Pastore	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+28	225903	Antoine Bernede	Midfielder	Unknown	Unknown	Midfielder-multi
+29	198523	Jean-Kévin Augustin	Midfielder	Unknown	Unknown	Midfielder-multi
+Unknown	93496	Jean-Christophe Bahebeck	Forward	Striker	Left/Centre/Right	Forward-multi
+Unknown	181284	Gonçalo Guedes	Forward	Winger	Left/Right	Forward-side
+Unknown	93127	Jesé	Forward	Winger	Left/Centre	Forward-multi
+9	40720	Edinson Cavani	Forward	Striker	Centre	Forward-centre
+1	42713	Benoit Costil	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	79625	Abdoulaye Diallo	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	28549	Rais M'bolhi	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	167054	Edvinas Gertmonas	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	247439	Romain Cagnon	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	220646	Sega Coulibaly	Defender	Central Defender	Centre	Defender-centre
+Unknown	169019	Dimitri Kevin Cavaré	Defender	Unknown	Unknown	Defender-multi
+2	111002	Mehdi Zeffane	Defender	Full Back	Right	Defender-side
+4	80357	Mexer	Defender	Central Defender	Centre	Defender-centre
+5	106821	Pedro Mendes	Defender	Central Defender	Centre	Defender-centre
+5	218705	Joris Gnagnon	Defender	Central Defender	Centre	Defender-centre
+15	189791	Ramy Bensebaini	Defender	Central Defender	Centre	Defender-centre
+17	84361	Ermir Lenjani	Defender	Wing Back	Left	Defender-side
+22	6701	Sylvain Armand	Defender	Full Back	Left/Centre	Defender-multi
+24	37776	Ludovic Baal	Defender	Wing Back	Left	Defender-side
+25	189562	Afonso Figueiredo	Defender	Full Back	Unknown	Defender-multi
+26	217992	Jeremy Gelin	Defender	Central Defender	Centre	Defender-centre
+29	37938	Romain Danzé	Defender	Full Back	Right	Defender-side
+36	244754	Namakoro Diallo	Defender	Full Back	Left	Defender-side
+Unknown	194299	Anthony Ribelin	Midfielder	Winger	Left/Right	Midfielder-side
+Unknown	38438	Clément Chantôme	Midfielder	Central Midfielder	Centre	Midfielder-centre
+6	39680	Gelson Fernandes	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+10	106551	Sanjin Prcic	Midfielder	Central Midfielder	Centre	Midfielder-centre
+12	244842	James Lea Siliki	Midfielder	Central Midfielder	Centre	Midfielder-centre
+18	37962	Morgan Amalfitano	Midfielder	Central Midfielder	Centre	Midfielder-centre
+21	55948	Benjamin André	Midfielder	Central Midfielder	Centre	Midfielder-centre
+23	161472	Adrien Hunou	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+28	215755	Denis Poha	Midfielder	Central Midfielder	Centre	Midfielder-centre
+28	27669	Yoann Gourcuff	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+35	217993	Nicolas Janvier	Midfielder	Central Midfielder	Centre	Midfielder-centre
+38	221441	Sebastien Salles-Lamonge	Midfielder	Unknown	Unknown	Midfielder-multi
+39	90255	Yacouba Sylla	Midfielder	Unknown	Unknown	Midfielder-multi
+9	199734	Firmin Ndombe Mubele	Forward	Winger	Left/Centre/Right	Forward-multi
+11	161034	Wesley Said	Forward	Striker	Centre	Forward-centre
+13	42484	Giovanni Sio	Forward	Second Striker	Left/Centre/Right	Forward-multi
+14	213401	Aldo Kalulu	Forward	Striker	Centre	Forward-centre
+17	233497	Adama Diakhaby	Forward	Winger	Left	Forward-side
+34	52317	Kermit Erasmus	Forward	Second Striker	Centre	Forward-centre
+1	214042	Anthony Maisonnial	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	38314	Stéphane Ruffier	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+30	37990	Jessy Moulin	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	240185	Alexis Guendouz	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+Unknown	245742	Mickael Nade	Defender	Unknown	Unknown	Defender-multi
+Unknown	115846	Jerrold Nyemeck	Defender	Unknown	Unknown	Defender-multi
+2	58636	Kévin Théophile-Catherine	Defender	Central Defender	Centre	Defender-centre
+3	112323	Pierre-Yves Polomat	Defender	Central Defender	Left/Centre/Right	Defender-multi
+4	83577	Léo Lacroix	Defender	Central Defender	Centre	Defender-centre
+12	45136	Cheikh M'Bengue	Defender	Full Back	Left	Defender-side
+19	79237	Florentin Pogba	Defender	Central Defender	Left/Centre	Defender-multi
+24	19670	Loic Perrin	Defender	Central Defender	Centre/Right	Defender-multi
+25	83340	Kevin Malcuit	Defender	Full Back	Right	Defender-side
+29	220074	Ronael Pierre Gabriel	Defender	Full Back	Right	Defender-side
+32	115845	Benjamin Karamoko	Defender	Full Back	Right	Defender-side
+Unknown	245915	Kenny Rocha Santos	Midfielder	Central Midfielder	Left/Centre/Right	Midfielder-multi
+Unknown	241099	Rayan Souici	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+5	85548	Vincent Pajot	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+6	18635	Jérémy Clément	Midfielder	Central Midfielder	Centre	Midfielder-centre
+7	83561	Bryan Dabo	Midfielder	Central Midfielder	Centre	Midfielder-centre
+8	86446	Benjamin Corgnet	Midfielder	Central Midfielder	Centre	Midfielder-centre
+11	43521	Henri Saivet	Midfielder	Central Midfielder	Unknown	Midfielder-multi
+13	173253	Habib Maïga	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+14	96740	Jordan Veretout	Midfielder	Central Midfielder	Centre	Midfielder-centre
+15	216584	Erin Pinheiro	Midfielder	Unknown	Unknown	Midfielder-multi
+17	101494	Ole Selnaes	Midfielder	Central Midfielder	Centre	Midfielder-centre
+18	43553	Fabien Lemoine	Midfielder	Central Midfielder	Centre	Midfielder-centre
+18	235050	Arnaud Nordin	Midfielder	Winger	Left	Midfielder-side
+21	67276	Romain Hamouma	Midfielder	Winger	Left/Centre/Right	Midfielder-multi
+Unknown	204150	Dylan Saint-Louis	Forward	Second Striker	Left/Centre/Right	Forward-multi
+Unknown	136377	Jorginho	Forward	Unknown	Unknown	Forward-multi
+Unknown	422089	Lamine Ghezali	Forward	Unknown	Unknown	Forward-multi
+Unknown	115382	Neal Maupay	Forward	Striker	Centre	Forward-centre
+Unknown	221717	Hamidou Keyta	Forward	Unknown	Unknown	Forward-multi
+9	51525	Nolan Roux	Forward	Striker	Centre	Forward-centre
+14	195883	Jonathan Bamba	Forward	Striker	Left/Centre/Right	Forward-multi
+22	38261	Kévin Monnet-Paquet	Forward	Winger	Left/Centre/Right	Forward-multi
+23	63100	Alexander Søderlund	Forward	Striker	Centre	Forward-centre
+25	124182	Oussama Tannane	Forward	Winger	Right	Forward-side
+27	55711	Robert Beric	Forward	Striker	Centre	Forward-centre
+1	132197	Mauro Goicoechea	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+16	74299	Marc Vidal	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+40	204739	Alban Lafont	Goalkeeper	Goalkeeper	Unknown	Goalkeeper-multi
+2	217596	Kelvin Amian	Defender	Full Back	Right	Defender-side
+3	120773	Yrondu Musavu-King	Defender	Central Defender	Centre	Defender-centre
+5	219924	Issa Diop	Defender	Central Defender	Unknown	Defender-multi
+6	114546	Christopher Jullien	Defender	Central Defender	Centre	Defender-centre
+7	104359	Jean-Daniel Akpa Akpro	Defender	Full Back	Left/Right	Defender-side
+12	145221	Issiaga Sylla	Defender	Full Back	Left	Defender-side
+13	229605	Clement Michelin	Defender	Full Back	Right	Defender-side
+15	118910	Uros Spajic	Defender	Central Defender	Centre	Defender-centre
+20	105706	Steeve Yago	Defender	Central Defender	Centre	Defender-centre
+22	49912	Dusan Veskovac	Defender	Central Defender	Unknown	Defender-multi
+24	50351	Pavle Ninkov	Defender	Full Back	Right	Defender-side
+29	100954	François Moubandje	Defender	Full Back	Left	Defender-side
+Unknown	111678	Dominik Furman	Midfielder	Central Midfielder	Centre	Midfielder-centre
+4	60163	Tongo Doumbia	Midfielder	Defensive Midfielder	Centre	Midfielder-centre
+7	210415	Zinedine Machach	Midfielder	Central Midfielder	Unknown	Midfielder-multi
+8	219002	Dodi Lukebakio	Midfielder	Winger	Left/Right	Midfielder-side
+10	40721	Óscar Trejo	Midfielder	Attacking Midfielder	Centre	Midfielder-centre
+14	6294	Pantxi Sirieix	Midfielder	Central Midfielder	Centre	Midfielder-centre
+17	210462	Ibrahim Sangaré	Midfielder	Central Midfielder	Centre	Midfielder-centre
+19	101779	Somália	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+21	61704	Jimmy Durmaz	Midfielder	Winger	Left/Right	Midfielder-side
+23	194302	Yann Bodiger	Midfielder	Central Midfielder	Centre	Midfielder-centre
+25	168434	Jessy Pi	Midfielder	Central Midfielder	Centre	Midfielder-centre
+26	220494	Quentin Boisgard	Midfielder	Attacking Midfielder	Unknown	Midfielder-multi
+26	217597	Mathieu Cafaro	Midfielder	Unknown	Unknown	Midfielder-multi
+27	201392	Alexis Blin	Midfielder	Defensive Midfielder	Unknown	Midfielder-multi
+8	93989	Aleksandar Pesic	Forward	Unknown	Unknown	Forward-multi
+9	68690	Martin Braithwaite	Forward	Striker	Centre	Forward-centre
+10	73965	Andy Delort	Forward	Striker	Centre	Forward-centre
+11	52154	Ola Toivonen	Forward	Striker	Centre	Forward-centre
+15	126177	Corentin Jean	Forward	Striker	Centre	Forward-centre
+18	199670	Odsonne Edouard	Forward	Striker	Centre	Forward-centre
