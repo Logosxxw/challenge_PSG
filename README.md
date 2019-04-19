@@ -90,7 +90,7 @@ python3 train_player_model.py --sample_dir '../resources/samples/player' \
 --alpha_search '0.5,0'
 ```
 
-#### training next event team model (gbdt)
+#### 4.2 training next event team model (gbdt)
 
 accuracy on valid set: 78%
 
@@ -108,7 +108,7 @@ python3 train_next_team_model.py --sample_dir '../resources/samples/team' \
 --alpha_search '0.5,0'
 ```
 
-#### training next event team model (rnn)
+#### 4.3 training next event team model (rnn)
 
 accuracy on valid set: 82% (improving 4% compared to gbdt)
 
@@ -122,7 +122,7 @@ python3 train_next_team_rnn.py --sample_dir '../resources/samples/team' \
 --patience 5
 ```
 
-#### training next event x model (gbdt)
+#### 4.4 training next event x model (gbdt)
 
 mae on valid set 16.80
 
@@ -141,7 +141,7 @@ python3 train_next_xy_model.py --sample_dir '../resources/samples/team' \
 --predict_y=False
 ```
 
-#### training next event y model (gbdt)
+#### 4.5 training next event y model (gbdt)
 
 mae on valid set 24.66
 
