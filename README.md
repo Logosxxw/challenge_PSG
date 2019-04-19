@@ -2,6 +2,15 @@
 
 #### *run all scripts in the path:  challenge_PSG/code*
 
+#### packages used:
+pandas==0.23.4 
+numpy==1.15.4 
+lxml==4.3.3
+scikit-learn==0.20.3 
+xgboost==0.82 
+tensorflow==1.12.0
+absl-py==0.7.0
+
 #### 1.transform original game xml to user friendly game xml with event type and qualifier type
 
 ```bash
