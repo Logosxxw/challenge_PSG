@@ -14,7 +14,7 @@ def handle_divided_by0(x,y):
 string_param_to_num_list = lambda param, f: [f(x.strip()) for x in param.split(',')]
 
 def train_XGB(estimator, X, y, test_fold, eval_set, eval_metric, scoring, xgb_n_jobs, random_state, trees, patience, 
-objective, depth_list, gamma_list, alpha_list, refit_on_all=True):
+objective, depth_list, gamma_list, alpha_list, refit_on_all=False):
     # grid search
     result = GridSearchCV(estimator=estimator(n_estimators=trees, objective=objective, random_state=random_state, n_jobs=xgb_n_jobs), 
                         param_grid={'max_depth':depth_list, 

@@ -20,14 +20,14 @@ flags.DEFINE_string('save_dir', None, 'save_dir')
 flags.DEFINE_string('player_file', None, 'player_file')
 flags.DEFINE_string('use_player_file', None, 'use_player_file')
 
-# 生成单个球员样本
+# make one player same within 15 minutes
 def make_one_sample_player(use_half, start, end, use_time_unique, use_df, use_players_df, use_control=False):
     use_players_ct = len(use_players_df)
-    # 比赛时段
+    # period
     use_period = get_period(use_half, start)
-    # 有效控球时间
-    control_df = calculate_control_time(use_time_unique, use_df) if use_control else None # 计算成本较高，时间紧迫不使用该特征
-    # 射门统计
+    # control ball time
+    control_df = calculate_control_time(use_time_unique, use_df) if use_control else None # not use because of the high calculation cost
+    # shoot
     shoot_df = pd.DataFrame({'bigChance':[0]*use_players_ct, 'bigChance_rate':[0.0], 
     'head':[0], 'head_rate':[0.0], 
     'inside':[0], 'inside_rate':[0.0], 
@@ -39,7 +39,7 @@ def make_one_sample_player(use_half, start, end, use_time_unique, use_df, use_pl
     if len(selected)>0:
         shoot_df = selected.groupby('player_id').apply(shoot_stat)
         shoot_df = shoot_df.reset_index(level=1, drop=True)
-    # 传球统计
+    # pass
     pass_df = pd.DataFrame({'pass':[0]*use_players_ct, 'pass1_rate':[0.0], 
                      'front':[0], 'front_rate':[0.0], 'front1_rate':[0.0],
                      'key':[0], 'key_rate':[0.0],
@@ -63,10 +63,10 @@ def make_one_sample_player(use_half, start, end, use_time_unique, use_df, use_pl
     if (len(selected)>0):
         pass_df = selected.groupby('player_id').apply(pass_stat)
         pass_df = pass_df.reset_index(level=1, drop=True)
-    # 其他统计
+    # other
     other_df = use_df.groupby('player_id').apply(other_stat)
     other_df = other_df.reset_index(level=1, drop=True)
-    # 最后20个事件
+    # last 20 events
     last20_s = use_df.groupby('player_id').apply(get_last20_seq, use_period=use_period)
     last20_s = last20_s.rename('last20_list')
     # team_id
@@ -74,7 +74,7 @@ def make_one_sample_player(use_half, start, end, use_time_unique, use_df, use_pl
     team_id_s = team_id_s.rename('team_id')
     # y
     y_df = use_players_df.loc[:,['player_id', 'player_name', 'position_use']]
-    # 合并样本
+    # concat
     sample = pd.concat([pass_df, shoot_df, other_df, control_df, last20_s, team_id_s, y_df], axis=1, sort=False)
     sample = sample.fillna(0)
     sample['period'] = use_period
@@ -82,7 +82,7 @@ def make_one_sample_player(use_half, start, end, use_time_unique, use_df, use_pl
     sample['end'] = end
     return sample
 
-# 为每个半场生成样本
+# for whole half time samples
 def make_half_sample_player(use_half, game_df, use_players_all, all_players_df):
     half_df = game_df.loc[game_df.period==use_half]
     time_unique_s = half_df.groupby('time').apply(lambda df: list(df.index))

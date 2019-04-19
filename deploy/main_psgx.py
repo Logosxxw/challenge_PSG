@@ -11,6 +11,7 @@ import xgboost as xgb
 from xgboost.sklearn import XGBClassifier
 from sklearn.model_selection import StratifiedShuffleSplit, KFold, GridSearchCV, PredefinedSplit
 from sklearn.linear_model import LogisticRegression
+from tensorflow import keras
 
 EVENT_FILE = 'event.txt'
 QUALIFIER_FILE = 'qualifier.txt'
@@ -26,6 +27,9 @@ next_x_model_file = 'next_x_model.pkl'
 next_y_transformer_file = 'next_y_transformer.pkl'
 next_y_model_file = 'next_y_model.pkl'
 USE_PLAYERID = '1'
+next_team_rnn_json = 'next_team_rnn.json'
+next_team_rnn_weights = 'next_team_rnn.h5'
+next_team_tokenizer_file = 'last10_tokenizer.pkl'
 
 def get_player_sample(use_df, start, end):
     use_half = '2' if start > 45*60 else '1'
@@ -195,6 +199,11 @@ with open(next_team_transformer_file, 'rb') as handle:
     next_team_column_trans = pickle.load(handle)
 with open(next_team_model_file, 'rb') as handle:
     next_team_model = pickle.load(handle)
+with open(next_team_tokenizer_file, 'rb') as handle:
+    t = pickle.load(handle)
+json_string = open(next_team_rnn_json).read()
+model = keras.models.model_from_json(json_string)
+model.load_weights(next_team_rnn_weights)
 with open(next_x_transformer_file, 'rb') as handle:
     next_x_column_trans = pickle.load(handle)
 with open(next_x_model_file, 'rb') as handle:
@@ -229,7 +238,14 @@ def Result(xml_1):
     raw = get_team_sample(game_df, start, end)
     data = concat_home_and_away_team(raw)
     X = next_team_column_trans.transform(data)
-    pred_next_team = next_team_model.predict(X)
+    # pred_next_team = next_team_model.predict(X)
+    docs_seg = [x.split(',') for x in data.last10_list]
+    encoded_docs = t.texts_to_sequences(docs_seg)
+    vocabulary_size = len(t.word_index)+1
+    sequence_length = 10
+    padded_docs = keras.preprocessing.sequence.pad_sequences(encoded_docs, maxlen=sequence_length, padding='pre')
+    prob = model.predict(padded_docs)[0,0]
+    pred_next_team = '1' if prob>0.5 else '0'
 
     # ---xy---
     data = concat_home_and_away_xy(raw)

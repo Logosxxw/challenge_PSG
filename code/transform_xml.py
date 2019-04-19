@@ -13,7 +13,7 @@ flags.DEFINE_string('output_dir', None, '')
 DEGREE_PER_RADIANS = 57.2957795
 
 def main(_):
-    # 将球员球队读取为dict
+    # read teams and players as dict
     xml = etree.parse(FLAGS.dim_player_team)
     team_id = []
     team_name = []
@@ -42,7 +42,7 @@ def main(_):
     for i in range(len(player_id)):
         player[player_id[i]] = '%s, %s, %s, %s, %s' % (rm_Unknown(player_name[i]), rm_Unknown(jersey_num[i]), rm_Unknown(position[i]), rm_Unknown(real_position[i]), rm_Unknown(real_position_side[i]))
 
-    # 加载维表
+    # load dim
     event_df = pd.read_csv(FLAGS.dim_event, sep='|')
     event_s = pd.Series(data=event_df.type.values, index=[str(x) for x in event_df.id])
     event = event_s.to_dict()
@@ -50,13 +50,13 @@ def main(_):
     qualifier_s = pd.Series(data=qualifier_df.type.values, index=[str(x) for x in qualifier_df.id])
     qualifier = qualifier_s.to_dict()
 
-    # 读取比赛
+    # read game
     xml = etree.parse(FLAGS.game_file)
     def delete_element_attributes(element, l):
         for x in l:
             if element.get(x) is not None: del element.attrib[x]
 
-    # 遍历比赛事件并关联维表
+    # join and add feature for xml node
     game_name = ''
     for element in xml.iter(tag=etree.Element):
         if (element.tag=='Game'):
@@ -73,7 +73,7 @@ def main(_):
             if qid=='213':
                 element.set('degree', str(round(float(element.get('value')) * DEGREE_PER_RADIANS, 0)))
 
-    # 保存新的xml文件
+    # save
     with open(os.path.join(FLAGS.output_dir, game_name+'.xml'), 'w') as f:
         f.write(etree.tostring(xml, encoding='unicode', method='xml', pretty_print=True))
 
