@@ -4,7 +4,6 @@ import pickle
 import os
 from lxml import etree
 from absl import flags, logging, app
-from logos_tools import *
 from logos_opta import *
 
 # EVENT_FILE = '../resources/dim/event.txt'
@@ -21,7 +20,105 @@ flags.DEFINE_string('save_dir', None, 'save_dir')
 flags.DEFINE_string('player_file', None, 'player_file')
 flags.DEFINE_string('use_player_file', None, 'use_player_file')
 
+# 生成单个球员样本
+def make_one_sample_player(use_half, start, end, use_time_unique, use_df, use_players_df, use_control=False):
+    use_players_ct = len(use_players_df)
+    # 比赛时段
+    use_period = get_period(use_half, start)
+    # 有效控球时间
+    control_df = calculate_control_time(use_time_unique, use_df) if use_control else None # 计算成本较高，时间紧迫不使用该特征
+    # 射门统计
+    shoot_df = pd.DataFrame({'bigChance':[0]*use_players_ct, 'bigChance_rate':[0.0], 
+    'head':[0], 'head_rate':[0.0], 
+    'inside':[0], 'inside_rate':[0.0], 
+    'onTarget':[0], 'onTarget_rate':[0.0], 
+    'outside':[0], 'outside_rate':[0.0], 
+    'shoot':[0]}, index=use_players_df.index)
+    shoot_df.index.name = 'player_id'
+    selected = use_df.loc[use_df.event_type.isin(['Miss', 'Post', 'Attempt Saved', 'Goal'])]
+    if len(selected)>0:
+        shoot_df = selected.groupby('player_id').apply(shoot_stat)
+        shoot_df = shoot_df.reset_index(level=1, drop=True)
+    # 传球统计
+    pass_df = pd.DataFrame({'pass':[0]*use_players_ct, 'pass1_rate':[0.0], 
+                     'front':[0], 'front_rate':[0.0], 'front1_rate':[0.0],
+                     'key':[0], 'key_rate':[0.0],
+                     'cross':[0], 'cross_rate':[0.0], 'cross1_rate':[0.0],
+                     'through':[0], 'through_rate':[0.0], 'through1_rate':[0.0],
+                     'chipped':[0], 'chipped_rate':[0.0], 'chipped1_rate':[0.0],
+                     'forward':[0], 'forward_rate':[0.0], 'forward1_rate':[0.0],
+                     'back':[0], 'back_rate':[0.0], 'back1_rate':[0.0],
+                     'left':[0], 'left_rate':[0.0], 'left1_rate':[0.0],
+                     'right':[0], 'right_rate':[0.0], 'right1_rate':[0.0],
+                     'short':[0], 'short_rate':[0.0], 'short1_rate':[0.0],
+                     'middle':[0], 'middle_rate':[0.0], 'middle1_rate':[0.0],
+                     'long':[0], 'long_rate':[0.0], 'long1_rate':[0.0],
+                     'positionC':[0], 'positionC_rate':[0.0], 'positionC1_rate':[0.0],
+                     'positionL':[0], 'positionL_rate':[0.0], 'positionL1_rate':[0.0],
+                     'positionR':[0], 'positionR_rate':[0.0], 'positionR1_rate':[0.0],
+                     'positionB':[0], 'positionB_rate':[0.0], 'positionB1_rate':[0.0]
+                    }, index=use_players_df.index)
+    pass_df.index.name = 'player_id'
+    selected = use_df.loc[use_df.event_type=='Pass']
+    if (len(selected)>0):
+        pass_df = selected.groupby('player_id').apply(pass_stat)
+        pass_df = pass_df.reset_index(level=1, drop=True)
+    # 其他统计
+    other_df = use_df.groupby('player_id').apply(other_stat)
+    other_df = other_df.reset_index(level=1, drop=True)
+    # 最后20个事件
+    last20_s = use_df.groupby('player_id').apply(get_last20_seq, use_period=use_period)
+    last20_s = last20_s.rename('last20_list')
+    # team_id
+    team_id_s = use_df.groupby('player_id').apply(lambda df:df.team_id.iloc[0])
+    team_id_s = team_id_s.rename('team_id')
+    # y
+    y_df = use_players_df.loc[:,['player_id', 'player_name', 'position_use']]
+    # 合并样本
+    sample = pd.concat([pass_df, shoot_df, other_df, control_df, last20_s, team_id_s, y_df], axis=1, sort=False)
+    sample = sample.fillna(0)
+    sample['period'] = use_period
+    sample['start'] = start
+    sample['end'] = end
+    return sample
 
+# 为每个半场生成样本
+def make_half_sample_player(use_half, game_df, use_players_all, all_players_df):
+    half_df = game_df.loc[game_df.period==use_half]
+    time_unique_s = half_df.groupby('time').apply(lambda df: list(df.index))
+    time_unique = pd.Series(time_unique_s.index)
+    # 限定可以被循环的开始时间（在半场内至少能满15分钟）
+    end_max = time_unique.iloc[-2]
+    start_max = end_max - SECONDS_15MINUTES
+    result = []
+    time_unique_loop = time_unique.loc[time_unique<=start_max]
+    ct = len(time_unique_loop)
+    # 球员触球机会不密集，每隔10个事件采集一次
+    for i in range(0, ct, 10):
+        # print(round(i*1.0/ct, 4))
+        start = time_unique_loop.iloc[i]
+        print(start)
+        end = time_unique[time_unique <= (start+SECONDS_15MINUTES)].iloc[-1]
+        use_df = half_df.loc[(half_df.time>=start) & (half_df.time<=end)]
+        # 最后十个事件不完整，不纳入参考
+        use_df = use_df.iloc[:-10]
+        end = use_df.time.iloc[-1]
+        use_time_unique = time_unique.loc[(time_unique>=start) & (time_unique<=end)]
+        # 获取时段内的所有球员
+        all_players = set(use_df.player_id.unique())
+        # 关联需要考察的球员
+        use_players = all_players.intersection(use_players_all)
+        # 进一步缩减use_df
+        use_df = use_df.loc[use_df.player_id.isin(use_players)]
+        use_players_df = all_players_df.loc[use_players]
+        sample = make_one_sample_player(use_half, start, end, use_time_unique, use_df, use_players_df)
+        # result.append(sample)
+        try:
+            sample = make_one_sample_player(use_half, start, end, use_time_unique, use_df, use_players_df)
+            result.append(sample)
+        except:
+            print('make_one_sample_player error')
+    return pd.concat(result, axis=0, sort=False)
 
 def main(_):
     # print(FLAGS.event_file, FLAGS.qualifier_file, FLAGS.associate_file, FLAGS.game_file, FLAGS.save_dir)

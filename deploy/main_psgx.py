@@ -139,27 +139,9 @@ def get_team_sample(use_df, start, end):
     sample['start'] = start
     sample['end'] = end
     # add new features
-    data = sample
-    def get_event_use(x, i):
-        return '-'.join(x.split(',')[-i].split('-')[:2])
-    data['last1_event'] = data.last10_list.map(lambda x: get_event_use(x,1))
-    data['last2_event'] = data.last10_list.map(lambda x: get_event_use(x,2))
-    data['pass1'] = data['pass']*data['pass1_rate']
-    data['front1'] = data['front']*data['front1_rate']
-    data['defend'] = data['tackle']+data['interception']
-    data['takeon1'] = data['takeon1_rate']+data['takeon']
-    data['positionC1'] = data['positionC1_rate']*data['positionC']
-    data['positionL1'] = data['positionL1_rate']*data['positionL']
-    data['positionR1'] = data['positionR1_rate']*data['positionR']
-    data['positionB1'] = data['positionB1_rate']*data['positionB']
-    data['last_position'] = data.last_event.map(lambda x:x.split('-')[2])
-    data['position9'] = data.last10_list.map(lambda x:x.split(',')[9].split('-')[2])
-    data['position8'] = data.last10_list.map(lambda x:x.split(',')[8].split('-')[2])
-    data['position7'] = data.last10_list.map(lambda x:x.split(',')[7].split('-')[2])
-    data['position6'] = data.last10_list.map(lambda x:x.split(',')[6].split('-')[2])
-    data['position5'] = data.last10_list.map(lambda x:x.split(',')[5].split('-')[2])
+    data = add_new_features(sample)
     return data
-  
+
 def concat_home_and_away_team(data):
     # concat home and away
     self_fields = {'pass1', 'front1', 'defend', 'ballTouch', 'shoot', 'foul', 'clearance', 'takeon1',
@@ -192,7 +174,7 @@ def concat_home_and_away_xy(data):
     away_df.reset_index(drop=True, inplace=True)
     away_df.columns = away_df.columns + '_o'
     data_new = pd.concat([home_df, away_df], axis=1, sort=False)
-    return data_new.reset_index(drop=True)  
+    return data_new.reset_index(drop=True)    
 
 # load dim file
 event_df = pd.read_csv(EVENT_FILE, sep='|')
@@ -263,5 +245,5 @@ def Result(xml_1):
 
 
 
-xml = etree.parse(GAME_FILE)
-Result(xml)
+# xml = etree.parse(GAME_FILE)
+# Result(xml)
