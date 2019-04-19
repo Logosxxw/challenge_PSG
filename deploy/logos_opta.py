@@ -86,7 +86,9 @@ def qualifier_class(event, associate_dict, qualifier_dict, handle_q_type):
             return '|'.join(q_list)
     return UNK
 
+# 处理xml获取dataframe
 def parse_event(event, event_dict, qualifier_dict, associate_dict):
+    # 获取event基础信息
     period = event.get('period_id')
     minute = event.get('min')
     sec = event.get('sec')
@@ -94,14 +96,21 @@ def parse_event(event, event_dict, qualifier_dict, associate_dict):
     y = event.get('y')
     player_id = event.get('player_id')
     team_id = event.get('team_id')
+    # 获取事件类型
     event_type = event_dict.get(event.get('type_id'), UNK)
+    # 获取outcome
     outcome = event.get('outcome', UNK)
+    # 获取传球的长度分类
     length = pass_length_class(event)
+    # 获取传球的角度分类
     direction = pass_direction_class(event)
+    # 获取处理球的位置
     position = postion_class(event)
+    # 获取事件附加说明
     qualifier = qualifier_class(event, associate_dict, qualifier_dict, handle_special_q_type_team)
     return pd.DataFrame({'period':[period], 'min':minute, 'sec':sec, 'x':x, 'y':y, 'player_id':player_id, 'team_id':team_id, 'event_type':event_type, 'outcome':outcome, 'length':length, 'direction':direction, 'position':position, 'qualifier':qualifier})
 
+# 时段
 def get_period(use_half, start):
     if (use_half=='1'):
         if (start <= 17.5*60):
@@ -114,6 +123,7 @@ def get_period(use_half, start):
         else:
             return '4'
 
+# 计算有效控球时间时筛选有用的event
 def calculate_control_time_useful_df(df, is_tail):
     event_type_list = list(df.event_type)
     result = None
@@ -137,6 +147,7 @@ def calculate_control_time_useful_df(df, is_tail):
     else:
         return None
 
+# 控球时长统计
 def calculate_control_time(use_time_unique, use_df):
     control_time_dict = {'0':0, '1':0}
     for i in range(len(use_time_unique)-1):
@@ -176,20 +187,29 @@ def calculate_pass_data(df, s, total):
     return (ct, success, rate, success_rate)
 
 def pass_stat(df):
+    # 传球
     pass_ct = len(df)
     pass1_rate = len(df.loc[df.outcome=='1'])/pass_ct
+    # 前场传球
     front = calculate_pass_data(df, df.position.isin(['Center','Right', 'Left']), pass_ct)
+    # 关键传球
     key = calculate_pass_data(df, df.qualifier.str.contains('Assist'), front[0])
+    # 传中
     cross = calculate_pass_data(df, df.qualifier.str.contains('Cross'), front[0])
+    # 直塞
     through = calculate_pass_data(df, df.qualifier.str.contains('Through ball'), front[0])
+    # 高球
     chipped = calculate_pass_data(df, df.qualifier.str.contains('Chipped'), pass_ct)
+    # 前后左右
     forward = calculate_pass_data(df, df.direction=='forward', pass_ct)
     back = calculate_pass_data(df, df.direction=='back', pass_ct)
     left = calculate_pass_data(df, df.direction=='left', pass_ct)
     right = calculate_pass_data(df, df.direction=='right', pass_ct)
+    # 距离
     short = calculate_pass_data(df, df.length=='short', pass_ct)
     middle = calculate_pass_data(df, df.length=='middle', pass_ct)
     long = calculate_pass_data(df, df.length=='long', pass_ct)
+    # 位置
     positionC = calculate_pass_data(df, df.position=='Center', pass_ct)
     positionL = calculate_pass_data(df, df.position=='Left', pass_ct)
     positionR = calculate_pass_data(df, df.position=='Right', pass_ct)
@@ -220,20 +240,34 @@ def calculate_outcome_data(df, s, outcome='1'):
     return (ct, success_rate)
 
 def other_stat(df):
+    # 角球
     corner = len(df.loc[df.qualifier.str.contains('Corner taken')])
+    # 任意球
     freeKick = len(df.loc[df.qualifier.str.contains('Free kick')])
+    # 越位
     offside = len(df.loc[df.event_type=='Offside'])
+    # 封堵射门
     defBlock = len(df.loc[df.qualifier.str.contains('Def block')])
+    # 抢断
     tackle = calculate_outcome_data(df, df.event_type=='Tackle')
+    # 拦截
     interception = len(df.loc[df.event_type=='Interception'])
+    # 过人
     takeon = calculate_outcome_data(df, df.event_type=='Take On')
+    # 被过
     challenge = len(df.loc[df.event_type=='Challenge'])
+    # 糟糕的触球
     ballTouch = calculate_outcome_data(df, df.event_type=='Ball touch', '0')
+    # 解围
     clearance = len(df.loc[df.event_type=='Clearance'])
+    # 扑救
     save = len(df.loc[df.event_type=='Save'])
+    # 犯规
     foul = len(df.loc[(df.event_type=='Foul') & (df.outcome=='1')])
     fouled = len(df.loc[(df.event_type=='Foul') & (df.outcome=='0')])
+    # 黄牌
     yellow = len(df.loc[(df.event_type=='Card')&(df.qualifier.str.contains('yellow',case=False))])
+    # 红牌
     red = len(df.loc[(df.event_type=='Card')&(df.qualifier.str.contains('Red card'))])
     return pd.DataFrame({'corner':[corner], 'freeKick':freeKick, 'offside':offside, 'defBlock':defBlock, 
      'tackle':tackle[0], 'tackle1_rate':tackle[1], 'interception':interception, 
@@ -246,6 +280,7 @@ def get_last20_seq(df, use_period):
     last20_list = list(last20.event_type +'-'+ last20.position +'-'+ use_period)
     return ','.join(last20_list)
 
+# 根据xy判断区域
 def get_position_xy(x,y):
     try:
         x = float(x)
@@ -272,3 +307,36 @@ def get_position_xy(x,y):
                 return 'outofboxF'
     except:
         return ''
+
+# 削减样本防止过拟合
+def sub_sample(df, step):
+        unique_start = df.start.unique()
+        return df.loc[df.start.isin(unique_start[list(range(0, len(unique_start), step))])]
+
+def add_new_features(data):
+    def get_event_use(x, i):
+        return '-'.join(x.split(',')[-i].split('-')[:2])
+    data['last1_event'] = data.last10_list.map(lambda x: get_event_use(x,1))
+    data['last2_event'] = data.last10_list.map(lambda x: get_event_use(x,2))
+    data['pass1'] = data['pass']*data['pass1_rate']
+    data['front1'] = data['front']*data['front1_rate']
+    data['defend'] = data['tackle']+data['interception']
+    data['takeon1'] = data['takeon1_rate']+data['takeon']
+    data['positionC1'] = data['positionC1_rate']*data['positionC']
+    data['positionL1'] = data['positionL1_rate']*data['positionL']
+    data['positionR1'] = data['positionR1_rate']*data['positionR']
+    data['positionB1'] = data['positionB1_rate']*data['positionB']
+    data['last_position'] = data.last_event.map(lambda x:x.split('-')[2])
+    data['position9'] = data.last10_list.map(lambda x:x.split(',')[9].split('-')[2])
+    data['position8'] = data.last10_list.map(lambda x:x.split(',')[8].split('-')[2])
+    data['position7'] = data.last10_list.map(lambda x:x.split(',')[7].split('-')[2])
+    data['position6'] = data.last10_list.map(lambda x:x.split(',')[6].split('-')[2])
+    data['position5'] = data.last10_list.map(lambda x:x.split(',')[5].split('-')[2])
+    return data
+
+
+def get_train_test_index_from_rounds(dim_game, games_s, test_rounds):
+    games_df = pd.read_csv(dim_game)
+    test_games_df = games_df.loc[games_df.rounds.isin(test_rounds)]
+    test_games = test_games_df.rounds.astype('str')+'_'+test_games_df.homes+'_vs_'+test_games_df.aways
+    return (list(games_s[~games_s.isin(test_games)].index), list(games_s[games_s.isin(test_games)].index))
