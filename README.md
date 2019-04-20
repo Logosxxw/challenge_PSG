@@ -1,5 +1,7 @@
 # challenge_PSG
 
+#### challenge link: [Sports Analytics Challenge](https://www.agorize.com/zh/challenges/xpsg)
+
 #### *run all scripts in the path:  challenge_PSG/code*
 
 #### packages used:
